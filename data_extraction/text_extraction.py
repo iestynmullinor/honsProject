@@ -3,6 +3,9 @@ import os
 from bs4 import BeautifulSoup
 import shutil
 
+# THIS WEB SCRAPER WORKS FOR WG1, WG2, WG3, AND SYNTHESIS LONGER REPORT
+# DOES NOT WORK FOR SUMMARY OF HEADLINES
+
 
 URL = "https://www.ipcc.ch/report/ar6/syr/longer-report/"
 DIRECTORY = "/home/iestyn/honsProject/data_extraction/KB/synthesis"
