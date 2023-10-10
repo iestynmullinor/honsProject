@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import shutil
 
 
-URL = "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-6/"
-DIRECTORY = "/home/iestyn/honsProject/data_extraction/KB/wg1/chapter6/"
+URL = "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-12/"
+DIRECTORY = "/home/iestyn/honsProject/data_extraction/KB/wg1/chapter12/"
 
 # classes to search for
 class_names = [
