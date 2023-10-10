@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import shutil
 
 
-URL = "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-12/"
-DIRECTORY = "/home/iestyn/honsProject/data_extraction/KB/wg1/chapter12/"
+URL = "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-2/"
+DIRECTORY = "/home/iestyn/honsProject/data_extraction/KB/wg2/chapter2/"
 
 # classes to search for
 class_names = [
@@ -16,7 +16,7 @@ class_names = [
 sibling_names = ['h1-siblings', 'h2-siblings', 'h3-siblings', 'h4-siblings', 'h5-siblings', 'h6-siblings']
 container_names = ['h1-container', 'h2-container', 'h3-container', 'h4-container', 'h5-container', 'h6-container']
 
-bad_sections = ["References", "Acknowledgements", "Frequently Asked QuestionsExpand section"]
+bad_sections = ["References", "Acknowledgements", "Frequently Asked Questions", "Frequently Asked Questions"]
 
 def create_dir_rec(section, parent_dir, container_level):
 
@@ -36,7 +36,7 @@ def create_dir_rec(section, parent_dir, container_level):
             sub_section_name = title.get_text()
 
             # certain sections don't format well or are uselss
-            if sub_section_name not in bad_sections:
+            if not any([bad_section in sub_section_name for bad_section in bad_sections]):
 
                 # remove ones which include "Expand Section"
                 sub_section_name = sub_section_name.replace("Expand section","")
