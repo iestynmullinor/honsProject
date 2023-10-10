@@ -16,7 +16,7 @@ class_names = [
 sibling_names = ['h1-siblings', 'h2-siblings', 'h3-siblings', 'h4-siblings', 'h5-siblings', 'h6-siblings']
 container_names = ['h1-container', 'h2-container', 'h3-container', 'h4-container', 'h5-container', 'h6-container']
 
-bad_sections = ["References", "Acknowledgements", "Frequently Asked Questions"]
+bad_sections = ["References", "Acknowledgements", "Frequently Asked QuestionsExpand section"]
 
 def create_dir_rec(section, parent_dir, container_level):
 
