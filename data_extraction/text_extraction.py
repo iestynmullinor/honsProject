@@ -5,7 +5,7 @@ import shutil
 
 
 URL = "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-1/"
-DIRECTORY = "./KB/wg1/chapter1/"
+DIRECTORY = "/home/iestyn/honsProject/data_extraction/KB/wg1/chapter1/"
 
 # classes to search for
 class_names = [
