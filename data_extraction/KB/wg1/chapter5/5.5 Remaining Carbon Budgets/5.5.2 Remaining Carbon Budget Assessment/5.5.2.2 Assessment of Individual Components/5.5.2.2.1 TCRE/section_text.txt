@@ -1,0 +1,1 @@
+The first and central component for estimating remaining carbon budgets is the TCRE. Based on the assessment in Section 5.5.1.4, an assessed likely range for TCRE of 1.0°C–2.3°C per 1000 PgC with a normal distribution is used.

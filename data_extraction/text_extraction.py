@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import shutil
 
 
-URL = "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-1/"
-DIRECTORY = "/home/iestyn/honsProject/data_extraction/KB/wg1/chapter1/"
+URL = "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-6/"
+DIRECTORY = "/home/iestyn/honsProject/data_extraction/KB/wg1/chapter6/"
 
 # classes to search for
 class_names = [
@@ -40,6 +40,7 @@ def create_dir_rec(section, parent_dir, container_level):
 
                 # remove ones which include "Expand Section"
                 sub_section_name = sub_section_name.replace("Expand section","")
+                sub_section_name = sub_section_name.replace("/"," ")
 
                 # create a directory for the subsection
                 new_dir = os.path.join(parent_dir, sub_section_name)
