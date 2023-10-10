@@ -4,9 +4,135 @@ from bs4 import BeautifulSoup
 import shutil
 
 # THIS WEB SCRAPER WORKS FOR WG1, WG2, WG3, AND SYNTHESIS LONGER REPORT
-# DOES NOT WORK FOR SUMMARY OF HEADLINES
+# DOES NOT WORK FOR SUMMARY OF HEADLINES OR SUMMARY FOR POLICYMAKERS
+
+ALL_URLS = ["https://www.ipcc.ch/report/ar6/syr/longer-report/", 
+            
+"https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-1/",
+
+"https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-2/",
+
+"https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-3/",
+
+"https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-4/",
+
+"https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/",
+
+"https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-6/",
+
+"https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-7/",
+
+"https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-8/",
+
+"https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-9/",
+
+"https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-10/",
+
+"https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-11/",
+
+"https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-12/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-1/ ",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-2/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-3/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-4/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-5/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-6/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-7/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-8/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-9/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-10/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-11/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-12/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-13/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-14/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-15/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-16/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-17/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-18/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/ccp1/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/ccp2/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/ccp3/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/ccp4/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/ccp5/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/ccp6/",
+
+"https://www.ipcc.ch/report/ar6/wg2/chapter/ccp7/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-1/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-2/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-3/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-4/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-5/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-6/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-7/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-8/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-9/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-10/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-11/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-12/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-13/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-14/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-15/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-16/",
+
+"https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-17/"]
 
 
+
+
+ALL_DIRECTORIES = ["/synthesis","/wg1/chapter1","/wg1/chapter2","/wg1/chapter3","/wg1/chapter4","/wg1/chapter5",
+                   "/wg1/chapter6","/wg1/chapter7","/wg1/chapter8","/wg1/chapter9","/wg1/chapter10", "/wg1/chapter11",
+                   "/wg1/chapter12","/wg2/chapter1", "/wg2/chapter2", "/wg2/chapter3", "/wg2/chapter4", "/wg2/chapter5",
+                   "/wg2/chapter6","/wg2/chapter7","/wg2/chapter8","/wg2/chapter9","/wg2/chapter10","/wg2/chapter11",
+                   "/wg2/chapter12", "/wg2/chapter13","/wg2/chapter14","/wg2/chapter15","/wg2/chapter16","/wg2/chapter17",
+                   "/wg2/chapter18","/wg2/ccp1", "/wg2/ccp2", "/wg2/ccp3", "/wg2/ccp4", "/wg2/ccp5", "/wg2/ccp6","/wg2/ccp7",
+                   "/wg3/chapter1", "/wg3/chapter2", "/wg3/chapter3", "/wg3/chapter4", "/wg3/chapter5", "/wg3/chapter6", "/wg3/chapter7", 
+                   "/wg3/chapter8","/wg3/chapter9", "/wg3/chapter10", "/wg3/chapter11", "/wg3/chapter12","/wg3/chapter13",
+                   "/wg3/chapter14", "/wg3/chapter15", "/wg3/chapter16","/wg3/chapter17"]
+
+
+BASE_DIRECTORY = "/home/iestyn/honsProject/data_extraction/KB"
+
+#use these to just extract one page into one directory
 URL = "https://www.ipcc.ch/report/ar6/syr/longer-report/"
 DIRECTORY = "/home/iestyn/honsProject/data_extraction/KB/synthesis"
 
@@ -85,6 +211,21 @@ def clean_dirs(directory_path):
 
     os.mkdir(directory_path)
 
+# reads one chapter into directory
+def populate_chapter(url, directory):
+    clean_dirs(directory)
+    extract_chapter(url, directory)
+
 if __name__=="__main__":
-    clean_dirs(DIRECTORY)
-    extract_chapter(URL, DIRECTORY)
+    
+    #make directories if not already exist
+    if not os.path.exists(BASE_DIRECTORY + "/wg1"):
+        os.mkdir(BASE_DIRECTORY + "/wg1")
+    if not os.path.exists(BASE_DIRECTORY + "/wg2"):
+        os.mkdir(BASE_DIRECTORY + "/wg2")
+    if not os.path.exists(BASE_DIRECTORY + "/wg3"):
+        os.mkdir(BASE_DIRECTORY + "/wg3")
+
+    # READ IN EVERY PAGE    
+    for i in range(len(ALL_URLS)):
+        populate_chapter(ALL_URLS[i], BASE_DIRECTORY + ALL_DIRECTORIES[i])
