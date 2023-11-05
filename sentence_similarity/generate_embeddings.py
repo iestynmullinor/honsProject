@@ -45,8 +45,11 @@ if __name__ == "__main__":
     start = time.time()
     embeddings = get_sentence_embeddings(sentences)
     end = time.time()
-
     print("Time taken to extract sentence embeddings: ", end - start)
+
+    print("Saving embeddings...")
+    with open('sentence_similarity/embeddings.pkl', 'wb') as f:
+        pickle.dump(embeddings, f)
 
     print("building kd tree...")
     start = time.time()
