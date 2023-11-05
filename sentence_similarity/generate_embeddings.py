@@ -30,7 +30,7 @@ def get_sentence_embeddings(sentences):
     return model.encode(sentences, show_progress_bar=True, normalize_embeddings=True)
 
 
-FILE = "data_extraction/AR6_whole/ipcc_ar6.txt"
+FILE = "data_extraction/AR6_whole/AR6_whole.txt"
 
 if __name__ == "__main__":
     print("Extracting sentences from file...")
