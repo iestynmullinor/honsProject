@@ -1,2 +1,3 @@
 sentence_similarity/sentences.pkl
 sentence_similarity/embeddings.pkl
+sentence_similarity/tree.pkl
