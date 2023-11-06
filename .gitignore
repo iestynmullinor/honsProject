@@ -1,3 +1,4 @@
 sentence_similarity/sentences.pkl
 sentence_similarity/embeddings.pkl
 sentence_similarity/tree.pkl
+sentence_similarity/nn_cosine.pkl

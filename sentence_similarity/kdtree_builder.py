@@ -3,6 +3,8 @@ import pickle
 from sklearn.neighbors import KDTree
 import time
 
+# CREATES KD-TREE MODEL USING EUCLIDEAN DISTANCE
+
 # Load sentence embeddings from embeddings.pkl
 with open('sentence_similarity/embeddings.pkl', 'rb') as f:
     start = time.time()
@@ -17,5 +19,5 @@ end = time.time()
 print("Time taken to build KD-Tree: ", end - start)
 
 # Save KD-Tree as tree.pkl
-with open('tree.pkl', 'wb') as f:
+with open('sentence_similarity/tree.pkl', 'wb') as f:
     pickle.dump(tree, f)
