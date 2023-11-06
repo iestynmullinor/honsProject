@@ -18,19 +18,22 @@ model = SentenceTransformer('all-mpnet-base-v2')
 # climatebert evidence model (seems to not work)
 #sbert_model = SentenceTransformer('mwong/climatebert-base-f-fever-evidence-related')
 
-#extracts sentences from a file
+# extracts sentences from a file that are at least 7 words long and removes duplicates
 def extract_sentences(path_to_file):
     with open(path_to_file, 'r') as f:
         text = f.read()
     sentences = sent_tokenize(text)
+    sentences = list(set(sentences))  # remove duplicates
+    sentences = [s for s in sentences if len(word_tokenize(s)) >= 7]  # only include sentences with at least 7 words
     return sentences
+
 
 # returns the sentence embedding for all sentences
 def get_sentence_embeddings(sentences):
     return model.encode(sentences, show_progress_bar=True, normalize_embeddings=True)
 
 
-FILE = "data_extraction/AR6_whole/AR6_whole.txt"
+FILE = "data_extraction/AR6_whole/AR6_whole_cleaned.txt"
 
 if __name__ == "__main__":
     print("Extracting sentences from file...")
