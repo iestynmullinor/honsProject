@@ -44,6 +44,11 @@ if __name__ == "__main__":
     with open('sentence_similarity/sentences.pkl', 'wb') as f:
         pickle.dump(sentences, f)
 
+    print("writing sentences to .txt file for inspection...")
+    with open('sentence_similarity/sentences.txt', 'w') as f:
+        for s in sentences:
+            f.write(s + "\n")
+
     print("Extracting sentence embeddings...")
     start = time.time()
     embeddings = get_sentence_embeddings(sentences)
