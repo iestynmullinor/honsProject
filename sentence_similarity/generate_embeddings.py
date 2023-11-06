@@ -6,17 +6,8 @@ from sentence_transformers import SentenceTransformer
 import time
 import pickle
 from sklearn.neighbors import KDTree
+from model import MODEL as model
 
-# model being used for sentence embeddings
-
-# all mpnet model 
-model = SentenceTransformer('all-mpnet-base-v2')
-
-# climatebert base model
-#sbert_model = SentenceTransformer('climatebert/distilroberta-base-climate-f')
-
-# climatebert evidence model (seems to not work)
-#sbert_model = SentenceTransformer('mwong/climatebert-base-f-fever-evidence-related')
 
 # extracts sentences from a file that are at least 7 words long and removes duplicates
 def extract_sentences(path_to_file):
@@ -49,7 +40,7 @@ if __name__ == "__main__":
         for s in sentences:
             f.write(s + "\n")
 
-    print("Extracting sentence embeddings...")
+    print("Generating sentence embeddings...")
     start = time.time()
     embeddings = get_sentence_embeddings(sentences)
     end = time.time()
@@ -59,16 +50,8 @@ if __name__ == "__main__":
     with open('sentence_similarity/embeddings.pkl', 'wb') as f:
         pickle.dump(embeddings, f)
 
-    print("building kd tree...")
-    start = time.time()
-    # Build a KD-Tree from the normalized embeddings
-    kdtree = KDTree(embeddings, metric='cosine')
-    end = time.time()
-    print("Time taken to build kd tree: ", end - start)
-
-    print("Saving kdtree...")
-    with open('sentence_similarity/kdtree.pkl', 'wb') as f:
-        pickle.dump(kdtree, f)
+    print("Embeddings now saved in sentence_similarity/embeddings.pkl")
+    print("Remember to run kdtree_builder.py to generate the KDTree and to run nn_cosine_builder.py to generate the NN cosine data structure")
 
 
     

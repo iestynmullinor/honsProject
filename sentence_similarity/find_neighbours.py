@@ -4,6 +4,7 @@ import pickle
 from sentence_transformers import SentenceTransformer
 import time
 from sklearn.neighbors import KDTree
+import compare_query
 
 # model being used for sentence embeddings
 model = SentenceTransformer('all-mpnet-base-v2')
@@ -60,3 +61,14 @@ if __name__=="__main__":
     nearest_euclidean(input_embedding)
     end = time.time()
     print("Time taken to find 5 nearest neighbors using euclidean distance: ", end - start)
+
+    print("\n")
+
+    embeddings = pickle.load(open('sentence_similarity/embeddings.pkl', 'rb'))
+    sentences = pickle.load(open('sentence_similarity/sentences.pkl', 'rb'))
+    start = time.time()
+    # find 5 nearest neighbors to input sentence using iteration over list
+    print("Nearest neighbors using iteration over list: ")
+    compare_query.find_similar(input_sentence, embeddings, sentences)
+    end = time.time()
+    print("Time taken to find 5 nearest neighbors using iteration over list: ", end - start)

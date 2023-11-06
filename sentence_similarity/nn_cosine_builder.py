@@ -6,8 +6,6 @@ import time
 
 # CREATES NEAREST NEIGHBORS MODEL USING COSINE SIMILARITY
 
-# model being used for sentence embeddings
-model = SentenceTransformer('all-mpnet-base-v2')
 
 # load sentences
 with open('sentence_similarity/sentences.pkl', 'rb') as f:

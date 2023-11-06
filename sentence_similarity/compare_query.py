@@ -2,8 +2,7 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 import time
 import pickle
-
-model = SentenceTransformer('all-mpnet-base-v2')
+from model import MODEL as model
 
 # calculates the cosine similarity between two sentences 
 def cosine(u, v):
@@ -32,15 +31,16 @@ def get_top_5_sentences(sentences, top_5):
     return top_5_sentences
 
 
-if __name__ == "__main__":
+def find_similar(query, embeddings, sentences):
     embeddings = pickle.load(open('sentence_similarity/embeddings.pkl', 'rb'))
+    print("number of embeddings: ", len(embeddings))
     sentences = pickle.load(open('sentence_similarity/sentences.pkl', 'rb'))
-    query = input("Enter a query: ")
     start = time.time()
     query_embedding = model.encode([query])[0]
     similarities = calculate_similarity(query_embedding, embeddings)    
     top_5_index = find_index_of_top_5_sentences(similarities)
     top_5_sents = get_top_5_sentences(sentences, top_5_index)
     end = time.time()
-    print(top_5_sents)
+    for sent in top_5_sents:
+        print(sent)
     print("Time taken to find top 5 sentences: ", end - start)
