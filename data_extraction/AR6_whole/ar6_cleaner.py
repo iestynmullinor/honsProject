@@ -41,8 +41,8 @@ entire_doc = re.sub(r'Eq\.', 'Eq', entire_doc)
 # remove . from Sect.
 entire_doc = re.sub(r'Sect\.', 'Sect', entire_doc)
 
-# add a space where there is not one between a full stop and a capital letter
-entire_doc = re.sub(r'(?<=[a-z])\.(?=[A-Z])', '. ', entire_doc)
+# wherever there is a full stop followed by a capital letter, add a space after the full stop
+entire_doc = re.sub(r'\.([A-Z])', r'. \1', entire_doc)
 
 # write to file
 with open("data_extraction/AR6_whole/AR6_whole_cleaned.txt", "w") as f:

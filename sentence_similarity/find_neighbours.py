@@ -46,6 +46,8 @@ if __name__=="__main__":
     # get sentence embeddings of input sentence
     input_embedding = model.encode(input_sentence)
     
+    # only including this one for now as they all return same values every time
+
     start = time.time()
     # find 5 nearest neighbors to input sentence using cosine similarity
     print("Nearest neighbors using cosine similarity: ")
@@ -53,22 +55,22 @@ if __name__=="__main__":
     end = time.time()
     print("Time taken to find 5 nearest neighbors using cosine similarity: ", end - start)
 
-    print("\n")
+    #print("\n")
 
-    start = time.time()
+    #start = time.time()
     # find 5 nearest neighbors to input sentence using euclidean distance
-    print("Nearest neighbors using euclidean distance: ")
-    nearest_euclidean(input_embedding)
-    end = time.time()
-    print("Time taken to find 5 nearest neighbors using euclidean distance: ", end - start)
+    #print("Nearest neighbors using euclidean distance: ")
+    #nearest_euclidean(input_embedding)
+    #end = time.time()
+    #print("Time taken to find 5 nearest neighbors using euclidean distance: ", end - start)
 
-    print("\n")
+    #print("\n")
 
-    embeddings = pickle.load(open('sentence_similarity/embeddings.pkl', 'rb'))
-    sentences = pickle.load(open('sentence_similarity/sentences.pkl', 'rb'))
-    start = time.time()
+    #embeddings = pickle.load(open('sentence_similarity/embeddings.pkl', 'rb'))
+    #sentences = pickle.load(open('sentence_similarity/sentences.pkl', 'rb'))
+    #start = time.time()
     # find 5 nearest neighbors to input sentence using iteration over list
-    print("Nearest neighbors using iteration over list: ")
-    compare_query.find_similar(input_sentence, embeddings, sentences)
-    end = time.time()
-    print("Time taken to find 5 nearest neighbors using iteration over list: ", end - start)
+    #print("Nearest neighbors using iteration over list: ")
+    #compare_query.find_similar(input_sentence, embeddings, sentences)
+    #end = time.time()
+    #print("Time taken to find 5 nearest neighbors using iteration over list: ", end - start)
