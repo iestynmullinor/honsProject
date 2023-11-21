@@ -10,13 +10,18 @@ INPUT_DIRECTORY = 'data_extraction/KB'
 OUTPUT_FILE_NAME = 'sentence_similarity/data/sentence_section_pairs.txt'
 PICKLE_FILE_NAME = 'sentence_similarity/data/sentence_section_pairs.pkl'
 sentences_with_section = []
+sentence_set = set()
 
 
 def tokenize_section(section_text):
     cleaned_section = doc_cleaner.clean_section(section_text)
     sentences = sent_tokenize(cleaned_section)
-    sentences = list(set(sentences))  # remove duplicates
-    sentences = [s for s in sentences if len(word_tokenize(s)) >= 7] 
+    sentences = [s for s in sentences if len(word_tokenize(s)) >= 7 and s not in sentence_set] 
+    
+    # Add each sentence to the sentence_set
+    for sentence in sentences:
+        sentence_set.add(sentence)
+    
     return sentences
 
 

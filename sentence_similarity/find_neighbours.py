@@ -14,7 +14,7 @@ reports = {'synthesis' : 'Synthesis Report',
            'wg3' : 'Working Group 3 - Climate Change 2022: Mitigation of Climate Change'}
 
 # Load sentence_section_pairs.pkl
-with open('data/sentence_section_pairs.pkl', 'rb') as f:
+with open('sentence_similarity/data/sentence_section_pairs.pkl', 'rb') as f:
     sentence_section_pairs = pickle.load(f)
 
 # Access the loaded data
@@ -23,9 +23,9 @@ sections = [pair[1] for pair in sentence_section_pairs]
 
 def format_section(section):
     split_section = section.split('/')[1:]
-    document = split_section[0]
-    title_encoded = split_section[-1]
-    title = reports[title_encoded]
+    document_encoded = split_section[0]
+    title = split_section[-1]
+    document = reports[document_encoded]
     formatted_section = f"REPORT: {document}\nSECTION TITLE: {title}\n"
     return formatted_section
 
@@ -72,9 +72,10 @@ if __name__=="__main__":
         
         # only including this one for now as they all return same values every time
 
+        print("\n")
+        print("Potential Evidence for sentence: ", input_sentence)
         start = time.time()
         # find 5 nearest neighbors to input sentence using cosine similarity
-        print("Nearest neighbors using cosine similarity: ")
         nearest_cosine(input_embedding)
         end = time.time()
         print("Time taken to find 5 nearest neighbors using cosine similarity: ", end - start)

@@ -10,10 +10,10 @@ import time
 
 
 
-def generate_nn(embeddings, n_neighbours=5):
+def generate_nn(embeddings, n_neighbours=10):
 
     # Create a NearestNeighbors instance
-    nn = NearestNeighbors(n_neighbours, metric='cosine')
+    nn = NearestNeighbors(n_neighbors=n_neighbours, metric='cosine')
 
     # Fit the model to your data
     nn.fit(embeddings)

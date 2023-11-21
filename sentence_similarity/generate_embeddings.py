@@ -15,9 +15,6 @@ import kdtree_builder
 def get_sentence_embeddings(sentences):
     return model.encode(sentences, show_progress_bar=True, normalize_embeddings=True)
 
-
-FILE = "data_extraction/AR6_whole/AR6_whole_cleaned.txt"
-
 if __name__ == "__main__":
     print("Reading Data...")
     # Load the sentence_section_pairs.pkl file
