@@ -28,3 +28,4 @@ if __name__=="__main__":
     else:
         print(f"File {OUTPUT_FILE_NAME} not found")
     add_sections(INPUT_DIRECTORY, OUTPUT_FILE_NAME)
+
