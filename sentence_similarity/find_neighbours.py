@@ -45,17 +45,6 @@ def nearest_cosine(input_embedding):
 
     print("number of evidence sentences: ", len(indices[0]))
 
-# finds the 5 nearest neighbors to the input sentence using euclidean distance
-def nearest_euclidean(input_embedding):
-    
-    # find 5 nearest neighbors to input sentence in the kd tree
-    distances, indices = tree.query([input_embedding], k=5)
-    
-    # print the 5 nearest neighbors
-    for index in indices[0]:
-        print("EVIDENCE:", sentences[index])
-        print(format_section(sections[index]))
-        print("------------------------------------------------------------------------------------------------------------------------")
 
 if __name__=="__main__":
     # get input sentence from command line

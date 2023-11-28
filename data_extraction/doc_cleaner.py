@@ -46,6 +46,12 @@ def clean_section(section):
 
     # wherever there is a full stop followed by a capital letter, add a space after the full stop
     section = re.sub(r'\.([A-Z])([a-z ])', r'. \1\2', section)
+
+    # remove any sentences containing "Table"
+    section = re.sub(r'.*Table.*', '', section)
+
+    # remove any sentences containing "Figure"
+    section = re.sub(r'.*Figure.*', '', section)
     
     # reduce multiple consecutive spaces to a single space
     section = re.sub(r' +', ' ', section)

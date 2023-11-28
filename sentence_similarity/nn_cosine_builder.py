@@ -8,7 +8,7 @@ import time
 
 
 
-def generate_nn(embeddings, n_neighbours=10, radius=0.45):
+def generate_nn(embeddings, n_neighbours=10, radius=0.40):
 
     # Create a NearestNeighbors instance
     nn = NearestNeighbors(n_neighbors=n_neighbours, metric='cosine', radius=radius)
