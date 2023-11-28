@@ -42,5 +42,4 @@ if __name__ == "__main__":
     print("Generating Nearest Neighbors model...")
     nn_cosine_builder.generate_nn(embeddings)
 
-
     

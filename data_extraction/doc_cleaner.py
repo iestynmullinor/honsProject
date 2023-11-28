@@ -7,6 +7,10 @@ import re
 
 def clean_section(section):
 
+    # removes full stops that do not mark the end of a sentence
+    section = re.sub(r'(?<!\w)\.(?!\s|$)', '', section)
+
+
     # remove all references
     section = re.sub(r'\[.*?\]', '', section)
 
@@ -41,10 +45,7 @@ def clean_section(section):
     section = re.sub(r'Sect\.', 'Sect', section)
 
     # wherever there is a full stop followed by a capital letter, add a space after the full stop
-    section = re.sub(r'\.([A-Z])', r'. \1', section)
-
-    # remove full stops that do not have a character immediately before them
-    section = re.sub(r'(?<!\w)\.', '', section)
+    section = re.sub(r'\.([A-Z])([a-z ])', r'. \1\2', section)
     
     # reduce multiple consecutive spaces to a single space
     section = re.sub(r' +', ' ', section)
@@ -52,6 +53,7 @@ def clean_section(section):
     
 
     return section
+
 
     
 

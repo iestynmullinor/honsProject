@@ -35,13 +35,15 @@ def format_section(section):
 def nearest_cosine(input_embedding):
         
     # find 5 nearest neighbors to input sentence
-    distances, indices = nn.kneighbors([input_embedding])
+    distances, indices = nn.radius_neighbors([input_embedding])
         
     # print the 5 nearest neighbors
     for index in indices[0]:
         print("EVIDENCE:", sentences[index])
         print(format_section(sections[index]))
         print("------------------------------------------------------------------------------------------------------------------------")
+
+    print("number of evidence sentences: ", len(indices[0]))
 
 # finds the 5 nearest neighbors to the input sentence using euclidean distance
 def nearest_euclidean(input_embedding):
@@ -78,27 +80,11 @@ if __name__=="__main__":
         # find 5 nearest neighbors to input sentence using cosine similarity
         nearest_cosine(input_embedding)
         end = time.time()
-        print("Time taken to find 5 nearest neighbors using cosine similarity: ", end - start)
+        print("Time taken to find nearest neighbors: ", end - start)
         print("\n")
 
+        
 
 
-        #start = time.time()
-        #find 5 nearest neighbors to input sentence using euclidean distance
-        #print("Nearest neighbors using euclidean distance: ")
-        #nearest_euclidean(input_embedding)
-        #end = time.time()
-        #print("Time taken to find 5 nearest neighbors using euclidean distance: ", end - start)
-
-        #print("\n")
-
-        #embeddings = pickle.load(open('sentence_similarity/embeddings.pkl', 'rb'))
-        #sentences = pickle.load(open('sentence_similarity/sentences.pkl', 'rb'))
-        #start = time.time()
-        ## find 5 nearest neighbors to input sentence using iteration over list
-        #print("Nearest neighbors using iteration over list: ")
-        #compare_query.find_similar(input_sentence, embeddings, sentences)
-        #end = time.time()
-        #print("Time taken to find 5 nearest neighbors using iteration over list: ", end - start)
-
-        #print("\n")
+#The sun has gone into ‘lockdown’ which could cause freezing weather, earthquakes and famine, say scientists
+        
