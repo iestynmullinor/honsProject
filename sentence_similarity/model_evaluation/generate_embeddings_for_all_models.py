@@ -30,6 +30,7 @@ def get_sentences():
     with open('sentence_similarity/data/sentence_section_pairs.pkl', 'rb') as f:
         sentence_section_pairs = pickle.load(f)
     sentences = [pair[0] for pair in sentence_section_pairs]
+    print(f"Number of sentences: {len(sentences)}")
     return sentences
 
 def get_sentence_embeddings(sentences, model):
