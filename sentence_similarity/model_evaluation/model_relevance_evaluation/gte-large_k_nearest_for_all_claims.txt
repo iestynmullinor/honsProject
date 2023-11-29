@@ -6,7 +6,7 @@
         "The climate space of most species will shift substantially, bringing a risk of extinction.",
         "Stronger warming in the Arctic than the global average has already been observed ."
     ],
-    "The sun has gone into \u2018lockdown\u2019 which could cause freezing weather, earthquakes and famine, say scientists": [
+    "The sun has gone into lockdown which could cause freezing weather, earthquakes and famine, say scientists": [
         "The lockdowns and societal outcomes arising from the COVID-19 pandemic pose a new threat to observing systems.",
         "Finally, there are uncertainties in future solar and volcanic forcing .",
         "However, the potential effects on the climate of large volcanic eruptions and large solar variations are studied.",
@@ -48,7 +48,7 @@
         "The scope and severity of coral bleaching and mortality events have increased in recent decades , with profound implications for the recovery of coral climate archives from new and existing sites.",
         "Mass coral bleaching in the western Indian Ocean occurred in 1998, 2005, 2010 and 2015/2016 with coral cover just 30\u201340% of 1998 levels by 2016 ."
     ],
-    "it\u2019s not a pollutant that threatens human civilization.": [
+    "its not a pollutant that threatens human civilization.": [
         "Although climate-driven human mobility generally does not increase risks to peace .",
         "However, evidence does not indicate that human mobility constitutes a general risk to peace.",
         "Notably, these costs need not exceed those of more polluting alternatives .",

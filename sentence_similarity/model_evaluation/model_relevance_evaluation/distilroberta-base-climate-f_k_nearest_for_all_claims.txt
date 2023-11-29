@@ -6,7 +6,7 @@
         "Biodiversity has changed in association with ocean warming and loss of sea ice .",
         "Climate change threatens to rapidly transform unique and threatened ecosystems ."
     ],
-    "The sun has gone into \u2018lockdown\u2019 which could cause freezing weather, earthquakes and famine, say scientists": [
+    "The sun has gone into lockdown which could cause freezing weather, earthquakes and famine, say scientists": [
         "Heatwaves in 2015 and 2018 in parts of WCE and NEU caused road melting, railway asset failures and speed restrictions to reduce the likelihood of track buckling .",
         "This leads to a strong correlation between droughts and heatwaves .",
         "Increased heat and drought are causing the health and abundance of succulent species to decline .",
@@ -48,7 +48,7 @@
         "The World Heritage listed Kakadu National Park in Australia is projected to experience increasing severity of cyclones , and sea level rise and Indigenous rock art .",
         "Also, scientific evidence since AR5 has confirmed that tropical corals are presently at high risk ."
     ],
-    "it\u2019s not a pollutant that threatens human civilization.": [
+    "its not a pollutant that threatens human civilization.": [
         "Yet, climate change is only one driver.",
         "Hydrogen is considered a modern and clean technology, but people also have safety concerns.",
         "However, it does not mean that disruption of trade would reduce global emissions.",

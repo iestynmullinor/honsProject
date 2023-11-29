@@ -6,7 +6,7 @@
         "Polar settlements are at significant risk from climate change through shoreline erosion, permafrost thaw and flooding .",
         "Warming and exacerbating the incidence and impact of dead zones ."
     ],
-    "The sun has gone into \u2018lockdown\u2019 which could cause freezing weather, earthquakes and famine, say scientists": [
+    "The sun has gone into lockdown which could cause freezing weather, earthquakes and famine, say scientists": [
         "The lockdowns and societal outcomes arising from the COVID-19 pandemic pose a new threat to observing systems.",
         "Pest and disease outbreaks in both crops and livestock due to climate change .",
         "Marine heatwaves , affecting resources like copepods and coral reefs .",
@@ -48,7 +48,7 @@
         "Extreme climatic events in Australia from 2011 to 2017 led to abrupt and extensive mortality of key habitat-forming organisms \u2014 corals, kelps, seagrasses and mangroves \u2014 along over 45% of the continental coastline of Australia In 2016 and 2017, the GBR experienced consecutive occurrences of the most severe coral bleaching in recorded history .",
         "Mass coral bleaching in the western Indian Ocean occurred in 1998, 2005, 2010 and 2015/2016 with coral cover just 30\u201340% of 1998 levels by 2016 ."
     ],
-    "it\u2019s not a pollutant that threatens human civilization.": [
+    "its not a pollutant that threatens human civilization.": [
         "Apart from land subsidence from urbanisation .",
         "Carbon-heavy consumption patterns have become the norm only in part because we\u2019re not charged for environmental damage we cause .",
         "There is high confidence that global CO burden is declining since 2000.",

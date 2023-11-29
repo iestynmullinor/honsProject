@@ -6,7 +6,7 @@
         "This will be the case even if global warming is stabilized at 1.5\u00b0C.",
         "Climate change is a major driver of species extinction and terrestrial and freshwater ecosystems destruction ."
     ],
-    "The sun has gone into \u2018lockdown\u2019 which could cause freezing weather, earthquakes and famine, say scientists": [
+    "The sun has gone into lockdown which could cause freezing weather, earthquakes and famine, say scientists": [
         "The lockdowns and societal outcomes arising from the COVID-19 pandemic pose a new threat to observing systems.",
         "This extreme drought also caused an increase in the occurrence and spread of fires in the basin .",
         "Under continued climate change, increased temperature, aridity, drought, wildfire .",
@@ -48,7 +48,7 @@
         "In the 1990s when global warming was around 0.7\u00b0C large-scale coral reef bleaching also became apparent ; however, there is low agreement on the nature of the thresholds and the associated tipping points.",
         "In the Great Barrier Reef, Australia sea level rise and sea level global temperature warming affects fisheries\u2019 productivity and tourism ."
     ],
-    "it\u2019s not a pollutant that threatens human civilization.": [
+    "its not a pollutant that threatens human civilization.": [
         "The pollutants that are entrained and ingested or inhaled closely link to the land management strategies in source areas.",
         "Detailed studies on the innovation effects of national pollutant .",
         "A major pending environmental issue is air pollution; a high level of pollutants affects the city in general and especially the most vulnerable groups .",

@@ -6,7 +6,7 @@
         "In some cases, a warmer climate could lead to extinction of species.",
         "Polar settlements are at significant risk from climate change through shoreline erosion, permafrost thaw and flooding ."
     ],
-    "The sun has gone into \u2018lockdown\u2019 which could cause freezing weather, earthquakes and famine, say scientists": [
+    "The sun has gone into lockdown which could cause freezing weather, earthquakes and famine, say scientists": [
         "Finally, there are uncertainties in future solar and volcanic forcing .",
         "However, the potential effects on the climate of large volcanic eruptions and large solar variations are studied.",
         "In this way, blocking can also be associated with extreme events such as heavy precipitation , drought and heatwaves .",
@@ -48,7 +48,7 @@
         "While coral bleaching is a visible symptom of heat stress, warming has also induced restructuring of associated fish and invertebrate communities in the Great Barrier Reef Although the number of coral species that are both exposed and vulnerable to climate hazards is greatest in the central Indo-Pacific, the proportion of corals at risk is greater in the lower diversity Caribbean hotspots .",
         "Mass coral bleaching in the western Indian Ocean occurred in 1998, 2005, 2010 and 2015/2016 with coral cover just 30\u201340% of 1998 levels by 2016 ."
     ],
-    "it\u2019s not a pollutant that threatens human civilization.": [
+    "its not a pollutant that threatens human civilization.": [
         "However, it does not mean that disruption of trade would reduce global emissions.",
         "Notably, these costs need not exceed those of more polluting alternatives .",
         "They are not contradictory since they are attributable to different mechanisms (primarily aerosols and greenhouse gases, respectively).",

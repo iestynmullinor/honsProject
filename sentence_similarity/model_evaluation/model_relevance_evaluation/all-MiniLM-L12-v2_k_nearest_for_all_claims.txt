@@ -6,7 +6,7 @@
         "Climate change is a major driver of species extinction and terrestrial and freshwater ecosystems destruction .",
         "In some cases, a warmer climate could lead to extinction of species."
     ],
-    "The sun has gone into \u2018lockdown\u2019 which could cause freezing weather, earthquakes and famine, say scientists": [
+    "The sun has gone into lockdown which could cause freezing weather, earthquakes and famine, say scientists": [
         "Data from field campaigns suggest that a \u2018suppression of cooling\u2019 can explain the observed warming .",
         "Other potential mechanisms are poor harvests from droughts or supply interruptions from extreme weather events leading to undernutrition among young children, negatively affecting cognitive development and schooling potential More research is needed on climate change impacts on education in Africa.",
         "New evidence confirms that climate change, including extreme weather events , superimposed on anthropogenic disturbances .",
@@ -48,7 +48,7 @@
         "Extreme climatic events in Australia from 2011 to 2017 led to abrupt and extensive mortality of key habitat-forming organisms \u2014 corals, kelps, seagrasses and mangroves \u2014 along over 45% of the continental coastline of Australia In 2016 and 2017, the GBR experienced consecutive occurrences of the most severe coral bleaching in recorded history .",
         "In the 1990s when global warming was around 0.7\u00b0C large-scale coral reef bleaching also became apparent ; however, there is low agreement on the nature of the thresholds and the associated tipping points."
     ],
-    "it\u2019s not a pollutant that threatens human civilization.": [
+    "its not a pollutant that threatens human civilization.": [
         "The safety challenges arise from contamination caused by increased prevalence of pathogens, HAB and toxic inorganic bioaccumulation , with significant implications for human health (Section 5.12.4)Food security and healthy balanced diets will also be undermined by reduced livelihoods and health of people in agriculture and food-related sectors (Sections 5.12.3, 5.12.4), diminished ecosystem services provided by pollinators, the soil biome (Section 5.4.3) and water systems, and climate-mitigation related policies that solely focus on reducing GHG emissions without considering their potential to increase competition with food production for scarce land and water (Section 5.13.3).",
         "Detailed studies on the innovation effects of national pollutant .",
         "Carbon-heavy consumption patterns have become the norm only in part because we\u2019re not charged for environmental damage we cause .",

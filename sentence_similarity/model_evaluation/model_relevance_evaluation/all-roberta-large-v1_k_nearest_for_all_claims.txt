@@ -6,7 +6,7 @@
         "The North American Arctic is warming at nearly three times the global average, creating a cascading web of local, regional and global impacts within and beyond polar regions.",
         "In some cases, a warmer climate could lead to extinction of species."
     ],
-    "The sun has gone into \u2018lockdown\u2019 which could cause freezing weather, earthquakes and famine, say scientists": [
+    "The sun has gone into lockdown which could cause freezing weather, earthquakes and famine, say scientists": [
         "Changes in solar radiation as a consequence of solar dimming and brightening may affect trends .",
         "Finally, there are uncertainties in future solar and volcanic forcing .",
         "The AR5 reported pronounced changes in multi-decadal records of in situ observations of surface solar radiation, including a widespread decline between the 1950s and 1980s, known as \u2018global dimming\u2019, and a partial recovery thereafter, termed \u2018brightening\u2019 Section 12.4).",
@@ -48,7 +48,7 @@
         "Over 90% of east African coral reefs are projected to be destroyed by bleaching at 2\u00b0C of global warming .",
         "Australia\u2019s Great Barrier Reef ."
     ],
-    "it\u2019s not a pollutant that threatens human civilization.": [
+    "its not a pollutant that threatens human civilization.": [
         "A major pending environmental issue is air pollution; a high level of pollutants affects the city in general and especially the most vulnerable groups .",
         "Anthropogenic climate change poses risks to many human and ecological systems.",
         "Not all emissions can be avoided.",

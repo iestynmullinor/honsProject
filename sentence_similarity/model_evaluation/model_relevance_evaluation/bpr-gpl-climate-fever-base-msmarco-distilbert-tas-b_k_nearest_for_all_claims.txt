@@ -6,7 +6,7 @@
         "Reductions of winter severity attributed to anthropogenic climate change are increasing winter algal biomass, and motile and phototropic species, at the expense of mixotrophic species Tropical lakes are prone to loss of deep-water oxygen due to lake warming, with negative consequences for their fisheries and their biodiversity .",
         "In some cases, a warmer climate could lead to extinction of species."
     ],
-    "The sun has gone into \u2018lockdown\u2019 which could cause freezing weather, earthquakes and famine, say scientists": [
+    "The sun has gone into lockdown which could cause freezing weather, earthquakes and famine, say scientists": [
         "Freezing rain and ice storms can be treacherous for road and air travel , and can knock down power and telecommunication lines if ice accumulation is high .",
         "Freezing rain is also a risk to urban populations and infrastructure.",
         "Power outages triggered by floods or droughts have also been found to have substantial health implications, particularly among low-income populations , and shown to impede disaster recovery efforts and severely disrupt local economies .",
@@ -48,7 +48,7 @@
         "Extreme climatic events in Australia from 2011 to 2017 led to abrupt and extensive mortality of key habitat-forming organisms \u2014 corals, kelps, seagrasses and mangroves \u2014 along over 45% of the continental coastline of Australia In 2016 and 2017, the GBR experienced consecutive occurrences of the most severe coral bleaching in recorded history .",
         "Australia\u2019s Great Barrier Reef ."
     ],
-    "it\u2019s not a pollutant that threatens human civilization.": [
+    "its not a pollutant that threatens human civilization.": [
         "It is not just climate impacts that threaten the enjoyment of human rights but also the mitigation responses to climate change that affect human rights .",
         "Pollinators are also declining due to lack of suitable habitat, pollution, pesticides, pathogens and competing invasive alien species Projected climate impacts on pollinators show mixed responses across Europe but are greater under 3\u00b0C GWL .",
         "Droughts are among the natural hazards with the highest adverse impacts on human populations .",

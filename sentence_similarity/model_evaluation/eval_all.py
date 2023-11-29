@@ -5,6 +5,8 @@ from sklearn.neighbors import NearestNeighbors
 RADIUS = 0.45
 SEARCH_METRICS = False
 RELEVANCE_TEST = True
+NO_CLAIMS = 10
+K = 5
 
 MODEL_NAMES = ['all-mpnet-base-v2', 
           'climatebert/distilroberta-base-climate-f', 
@@ -118,7 +120,7 @@ def get_k_nearest_for_all_claims(nn, claims, cf_embeddings):
 
 
 # generates nearest neighbours model for a model
-def generate_nn(embeddings, n_neighbours=5, radius=RADIUS):
+def generate_nn(embeddings, n_neighbours=K, radius=RADIUS):
     print("Generating Nearest Neighbors model...")
     # Create a NearestNeighbors instance
     nn = NearestNeighbors(n_neighbors=n_neighbours, metric='cosine', radius=radius)
@@ -161,7 +163,7 @@ if __name__=="__main__":
             print("Generating k nearest neighbours for first 10 claims...")
             # writes the 5 nearest neighbours for first 10 claims to a text file for manual evaluation
 
-            k_nearest_for_all_claims = get_k_nearest_for_all_claims(nn, CLIMATE_FEVER_CLAIMS[:10], cf_embeddings[:10])
+            k_nearest_for_all_claims = get_k_nearest_for_all_claims(nn, CLIMATE_FEVER_CLAIMS[:NO_CLAIMS], cf_embeddings[:NO_CLAIMS])
             k_nearest_for_all_claims_str = json.dumps(k_nearest_for_all_claims, indent=4)
             with open(f'sentence_similarity/model_evaluation/model_relevance_evaluation/{generic_name}_k_nearest_for_all_claims.txt', 'w') as f:
                 f.write(k_nearest_for_all_claims_str)

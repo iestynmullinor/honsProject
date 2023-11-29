@@ -6,7 +6,7 @@
         "Under 3.2\u00b0C warming, 49% of insects, 44% of plants and 26% of vertebrates are projected to be at risk of extinction.",
         "The North American Arctic is warming at nearly three times the global average, creating a cascading web of local, regional and global impacts within and beyond polar regions."
     ],
-    "The sun has gone into \u2018lockdown\u2019 which could cause freezing weather, earthquakes and famine, say scientists": [
+    "The sun has gone into lockdown which could cause freezing weather, earthquakes and famine, say scientists": [
         "In summary, since AR5, multi-decadal decreasing and increasing trends in surface solar radiation of up to several percent per decade have been detected at many more locations, even in remote areas.",
         "The AR5 reported pronounced changes in multi-decadal records of in situ observations of surface solar radiation, including a widespread decline between the 1950s and 1980s, known as \u2018global dimming\u2019, and a partial recovery thereafter, termed \u2018brightening\u2019 Section 12.4).",
         "The range of insolation averaged over boreal summer at 65\u00b0N was about 83 W m\u22122 during the past million years, and 3.2 W m\u22122 during the past millennium, but there was no substantial effect upon global average radiative forcing , and shows that solar activity during the second half of the 20th century was in the upper decile of the range.",
@@ -48,7 +48,7 @@
         "Mass coral bleaching in the western Indian Ocean occurred in 1998, 2005, 2010 and 2015/2016 with coral cover just 30\u201340% of 1998 levels by 2016 .",
         "The shift of thousands of species from equatorial latitudes since the 1950s has been attributed to climate warming Climate change-related hazards, particularly marine heat events, have caused widespread coral bleaching and mass mortalities as the time between consecutive bleaching events decreases ."
     ],
-    "it\u2019s not a pollutant that threatens human civilization.": [
+    "its not a pollutant that threatens human civilization.": [
         "Increasing economic inequality globally has given rise to concern that unequal societies may be more likely to pollute and degrade their environments .",
         "Climate change poses risks to peace .",
         "However, it does not mean that disruption of trade would reduce global emissions.",

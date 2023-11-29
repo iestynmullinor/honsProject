@@ -6,7 +6,7 @@
         "As a result, keeping a cooler average global temperature will lead to lower extinction risks.",
         "Hence, mitigation of rapid warming in the Arctic has been subject to an increasing number of studies ."
     ],
-    "The sun has gone into \u2018lockdown\u2019 which could cause freezing weather, earthquakes and famine, say scientists": [
+    "The sun has gone into lockdown which could cause freezing weather, earthquakes and famine, say scientists": [
         "Further, earthen construction is being threatened by extreme climatic variability and changing climate that exacerbates decay .",
         "In some cases, a warmer climate could lead to extinction of species.",
         "This will be the case even if global warming is stabilized at 1.5\u00b0C.",
@@ -48,7 +48,7 @@
         "Over 90% of east African coral reefs are projected to be destroyed by bleaching at 2\u00b0C of global warming .",
         "Global projections suggest that disease is as likely to cause coral mortality as bleaching in the coming decades at many localities, with effects occurring earlier at sites in the Caribbean compared to the Pacific and Indian oceans."
     ],
-    "it\u2019s not a pollutant that threatens human civilization.": [
+    "its not a pollutant that threatens human civilization.": [
         "Air pollution is already one of the biggest public health concerns in Europe: in 2016, roughly 412,000 people died prematurely due to long-term exposure to ambient PM2.5, 71,000 due to NO2 and more than 15,000 premature mortalities occurred due to near-surface ozone .",
         "Detailed studies on the innovation effects of national pollutant .",
         "Anthropogenic climate change poses risks to many human and ecological systems.",
