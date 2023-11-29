@@ -15,6 +15,17 @@ MODEL_NAMES = ['all-mpnet-base-v2',
           'intfloat/e5-large-v2',
           'thenlper/gte-large']
 
+MODEL_NAMES_WITHOUT_DIR = ['all-mpnet-base-v2', 
+          'distilroberta-base-climate-f', 
+          'all-MiniLM-L12-v2',
+          'all-roberta-large-v1',
+          'bge-base-en-v1.5',
+          'all-MiniLM-L6-v2',
+          'climate-fever-msmarco-distilbert-gpl', #sentence transformers version of climate-bert
+          'bpr-gpl-climate-fever-base-msmarco-distilbert-tas-b',
+          'e5-large-v2',
+          'gte-large']
+
 EMBEDDINGS_NAMES = ['MODEL_all-mpnet-base-v2_EMBEDDINGS.pkl', 
           'MODEL_distilroberta-base-climate-f_EMBEDDINGS.pkl', 
           'MODEL_all-MiniLM-L12-v2_EMBEDDINGS.pkl',
@@ -101,16 +112,6 @@ def get_k_nearest_for_all_claims(nn, claims, cf_embeddings):
         k_nearest_for_all_claims[claim] = get_k_nearest_for_claim(nn, claim_embedding)
     return k_nearest_for_all_claims
 
-# generates climate_fever claims embeddings for a model
-def generate_claim_embeddings(model_name):
-    print(f"Generating embeddings for {model_name}")
-    model = SentenceTransformer(model_name)
-    cf_embeddings = model.encode(CLIMATE_FEVER_CLAIMS, show_progress_bar=True, normalize_embeddings=True)
-    dummy_embeddings = model.encode(DUMMY_CLAIMS, show_progress_bar=True, normalize_embeddings=True)
-    return cf_embeddings, dummy_embeddings
-
-
-
 
 # generates nearest neighbours model for a model
 def generate_nn(embeddings, n_neighbours=5, radius=RADIUS):
@@ -122,14 +123,18 @@ def generate_nn(embeddings, n_neighbours=5, radius=RADIUS):
     return nn
 
 if __name__=="__main__":
-    for model_name, embeddings_name in zip(MODEL_NAMES, EMBEDDINGS_NAMES):
+    for model_name, embeddings_name, generic_name in zip(MODEL_NAMES, EMBEDDINGS_NAMES, MODEL_NAMES_WITHOUT_DIR):
 
         print(f"Generating metrics for {model_name}")
         with open(f'sentence_similarity/model_evaluation/model_embeddings/{embeddings_name}', 'rb') as f:
             embeddings = pickle.load(f)
 
         
-        cf_embeddings, dummy_embeddings = generate_claim_embeddings(model_name)
+        with open(f'sentence_similarity/model_evaluation/climate_fever_embeddings/MODEL_{generic_name}_CLIMATE_FEVER_EMBEDDINGS.pkl', 'rb') as f:
+            cf_embeddings = pickle.load(f)
+
+        with open(f'sentence_similarity/model_evaluation/dummy_embeddings/MODEL_{generic_name}_DUMMY_EMBEDDINGS.pkl', 'rb') as f:
+            dummy_embeddings = pickle.load(f)
 
         nn = generate_nn(embeddings)
 
