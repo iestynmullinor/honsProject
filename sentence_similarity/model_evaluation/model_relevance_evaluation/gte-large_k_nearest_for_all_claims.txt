@@ -1,0 +1,72 @@
+{
+    "Global warming is driving polar bears toward extinction": [
+        "In the Chukchi Sea, in recent decades the average duration polar bears spent onshore increased by 30 d in line with global warming and the rapid decline of their sea ice habitat In Central Kazakh Steppe, in line with warming, in 2018 there were more \u2018southern\u2019 sub-arid species in the communities and fewer relatively \u2018northern\u2019 boreal and polyzonal species of ground beetles .",
+        "Reproductive failures and declining abundances attributed to warmer polar oceans and less sea ice cover are observed in populations of polar bears, Ursus maritimus, seals, whales and marine birds .",
+        "In some cases, a warmer climate could lead to extinction of species.",
+        "The climate space of most species will shift substantially, bringing a risk of extinction.",
+        "Stronger warming in the Arctic than the global average has already been observed ."
+    ],
+    "The sun has gone into \u2018lockdown\u2019 which could cause freezing weather, earthquakes and famine, say scientists": [
+        "The lockdowns and societal outcomes arising from the COVID-19 pandemic pose a new threat to observing systems.",
+        "Finally, there are uncertainties in future solar and volcanic forcing .",
+        "However, the potential effects on the climate of large volcanic eruptions and large solar variations are studied.",
+        "Cross-Chapter Box 6.1 assesses the consequences of the COVID-19 lockdowns for emissions of GHGs and SLCFs, and related implications for the climate.",
+        "Yin and Sun found clear evidence of an anthropogenic signal in the changes in the number of frost and ice days, when multiple model simulations were used."
+    ],
+    "The polar bear population has been growing.": [
+        "In the Chukchi Sea, in recent decades the average duration polar bears spent onshore increased by 30 d in line with global warming and the rapid decline of their sea ice habitat In Central Kazakh Steppe, in line with warming, in 2018 there were more \u2018southern\u2019 sub-arid species in the communities and fewer relatively \u2018northern\u2019 boreal and polyzonal species of ground beetles .",
+        "Reproductive failures and declining abundances attributed to warmer polar oceans and less sea ice cover are observed in populations of polar bears, Ursus maritimus, seals, whales and marine birds .",
+        "Tourism demand for polar bear viewing in Churchill, Manitoba, Canada, may change due to climate-related declines in polar bear health , but may be offset by \u2018Last Chance Tourism\u2019 .",
+        "Increasingly favourable environmental conditions due to warming combined with shipping and other activities has raised the rate of invasive species movement into the Arctic .",
+        "Responses by marine mammals and birds to the ongoing changes in polar ecosystems are both positive and negative ."
+    ],
+    "Ironic' study finds more CO2 has slightly cooled the planet": [
+        "While this causes global mean temperature to decline, changes in climate have not fully reversed by 2100 under this reversal of CO2 concentration of the same average CO2.",
+        "The AR6 WGI assessed the reduction in global surface temperature to be approximately linearly related to cumulative CO2 removal and, with lower confidence, that the amount of cooling per unit CO2 removed is approximately independent of the rate and amount of removal .",
+        "Exceeding a specific remaining carbon budget results in higher global warming.",
+        "Data from field campaigns suggest that a \u2018suppression of cooling\u2019 can explain the observed warming .",
+        "The latter still shows stronger cooling than simulated in chemistry-climate models ."
+    ],
+    "Human additions of CO2 are in the margin of error of current measurements and the gradual increase in CO2 is mainly from oceans degassing as the planet slowly emerges from the last ice age.": [
+        "The 20 ppm gradual increase of atmospheric CO2 starting 7 ka has been attributed to a decrease in natural terrestrial biomass due to climate change, carbonate compensation and enhanced shallow water carbonate deposition , consistent with stable carbon isotope measurements on CO2 extracted from Antarctic ice .",
+        "In summary, multiple lines of observational and modelling evidence provide high confidence in the finding that the ocean sink for anthropogenic CO2 has increased quasi-linearly over the past 60 years in response to growing global emissions of anthropogenic CO2, with a mean fraction of 23% of total emissions.",
+        "Records of CO2 from the AIS formed during the last glacial period and the LDT show century-scale fluctuations of up to 9.6 ppm .",
+        "It is unequivocal that the increase of CO2 , CH4 , and N2 O in the atmosphere over the industrial era is the result of human activities , 335\u2013383 teragrams of methane per year , and 4.2\u201311.4 teragrams of nitrogen per year , respectively was distributed between three Earth system components: 46% accumulated in the atmosphere ocean sink , with a faster growth of 9.3 \u00b1 2.4 ppb yr\u20131 over the last six years .",
+        "AABW ventilation increased at the onset of the last deglacial transition, promoting the release of previously sequestered CO2 to the atmosphere on centennial to millennial time scales , concomitant with a southward shift of the Southern Hemisphere westerly wind belt and reduced sea ice cover ."
+    ],
+    "They tell us that we are the primary forces controlling earth temperatures by the burning of fossil fuels and releasing their carbon dioxide.": [
+        "Application of these approaches to attribution of large-scale temperature changes supports a dominant anthropogenic contribution to the observed global warming.",
+        "It is unequivocal that human influence has warmed the atmosphere, ocean and land.",
+        "The dominant human influence on observed global warming and related water cycle changes was confirmed.",
+        "The processes that translate emissions of CO2 into a change in global temperature .",
+        "In summary, greenhouse gas forcing is the dominant driver leading to the warming of temperature extremes."
+    ],
+    "The Great Barrier Reef is experiencing the most widespread bleaching ever recorded": [
+        "Australia\u2019s Great Barrier Reef .",
+        "Extreme climatic events in Australia from 2011 to 2017 led to abrupt and extensive mortality of key habitat-forming organisms \u2014 corals, kelps, seagrasses and mangroves \u2014 along over 45% of the continental coastline of Australia In 2016 and 2017, the GBR experienced consecutive occurrences of the most severe coral bleaching in recorded history .",
+        "Over 90% of east African coral reefs are projected to be destroyed by bleaching at 2\u00b0C of global warming .",
+        "The scope and severity of coral bleaching and mortality events have increased in recent decades , with profound implications for the recovery of coral climate archives from new and existing sites.",
+        "Mass coral bleaching in the western Indian Ocean occurred in 1998, 2005, 2010 and 2015/2016 with coral cover just 30\u201340% of 1998 levels by 2016 ."
+    ],
+    "it\u2019s not a pollutant that threatens human civilization.": [
+        "Although climate-driven human mobility generally does not increase risks to peace .",
+        "However, evidence does not indicate that human mobility constitutes a general risk to peace.",
+        "Notably, these costs need not exceed those of more polluting alternatives .",
+        "This suggests that there may not be a strong conflict, at least at the global scale, between climate and air-quality benefits in the case of a worldwide transition to clean energy .",
+        "The rapid pace of technological development and deployment in mitigation pathways is not incompatible with historical records."
+    ],
+    "If CO2 was so terrible for the planet, then installing a CO2 generator in a greenhouse would kill the plants.": [
+        "Omori et al Increased atmospheric CO2concentrations increase total plant biomass and plant sugar content, which can increase crops as well as pests and weeds.",
+        "In above-ground vegetables, elevated CO2 can in some cases reduce the impact of other climate stressors, while in others the negative impacts of other abiotic factors negate the potential benefit of elevated CO2 .",
+        "Reversing the increase in atmospheric CO2 concentrations through negative emissions .",
+        "As a result, emissions would increase.",
+        "High CO2 concentration affects total biomass and plant sugar content important to bioenergy production , but also helps some pests and weeds flourish , while potentially shifting the effectiveness of herbicides ."
+    ],
+    "Sea level rise has been slow and a constant, pre-dating industrialization": [
+        "For moderate levels of sea level rise, it is unlikely that these changes alone will exceed the technical limits of coastal adaptation over the 21st century .",
+        "Models also indicate that global sea level rise, as well as warming, ocean acidification and deoxygenation at depth, are irreversible for centuries or longer .",
+        "If sea level rise is accelerated by ice sheet melt, the associated impacts are projected to occur decades earlier than otherwise, directly affecting coastal systems including cities and settlements by the sea , the boundary between undetectable and moderate risk is set at levels between 0.6\u00b0C and 1.6\u00b0C above pre-industrial levels with high confidence, based on emerging early-warning signals of regime shifts in Arctic and warm water coral reef systems.",
+        "The AR5 also assessed that the rate of sea level rise since the mid-19th century has been larger than the mean rate during the previous two millennia (high confidence).",
+        "Areas with low or negative change have substantial land uplift counteracting the global mean sea level trend ."
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "no of claims with no neighbours": 239,
+    "total no of neighbours": 75065,
+    "percentage of claims with no neighbours": 15.570032573289902,
+    "average no of neighbours": 48.90228013029316,
+    "no of dummy claims with evidence": 0,
+    "total no of neighbours of dummy claims": 0,
+    "percentage of dummy claims with evidence": 0.0,
+    "average no of neighbours of dummy claims": 0.0
+}

@@ -3,6 +3,8 @@ from sentence_transformers import SentenceTransformer
 import json
 from sklearn.neighbors import NearestNeighbors
 RADIUS = 0.45
+SEARCH_METRICS = False
+RELEVANCE_TEST = True
 
 MODEL_NAMES = ['all-mpnet-base-v2', 
           'climatebert/distilroberta-base-climate-f', 
@@ -70,31 +72,33 @@ SENTENCES = [pair[0] for pair in SENTENCE_SECTION_PAIRS]
 
 # we find the "dummy" metrics for a model and add them to radius metrics, which evaluate how often it finds evidence for sentences unrelated to climate change
 def get_dummy_metrics(nn, dummy_embeddings):
-    dummy_metrics = {'no_of_dummy_claims_with_evidence': 0, 'total_no_of_neighbours_of_dummy_claims': 0}
+    dummy_metrics = {'no of dummy claims with evidence': 0, 'total no of neighbours of dummy claims': 0}
     
     for dummy_embedding in dummy_embeddings:
         distances, indices = nn.radius_neighbors([dummy_embedding])
         no_of_neighbours = len(indices[0])
         if no_of_neighbours > 0:
-            dummy_metrics['no_of_dummy_claims_with_evidence'] += 1
-        dummy_metrics['total_no_of_neighbours_of_dummy_claims'] += no_of_neighbours
+            dummy_metrics['no of dummy claims with evidence'] += 1
+        dummy_metrics['total no of neighbours of dummy claims'] += no_of_neighbours
     
-    dummy_metrics['average_no_of_neighbours_of_dummy_claims'] = dummy_metrics['total_no_of_neighbours_of_dummy_claims'] / len(dummy_embeddings)
+    dummy_metrics['percentage of dummy claims with evidence'] = dummy_metrics['no of dummy claims with evidence'] / len(dummy_embeddings) * 100
+    dummy_metrics['average no of neighbours of dummy claims'] = dummy_metrics['total no of neighbours of dummy claims'] / len(dummy_embeddings)
     return dummy_metrics
 
 # for a model, we find how many claims have no neighbours and the average number of neighbours per claim
 def get_radius_metrics(nn, cf_embeddings):
-    radius_metrics = {'no_claims_with_no_neighbours': 0, 'total_no_of_neighbours': 0}
+    radius_metrics = {'no of claims with no neighbours': 0, 'total no of neighbours': 0}
 
     # for each claim, we find the number of neighbours it gets using this model
     for claim_embedding in cf_embeddings:
         distances, indices = nn.radius_neighbors([claim_embedding])
         no_of_neighbours = len(indices[0])
         if no_of_neighbours == 0:
-            radius_metrics['no_claims_with_no_neighbours'] += 1
-        radius_metrics['total_no_of_neighbours'] += no_of_neighbours
+            radius_metrics['no of claims with no neighbours'] += 1
+        radius_metrics['total no of neighbours'] += no_of_neighbours
 
-    radius_metrics['average_no_of_neighbours'] = radius_metrics['total_no_of_neighbours'] / len(cf_embeddings)
+    radius_metrics['percentage of claims with no neighbours'] = radius_metrics['no of claims with no neighbours'] / len(cf_embeddings) * 100
+    radius_metrics['average no of neighbours'] = radius_metrics['total no of neighbours'] / len(cf_embeddings)
     return radius_metrics
 
 # gets the k (5) nearest neighbours for a claim
@@ -120,6 +124,7 @@ def generate_nn(embeddings, n_neighbours=5, radius=RADIUS):
     nn = NearestNeighbors(n_neighbors=n_neighbours, metric='cosine', radius=radius)
     # Fit the model to your data
     nn.fit(embeddings)
+    print("Done...")
     return nn
 
 if __name__=="__main__":
@@ -138,23 +143,28 @@ if __name__=="__main__":
 
         nn = generate_nn(embeddings)
 
-        radius_metrics = get_radius_metrics(nn, cf_embeddings)
-        dummy_metrics = get_dummy_metrics(nn, dummy_embeddings)
+        if SEARCH_METRICS:
+            print("Generating metrics...")
+            radius_metrics = get_radius_metrics(nn, cf_embeddings)
+            dummy_metrics = get_dummy_metrics(nn, dummy_embeddings)
 
-        search_metrics = {**radius_metrics, **dummy_metrics}
+            search_metrics = {**radius_metrics, **dummy_metrics}
 
-        # Write radius metrics to a text file
-        name_to_save = embeddings_name.replace('_EMBEDDINGS.pkl', '')
-        
-        search_metrics_str = json.dumps(radius_metrics, indent=4)
-        with open(f'sentence_similarity/model_evaluation/model_search_evaluation/{name_to_save}_search_metrics.txt', 'w') as f:
-            f.write(search_metrics_str)
+            # Write radius metrics to a text file        
+            search_metrics_str = json.dumps(search_metrics, indent=4)
+            with open(f'sentence_similarity/model_evaluation/model_search_evaluation/{generic_name}_search_metrics.txt', 'w') as f:
+                f.write(search_metrics_str)
 
-        # writes the 5 nearest neighbours for first 10 claims to a text file for manual evaluation
-        k_nearest_for_all_claims = get_k_nearest_for_all_claims(nn, CLIMATE_FEVER_CLAIMS[:10], cf_embeddings[:10])
-        k_nearest_for_all_claims_str = json.dumps(k_nearest_for_all_claims, indent=4)
-        with open(f'sentence_similarity/model_evaluation/model_relevance_evaluation/{name_to_save}_k_nearest_for_all_claims.txt', 'w') as f:
-            f.write(k_nearest_for_all_claims_str)
+            print("Done...")
+
+        if RELEVANCE_TEST:
+            print("Generating k nearest neighbours for first 10 claims...")
+            # writes the 5 nearest neighbours for first 10 claims to a text file for manual evaluation
+
+            k_nearest_for_all_claims = get_k_nearest_for_all_claims(nn, CLIMATE_FEVER_CLAIMS[:10], cf_embeddings[:10])
+            k_nearest_for_all_claims_str = json.dumps(k_nearest_for_all_claims, indent=4)
+            with open(f'sentence_similarity/model_evaluation/model_relevance_evaluation/{generic_name}_k_nearest_for_all_claims.txt', 'w') as f:
+                f.write(k_nearest_for_all_claims_str)
 
         
     

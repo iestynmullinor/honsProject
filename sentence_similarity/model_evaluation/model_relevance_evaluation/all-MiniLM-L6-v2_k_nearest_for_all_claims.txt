@@ -1,0 +1,72 @@
+{
+    "Global warming is driving polar bears toward extinction": [
+        "In some cases, a warmer climate could lead to extinction of species.",
+        "Reproductive failures and declining abundances attributed to warmer polar oceans and less sea ice cover are observed in populations of polar bears, Ursus maritimus, seals, whales and marine birds .",
+        "In the Chukchi Sea, in recent decades the average duration polar bears spent onshore increased by 30 d in line with global warming and the rapid decline of their sea ice habitat In Central Kazakh Steppe, in line with warming, in 2018 there were more \u2018southern\u2019 sub-arid species in the communities and fewer relatively \u2018northern\u2019 boreal and polyzonal species of ground beetles .",
+        "As a result, keeping a cooler average global temperature will lead to lower extinction risks.",
+        "Hence, mitigation of rapid warming in the Arctic has been subject to an increasing number of studies ."
+    ],
+    "The sun has gone into \u2018lockdown\u2019 which could cause freezing weather, earthquakes and famine, say scientists": [
+        "Further, earthen construction is being threatened by extreme climatic variability and changing climate that exacerbates decay .",
+        "In some cases, a warmer climate could lead to extinction of species.",
+        "This will be the case even if global warming is stabilized at 1.5\u00b0C.",
+        "There are many possible pathways for pursuing climate resilient development, though our understanding of the possibilities with different levels of warming is currently limited .",
+        "Some societal risks, such as human mortality due to extreme heat, also are sensitive to warming."
+    ],
+    "The polar bear population has been growing.": [
+        "Reproductive failures and declining abundances attributed to warmer polar oceans and less sea ice cover are observed in populations of polar bears, Ursus maritimus, seals, whales and marine birds .",
+        "In the Chukchi Sea, in recent decades the average duration polar bears spent onshore increased by 30 d in line with global warming and the rapid decline of their sea ice habitat In Central Kazakh Steppe, in line with warming, in 2018 there were more \u2018southern\u2019 sub-arid species in the communities and fewer relatively \u2018northern\u2019 boreal and polyzonal species of ground beetles .",
+        "Tourism demand for polar bear viewing in Churchill, Manitoba, Canada, may change due to climate-related declines in polar bear health , but may be offset by \u2018Last Chance Tourism\u2019 .",
+        "Regional taxonomic and functional diversity increased with immigration of boreal species, although the ongoing decline in Arctic species suggests high species turnover .",
+        "However, only the Arctic hosts human populations, holding a rich Indigenous knowledge and local knowledge Previous assessments of polar seas Poleward species distributional shifts are due to climate warming \u2018A fundamental transformation is occurring in polar organisms and ecosystems, driven by climate change Climate-induced changes in seasonal sea ice extent and thickness as well as ocean stratification are altering marine primary production ."
+    ],
+    "Ironic' study finds more CO2 has slightly cooled the planet": [
+        "It is very likely that global mean stratospheric cooling will be larger by the end of the 21st century in a pathway with higher atmospheric CO2 concentrations.",
+        "This behaviour is confirmed in other studies, including those that calculate the temperature response to an instantaneous doubling or quadrupling of atmospheric CO2 .",
+        "This is consistent with literature that suggests that greenhouse gas .",
+        "Modelling studies consistently show that, relative to a high-CO2 world without SRM, SRM-induced cooling .",
+        "There is a near-linear relationship between cumulative CO2 emissions and the increase in global mean surface air temperature is due to a better integration of evidence across the science in this assessment."
+    ],
+    "Human additions of CO2 are in the margin of error of current measurements and the gradual increase in CO2 is mainly from oceans degassing as the planet slowly emerges from the last ice age.": [
+        "In summary, multiple lines of observational and modelling evidence provide high confidence in the finding that the ocean sink for anthropogenic CO2 has increased quasi-linearly over the past 60 years in response to growing global emissions of anthropogenic CO2, with a mean fraction of 23% of total emissions.",
+        "The 20 ppm gradual increase of atmospheric CO2 starting 7 ka has been attributed to a decrease in natural terrestrial biomass due to climate change, carbonate compensation and enhanced shallow water carbonate deposition , consistent with stable carbon isotope measurements on CO2 extracted from Antarctic ice .",
+        "This method implies a post-processing of current global models\u2019 results that addresses two components of the conceptual differences in the \u2018anthropogenic\u2019 CO2 flux; .",
+        "The principal contribution to increasing global ocean carbon is the air\u2013sea flux of CO2, which changes the dissolved inorganic carbon .",
+        "The global mean CO2 are taken from National Oceanic and Atmospheric Administration ."
+    ],
+    "They tell us that we are the primary forces controlling earth temperatures by the burning of fossil fuels and releasing their carbon dioxide.": [
+        "From this combined evidence, it is unequivocal that human influence has warmed the atmosphere, ocean and land components of the global climate system, taken together.",
+        "It is well established that climate change compounds the impacts of pressures that humans place on the environment .",
+        "In summary, greenhouse gas forcing is the dominant driver leading to the warming of temperature extremes.",
+        "Most global mitigation pathways that limit warming to 2\u00b0C .",
+        "The majority of the climate science community has reached consensus that mean global temperature has increased and human activity is a major cause , setting the context for public policy action."
+    ],
+    "The Great Barrier Reef is experiencing the most widespread bleaching ever recorded": [
+        "Severe coral bleaching, together with declines in coral abundance have been documented in many small islands, especially those in the Pacific Ocean and Indian Ocean .",
+        "During severe bleaching events, not only do reefs lose a significant amount of live coral cover, but they also experience a decrease in growth potential, and thus reef erosion surpasses reef accretion .",
+        "Mass coral bleaching in the western Indian Ocean occurred in 1998, 2005, 2010 and 2015/2016 with coral cover just 30\u201340% of 1998 levels by 2016 .",
+        "Over 90% of east African coral reefs are projected to be destroyed by bleaching at 2\u00b0C of global warming .",
+        "Global projections suggest that disease is as likely to cause coral mortality as bleaching in the coming decades at many localities, with effects occurring earlier at sites in the Caribbean compared to the Pacific and Indian oceans."
+    ],
+    "it\u2019s not a pollutant that threatens human civilization.": [
+        "Air pollution is already one of the biggest public health concerns in Europe: in 2016, roughly 412,000 people died prematurely due to long-term exposure to ambient PM2.5, 71,000 due to NO2 and more than 15,000 premature mortalities occurred due to near-surface ozone .",
+        "Detailed studies on the innovation effects of national pollutant .",
+        "Anthropogenic climate change poses risks to many human and ecological systems.",
+        "Despite recent observed improvements in air quality arising from COVID-19 restrictions , significant risks to human health in cities leading to premature mortality very likely arise from exposure to decreased outdoor air quality from a combination of biogenic The mortality risk for several pollutants, for example PM2.5, is considerable .",
+        "Some societal risks, such as human mortality due to extreme heat, also are sensitive to warming."
+    ],
+    "If CO2 was so terrible for the planet, then installing a CO2 generator in a greenhouse would kill the plants.": [
+        "Lenton, T.M., 2010: The potential for land-based biological CO2 removal to lower future atmospheric CO2 concentration.",
+        "Higher atmospheric CO2 favours plant growth if soil quality and condition are sufficient, but benefits can be offset by increased heat and water stress associated with climate change .",
+        "However, CO2 is not the only greenhouse gas that contributes to global warming and reducing emissions of other greenhouse gases (GHGs) alongside CO2 towards net zero emissions of all GHGs would lower the level at which global temperature would peak.",
+        "In addition, CO2 effects on plant stomatal conductance could not entirely compensate for the increased demand associated with warming ; in large tropical and subtropical regions .",
+        "High CO2 concentrations are shown to potentially decrease plant ET and increase plant water-use efficiency, affecting soil moisture levels, but this effect interacts with other CO2 physiological and radiative effects ."
+    ],
+    "Sea level rise has been slow and a constant, pre-dating industrialization": [
+        "The AR5 also assessed that the rate of sea level rise since the mid-19th century has been larger than the mean rate during the previous two millennia (high confidence).",
+        "There was intensified sea level rise during the 1990s and 2000s, with 10-year trends exceeding 20 mm yr\u20131in the western tropical Pacific Ocean, while sea level trends were negative on the North American west coast.",
+        "Coastal settlements, World Heritage sites and ecosystems are at longer-term risk from sustained sea level rise over at least the coming three centuries .",
+        "By the year 2100, sea level projections ) now range from 0.57 m .",
+        "In Montevideo, mean sea levels have increased over the past 20 years, reaching 11 cm from 1902 to 2016, and a recent accelerating trend has been observed ."
+    ]
+}

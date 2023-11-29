@@ -58,9 +58,9 @@ def generate_claim_dummy_embeddings(model_name):
     return cf_embeddings, dummy_embeddings
 
 if __name__=="__main__":
-    for model_name in MODEL_NAMES:
+    for model_name,generic_name in zip(MODEL_NAMES,MODEL_NAMES_WITHOUT_DIR):
         cf_embeddings, dummy_embeddings = generate_claim_dummy_embeddings(model_name)
-        with open(f'sentence_similarity/model_evaluation/climate_fever_embeddings/MODEL_{model_name}_CLIMATE_FEVER_EMBEDDINGS.pkl', 'wb') as f:
+        with open(f'sentence_similarity/model_evaluation/climate_fever_embeddings/MODEL_{generic_name}_CLIMATE_FEVER_EMBEDDINGS.pkl', 'wb') as f:
             pickle.dump(cf_embeddings, f)
-        with open(f'sentence_similarity/model_evaluation/dummy_embeddings/MODEL_{model_name}_DUMMY_EMBEDDINGS.pkl', 'wb') as f:
+        with open(f'sentence_similarity/model_evaluation/dummy_embeddings/MODEL_{generic_name}_DUMMY_EMBEDDINGS.pkl', 'wb') as f:
             pickle.dump(dummy_embeddings, f)

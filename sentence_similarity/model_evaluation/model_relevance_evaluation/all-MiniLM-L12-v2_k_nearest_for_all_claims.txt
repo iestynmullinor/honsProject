@@ -1,0 +1,72 @@
+{
+    "Global warming is driving polar bears toward extinction": [
+        "Reproductive failures and declining abundances attributed to warmer polar oceans and less sea ice cover are observed in populations of polar bears, Ursus maritimus, seals, whales and marine birds .",
+        "In the Chukchi Sea, in recent decades the average duration polar bears spent onshore increased by 30 d in line with global warming and the rapid decline of their sea ice habitat In Central Kazakh Steppe, in line with warming, in 2018 there were more \u2018southern\u2019 sub-arid species in the communities and fewer relatively \u2018northern\u2019 boreal and polyzonal species of ground beetles .",
+        "Tourism demand for polar bear viewing in Churchill, Manitoba, Canada, may change due to climate-related declines in polar bear health , but may be offset by \u2018Last Chance Tourism\u2019 .",
+        "Climate change is a major driver of species extinction and terrestrial and freshwater ecosystems destruction .",
+        "In some cases, a warmer climate could lead to extinction of species."
+    ],
+    "The sun has gone into \u2018lockdown\u2019 which could cause freezing weather, earthquakes and famine, say scientists": [
+        "Data from field campaigns suggest that a \u2018suppression of cooling\u2019 can explain the observed warming .",
+        "Other potential mechanisms are poor harvests from droughts or supply interruptions from extreme weather events leading to undernutrition among young children, negatively affecting cognitive development and schooling potential More research is needed on climate change impacts on education in Africa.",
+        "New evidence confirms that climate change, including extreme weather events , superimposed on anthropogenic disturbances .",
+        "Internal variability could mask the response to solar radiation modification .",
+        "Further, even in the absence of any anthropogenic or natural changes in radiative forcing, Earth\u2019s climate fluctuates on time scales from days to decades or longer."
+    ],
+    "The polar bear population has been growing.": [
+        "Reproductive failures and declining abundances attributed to warmer polar oceans and less sea ice cover are observed in populations of polar bears, Ursus maritimus, seals, whales and marine birds .",
+        "In the Chukchi Sea, in recent decades the average duration polar bears spent onshore increased by 30 d in line with global warming and the rapid decline of their sea ice habitat In Central Kazakh Steppe, in line with warming, in 2018 there were more \u2018southern\u2019 sub-arid species in the communities and fewer relatively \u2018northern\u2019 boreal and polyzonal species of ground beetles .",
+        "Tourism demand for polar bear viewing in Churchill, Manitoba, Canada, may change due to climate-related declines in polar bear health , but may be offset by \u2018Last Chance Tourism\u2019 .",
+        "However, only the Arctic hosts human populations, holding a rich Indigenous knowledge and local knowledge Previous assessments of polar seas Poleward species distributional shifts are due to climate warming \u2018A fundamental transformation is occurring in polar organisms and ecosystems, driven by climate change Climate-induced changes in seasonal sea ice extent and thickness as well as ocean stratification are altering marine primary production .",
+        "Spatial management for enhancing the resilience of endemic polar biodiversity is increasingly proposed as the best option for managing risks of climate change ."
+    ],
+    "Ironic' study finds more CO2 has slightly cooled the planet": [
+        "This behaviour is confirmed in other studies, including those that calculate the temperature response to an instantaneous doubling or quadrupling of atmospheric CO2 .",
+        "Fossil fuels are devoid of14C and therefore fossil fuel-derived CO2 additions decrease the atmospheric14C/12C ratio Over the past six decades, the fraction of anthropogenic CO2 emissions that has accumulated in the atmosphere .",
+        "Third, measurements of the d. These three lines of evidence confirm unambiguously that the atmospheric increase of CO2 is due to an oxidative process show a continued long-term decrease in the14C/12C ratio.",
+        "Modelling studies consistently show that, relative to a high-CO2 world without SRM, SRM-induced cooling .",
+        "At large scales the dominant effect of aerosols on the carbon cycle is likely a global cooling effect of the climate ."
+    ],
+    "Human additions of CO2 are in the margin of error of current measurements and the gradual increase in CO2 is mainly from oceans degassing as the planet slowly emerges from the last ice age.": [
+        "The 20 ppm gradual increase of atmospheric CO2 starting 7 ka has been attributed to a decrease in natural terrestrial biomass due to climate change, carbonate compensation and enhanced shallow water carbonate deposition , consistent with stable carbon isotope measurements on CO2 extracted from Antarctic ice .",
+        "In summary, multiple lines of observational and modelling evidence provide high confidence in the finding that the ocean sink for anthropogenic CO2 has increased quasi-linearly over the past 60 years in response to growing global emissions of anthropogenic CO2, with a mean fraction of 23% of total emissions.",
+        "Fossil fuels are devoid of14C and therefore fossil fuel-derived CO2 additions decrease the atmospheric14C/12C ratio Over the past six decades, the fraction of anthropogenic CO2 emissions that has accumulated in the atmosphere .",
+        "These changes have been predominantly ascribed to the impact of changes in the MOC on the transport of anthropogenic CO2 into the ocean interior due to regional climate variability, in addition to the increase in the atmospheric CO2 concentration .",
+        "Increases in atmospheric CO2 lead to increases in land carbon storage through CO2 fertilization of photosynthesis and increased water use efficiency , while the ocean is expected to remain a sink ."
+    ],
+    "They tell us that we are the primary forces controlling earth temperatures by the burning of fossil fuels and releasing their carbon dioxide.": [
+        "In pathways that limit warming to 1.5\u00b0C .",
+        "However, significant reductions of warming due to short-lived climate forcers (SLCFs) could reduce the level at which temperature stabilizes once CO2 emissions reach net zero, and also reduce the long-term global warming commitment by reducing radiative forcing from SLCFs (Chapter 5)In summary, major lines of evidence \u2013 observations, paleoclimate, theoretical understanding and natural and human drivers \u2013 have been studied and developed for over 150 years.",
+        "Understanding the global climate system requires both theoretical understanding and empirical measurement of the major forces and factors that govern the transport of energy and mass In addition to radiative transfer , who hypothesized vertical atmospheric circulatory cells driven by solar heating, and Hadley , who showed how the Earth\u2019s rotation affects that circulation.",
+        "The majority of the climate science community has reached consensus that mean global temperature has increased and human activity is a major cause , setting the context for public policy action.",
+        "Human-induced greenhouse gas forcing is the main driver of the observed changes in hot and cold extremes on the global scale (virtually certain ) and on most continents (very likely )."
+    ],
+    "The Great Barrier Reef is experiencing the most widespread bleaching ever recorded": [
+        "During severe bleaching events, not only do reefs lose a significant amount of live coral cover, but they also experience a decrease in growth potential, and thus reef erosion surpasses reef accretion .",
+        "Severe coral bleaching, together with declines in coral abundance have been documented in many small islands, especially those in the Pacific Ocean and Indian Ocean .",
+        "Mass coral bleaching in the western Indian Ocean occurred in 1998, 2005, 2010 and 2015/2016 with coral cover just 30\u201340% of 1998 levels by 2016 .",
+        "Extreme climatic events in Australia from 2011 to 2017 led to abrupt and extensive mortality of key habitat-forming organisms \u2014 corals, kelps, seagrasses and mangroves \u2014 along over 45% of the continental coastline of Australia In 2016 and 2017, the GBR experienced consecutive occurrences of the most severe coral bleaching in recorded history .",
+        "In the 1990s when global warming was around 0.7\u00b0C large-scale coral reef bleaching also became apparent ; however, there is low agreement on the nature of the thresholds and the associated tipping points."
+    ],
+    "it\u2019s not a pollutant that threatens human civilization.": [
+        "The safety challenges arise from contamination caused by increased prevalence of pathogens, HAB and toxic inorganic bioaccumulation , with significant implications for human health (Section 5.12.4)Food security and healthy balanced diets will also be undermined by reduced livelihoods and health of people in agriculture and food-related sectors (Sections 5.12.3, 5.12.4), diminished ecosystem services provided by pollinators, the soil biome (Section 5.4.3) and water systems, and climate-mitigation related policies that solely focus on reducing GHG emissions without considering their potential to increase competition with food production for scarce land and water (Section 5.13.3).",
+        "Detailed studies on the innovation effects of national pollutant .",
+        "Carbon-heavy consumption patterns have become the norm only in part because we\u2019re not charged for environmental damage we cause .",
+        "Not all emissions can be avoided.",
+        "In Kampala, for example, air pollution levels frequently exceed levels deemed safe for humans by the World Health Organization ."
+    ],
+    "If CO2 was so terrible for the planet, then installing a CO2 generator in a greenhouse would kill the plants.": [
+        "Higher atmospheric CO2 favours plant growth if soil quality and condition are sufficient, but benefits can be offset by increased heat and water stress associated with climate change .",
+        "Lenton, T.M., 2010: The potential for land-based biological CO2 removal to lower future atmospheric CO2 concentration.",
+        "Several studies suggest that increasing atmospheric CO2 could lead to reduced leaf stomatal conductance, which would increase water-use efficiency and reduce plant water needs, thus limiting ET .",
+        "High CO2 concentration affects total biomass and plant sugar content important to bioenergy production , but also helps some pests and weeds flourish , while potentially shifting the effectiveness of herbicides .",
+        "Higher CO2 reduces the nutritional density of crops and forage lands and can increase the production of toxins and allergenic pollen ."
+    ],
+    "Sea level rise has been slow and a constant, pre-dating industrialization": [
+        "The AR5 also assessed that the rate of sea level rise since the mid-19th century has been larger than the mean rate during the previous two millennia (high confidence).",
+        "There was intensified sea level rise during the 1990s and 2000s, with 10-year trends exceeding 20 mm yr\u20131in the western tropical Pacific Ocean, while sea level trends were negative on the North American west coast.",
+        "Adding the projected sea level change from land ice mass loss and groundwater extraction strengthens and modifies the forced signal, leading to times of emergence 10 to 20 years earlier in most parts of the ocean, except in regions close to sources of mass loss, with emergence over 50% of the ocean area by 2020, and nearly everywhere by 2100 In summary, detection of forced regional changes for some ocean areas in recent decades is possible (medium confidence), but attribution of regional sea level change to forcings over longer periods (20th century) and for all ocean basins is not yet possible.",
+        "Areas with low or negative change have substantial land uplift counteracting the global mean sea level trend .",
+        "Multiple lines of evidence indicate the unprecedented nature of recent large-scale climatic changes in the context of all human history, and that these changes represent a millennial-scale commitment for the slow-responding elements of the climate system, resulting in continued worldwide loss of ice, increase in ocean heat content, sea level rise and deep ocean acidification."
+    ]
+}

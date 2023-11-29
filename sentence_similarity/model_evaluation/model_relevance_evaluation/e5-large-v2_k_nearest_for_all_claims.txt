@@ -1,0 +1,72 @@
+{
+    "Global warming is driving polar bears toward extinction": [
+        "As global average temperature increase exceeds about 3.5\u00b0C, model projections suggest significant extinctions .",
+        "Ocean and coastal fauna are moving towards higher latitudes globally due to warming .",
+        "Sea ice loss due to climate change is expected to accelerate over the next century .",
+        "Polar settlements are at significant risk from climate change through shoreline erosion, permafrost thaw and flooding .",
+        "Warming and exacerbating the incidence and impact of dead zones ."
+    ],
+    "The sun has gone into \u2018lockdown\u2019 which could cause freezing weather, earthquakes and famine, say scientists": [
+        "The lockdowns and societal outcomes arising from the COVID-19 pandemic pose a new threat to observing systems.",
+        "Pest and disease outbreaks in both crops and livestock due to climate change .",
+        "Marine heatwaves , affecting resources like copepods and coral reefs .",
+        "Climate change impacts will disable the food, water and energy systems of the most vulnerable.",
+        "Mid-latitude planetary wave modulations affect short-duration temperature extremes such as heatwaves ."
+    ],
+    "The polar bear population has been growing.": [
+        "An increasing trend is found in the northern region, mainly due to climate warming.",
+        "Macroalgae and seagrass are generally expanding in the Arctic .",
+        "In several polar areas in northern Europe .",
+        "The total amount and area of glacier lakes have increased during the past decade .",
+        "Shipping in the Arctic is a topic of increasing interest."
+    ],
+    "Ironic' study finds more CO2 has slightly cooled the planet": [
+        "A recent global study concluded that reservoirs might emit more carbon than they bury, especially in the tropics .",
+        "There has been a small (1%) increase in the stratospheric-temperature-adjusted CO2 radiative efficiency, and a +5% tropospheric adjustment has been added.",
+        "Global surface temperatures increased by about 0.1\u00b0C .",
+        "Studies have found that increases in buildings energy expenditures for cooling more than compensate the savings from lower heating demands in most regions .",
+        "This behaviour is confirmed in other studies, including those that calculate the temperature response to an instantaneous doubling or quadrupling of atmospheric CO2 ."
+    ],
+    "Human additions of CO2 are in the margin of error of current measurements and the gradual increase in CO2 is mainly from oceans degassing as the planet slowly emerges from the last ice age.": [
+        "The 20 ppm gradual increase of atmospheric CO2 starting 7 ka has been attributed to a decrease in natural terrestrial biomass due to climate change, carbonate compensation and enhanced shallow water carbonate deposition , consistent with stable carbon isotope measurements on CO2 extracted from Antarctic ice .",
+        "Human-induced greenhouse gas forcing is the main driver of the observed changes in hot and cold extremes on the global scale (virtually certain ) and on most continents (very likely ).",
+        "Due to limited observations prior to the satellite era, long-term global CO trends are based on estimates from models.",
+        "Ocean acidification is strengthening as a result of the ocean continuing to take up CO2 from human-caused emissions models are primarily a consequence of higher atmospheric CO2 concentrations in the Shared Socio-economic Pathways .",
+        "Halting global warming in the long term requires, at a minimum, that no additional CO2 emissions from human activities are added to the atmosphere (ie, CO2 emissions must reach \u2018net\u2019 zero)."
+    ],
+    "They tell us that we are the primary forces controlling earth temperatures by the burning of fossil fuels and releasing their carbon dioxide.": [
+        "Human-induced greenhouse gas forcing is the main driver of the observed changes in hot and cold extremes on the global scale (virtually certain ) and on most continents (very likely ).",
+        "In summary, greenhouse gas forcing is the dominant driver leading to the warming of temperature extremes.",
+        "They play a significant role in ocean circulation and absorption of anthropogenic CO2 .",
+        "Widespread and rapid changes in the atmosphere, ocean, cryosphere and biosphere have occurred has warmed since the 1970s and extremely likely that human influence is the main driver.",
+        "At large scales the dominant effect of aerosols on the carbon cycle is likely a global cooling effect of the climate ."
+    ],
+    "The Great Barrier Reef is experiencing the most widespread bleaching ever recorded": [
+        "Australia\u2019s Great Barrier Reef .",
+        "Over 90% of east African coral reefs are projected to be destroyed by bleaching at 2\u00b0C of global warming .",
+        "During severe bleaching events, not only do reefs lose a significant amount of live coral cover, but they also experience a decrease in growth potential, and thus reef erosion surpasses reef accretion .",
+        "Extreme climatic events in Australia from 2011 to 2017 led to abrupt and extensive mortality of key habitat-forming organisms \u2014 corals, kelps, seagrasses and mangroves \u2014 along over 45% of the continental coastline of Australia In 2016 and 2017, the GBR experienced consecutive occurrences of the most severe coral bleaching in recorded history .",
+        "Mass coral bleaching in the western Indian Ocean occurred in 1998, 2005, 2010 and 2015/2016 with coral cover just 30\u201340% of 1998 levels by 2016 ."
+    ],
+    "it\u2019s not a pollutant that threatens human civilization.": [
+        "Apart from land subsidence from urbanisation .",
+        "Carbon-heavy consumption patterns have become the norm only in part because we\u2019re not charged for environmental damage we cause .",
+        "There is high confidence that global CO burden is declining since 2000.",
+        "Climate change will not affect wind and solar resources to the extent that it would compromise their ability to reduce emissions.",
+        "The reduction in surface ozone, together with alteration to ultraviolet ."
+    ],
+    "If CO2 was so terrible for the planet, then installing a CO2 generator in a greenhouse would kill the plants.": [
+        "Elevated CO2 will worsen some pest and disease pressures, for example, barley yellow dwarf virus impacts on wheat .",
+        "Higher CO2 reduces the nutritional density of crops and forage lands and can increase the production of toxins and allergenic pollen .",
+        "Without rapid decarbonisation of electricity supply, greenhouse gas emissions will increase due to the increased use of air conditioning installations in cities.",
+        "Carbon can be \u2018scrubbed\u2019 from thermoelectric power plant emissions and injected for storage in deep geological strata , but this can lead to pollution of deep aquifers and have health consequences .",
+        "Climate change is increasing the demand for electric power for cooling and threatens existing power supply ."
+    ],
+    "Sea level rise has been slow and a constant, pre-dating industrialization": [
+        "Atmospheric GHG concentrations were much less variable during the pre-industrial Holocene .",
+        "The land-to-ocean riverine flux and the carbon burial in ocean sediments play a minor role .",
+        "The most rapid CH4 changes prior to industrialization were as large as 30\u201350 ppb on multi-decadal timescales.",
+        "Areas with low or negative change have substantial land uplift counteracting the global mean sea level trend .",
+        "If warming exceeds around 3\u00b0C above pre-industrial, part of the EAIS , or much faster under widespread ice-shelf loss and/or MICI ."
+    ]
+}
