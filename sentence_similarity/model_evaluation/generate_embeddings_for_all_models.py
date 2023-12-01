@@ -2,6 +2,8 @@ from sentence_transformers import SentenceTransformer
 import pickle
 import json
 
+#USE THE GOOGLE COLLAB VERSION OF THIS AS IS MUCH FASTER
+
 MODEL_NAMES = ['all-mpnet-base-v2', 
           'climatebert/distilroberta-base-climate-f', # THIS IS NOT A SENTEMNCE TRANSFORMERS MODEL LEAVE IT OUT
           'all-MiniLM-L12-v2',
