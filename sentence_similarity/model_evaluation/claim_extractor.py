@@ -1,9 +1,9 @@
 import json
 import pickle
-import unicodedata
+
 # adds all claims from climate fever to a pkl file
 
-# THIS AND LOADING_DATASET.PY ARE THE SAME
+# USE THIS ONE
 
 def extract_claims(file_path):
     claims = []
@@ -12,7 +12,6 @@ def extract_claims(file_path):
             data = json.loads(line)
             if 'claim' in data:
                 claim = data['claim']
-                claim = unicodedata.normalize('NFKD', claim).encode('ascii', 'ignore').decode('utf-8')
                 claims.append(claim)
             
     return claims
@@ -30,3 +29,8 @@ with open('climate_fever/claims.pkl', 'wb') as file:
 with open('climate_fever/claims.txt', 'w') as f:
     for claim in claims:
         f.write(claim + '\n')
+
+# Write to a json file
+with open('climate_fever/claims.json', 'w', encoding='utf-8') as f:
+    json.dump(claims, f, ensure_ascii=False)
+

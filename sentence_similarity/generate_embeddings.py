@@ -9,6 +9,7 @@ from sklearn.neighbors import KDTree
 from model import MODEL as model
 import nn_cosine_builder
 import kdtree_builder
+import json
 
 
 # returns the sentence embedding for all sentences
@@ -18,8 +19,8 @@ def get_sentence_embeddings(sentences):
 if __name__ == "__main__":
     print("Reading Data...")
     # Load the sentence_section_pairs.pkl file
-    with open('sentence_similarity/data/sentence_section_pairs.pkl', 'rb') as f:
-        sentence_section_pairs = pickle.load(f)
+    with open('sentence_similarity/data/sentence_section_pairs.json', 'r', encoding='utf-8') as f:
+        sentence_section_pairs = json.load(f)
 
     sentences = [pair[0] for pair in sentence_section_pairs]
 

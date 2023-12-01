@@ -2,11 +2,12 @@ import pickle
 from sentence_transformers import SentenceTransformer
 import json
 from sklearn.neighbors import NearestNeighbors
+import json
 RADIUS = 0.45
 SEARCH_METRICS = False
 RELEVANCE_TEST = True
-NO_CLAIMS = 10
-K = 5
+NO_CLAIMS = 50
+K = 3
 
 MODEL_NAMES = ['all-mpnet-base-v2', 
           'climatebert/distilroberta-base-climate-f', 
@@ -64,8 +65,9 @@ DUMMY_CLAIMS = ['Nikolaj Coster-Waldau worked with the Fox Broadcasting Company.
                 'Reese Witherspoon received an Oscar nomination.'
                 ]
 
-with open('climate_fever/claims.pkl', 'rb') as f:
-    CLIMATE_FEVER_CLAIMS = pickle.load(f)
+
+with open('climate_fever/claims.json', 'r', encoding='utf-8') as f:
+    CLIMATE_FEVER_CLAIMS = json.load(f)
 
     
 with open('sentence_similarity/data/sentence_section_pairs.pkl', 'rb') as f:
@@ -160,12 +162,12 @@ if __name__=="__main__":
             print("Done...")
 
         if RELEVANCE_TEST:
-            print("Generating k nearest neighbours for first 10 claims...")
+            print(f"Generating {K} nearest neighbours for first {NO_CLAIMS} claims...")
             # writes the 5 nearest neighbours for first 10 claims to a text file for manual evaluation
 
             k_nearest_for_all_claims = get_k_nearest_for_all_claims(nn, CLIMATE_FEVER_CLAIMS[:NO_CLAIMS], cf_embeddings[:NO_CLAIMS])
-            k_nearest_for_all_claims_str = json.dumps(k_nearest_for_all_claims, indent=4)
-            with open(f'sentence_similarity/model_evaluation/model_relevance_evaluation/{generic_name}_k_nearest_for_all_claims.txt', 'w') as f:
+            k_nearest_for_all_claims_str = json.dumps(k_nearest_for_all_claims, indent=4, ensure_ascii=False)
+            with open(f'sentence_similarity/model_evaluation/model_relevance_evaluation/{generic_name}_k_nearest_for_all_claims.txt', 'w', encoding='utf-8') as f:
                 f.write(k_nearest_for_all_claims_str)
 
         

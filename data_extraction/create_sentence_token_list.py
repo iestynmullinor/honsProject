@@ -3,15 +3,16 @@ import doc_cleaner
 from nltk import sent_tokenize
 from nltk import word_tokenize
 import pickle
+import json
 
 
 TEXT = "section_text.txt"
 INPUT_DIRECTORY = 'data_extraction/KB'
 OUTPUT_FILE_NAME = 'sentence_similarity/data/sentence_section_pairs.txt'
 PICKLE_FILE_NAME = 'sentence_similarity/data/sentence_section_pairs.pkl'
+JSON_FILE_NAME = 'sentence_similarity/data/sentence_section_pairs.json'
 sentences_with_section = []
 sentence_set = set()
-
 
 def tokenize_section(section_text):
     cleaned_section = doc_cleaner.clean_section(section_text)
@@ -21,6 +22,7 @@ def tokenize_section(section_text):
     # Add each sentence to the sentence_set
     for sentence in sentences:
         sentence_set.add(sentence)
+    print("sentence set size so far: ", len(sentence_set))
     
     return sentences
 
@@ -54,8 +56,13 @@ if __name__=="__main__":
     # Write to pickle file
     with open(PICKLE_FILE_NAME, 'wb') as f:
         pickle.dump(sentence_section_pairs, f)
-    
+
+
     # Write to txt file
     with open(OUTPUT_FILE_NAME, 'w') as f:
         for pair in sentence_section_pairs:
             f.write(f"SENTENCE: {pair[0]}\nSECTION: {pair[1]}\n \n")
+
+    # Write to json file
+    with open(JSON_FILE_NAME, 'w', encoding='utf-8') as f:
+        json.dump(sentence_section_pairs, f, ensure_ascii=False)

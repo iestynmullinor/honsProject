@@ -3,6 +3,8 @@ import pickle
 import pandas as pd
 import json
 
+# DON'T USE THIS ONE
+
 data = pd.read_parquet('climate_fever/default_test_0000.parquet', engine='pyarrow')
 
 claims = data['claim'].tolist()

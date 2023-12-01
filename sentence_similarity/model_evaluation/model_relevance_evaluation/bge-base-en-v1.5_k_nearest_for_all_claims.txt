@@ -1,72 +1,252 @@
 {
     "Global warming is driving polar bears toward extinction": [
-        "In the Chukchi Sea, in recent decades the average duration polar bears spent onshore increased by 30 d in line with global warming and the rapid decline of their sea ice habitat In Central Kazakh Steppe, in line with warming, in 2018 there were more \u2018southern\u2019 sub-arid species in the communities and fewer relatively \u2018northern\u2019 boreal and polyzonal species of ground beetles .",
+        "In the Chukchi Sea, in recent decades the average duration polar bears spent onshore increased by 30 d in line with global warming and the rapid decline of their sea ice habitat In Central Kazakh Steppe, in line with warming, in 2018 there were more ‘southern’ sub-arid species in the communities and fewer relatively ‘northern’ boreal and polyzonal species of ground beetles .",
         "Reproductive failures and declining abundances attributed to warmer polar oceans and less sea ice cover are observed in populations of polar bears, Ursus maritimus, seals, whales and marine birds .",
-        "Climate change is a major driver of species extinction and terrestrial and freshwater ecosystems destruction .",
-        "In some cases, a warmer climate could lead to extinction of species.",
-        "Polar settlements are at significant risk from climate change through shoreline erosion, permafrost thaw and flooding ."
+        "Climate change is a major driver of species extinction and terrestrial and freshwater ecosystems destruction ."
     ],
-    "The sun has gone into lockdown which could cause freezing weather, earthquakes and famine, say scientists": [
+    "The sun has gone into ‘lockdown’ which could cause freezing weather, earthquakes and famine, say scientists": [
         "Finally, there are uncertainties in future solar and volcanic forcing .",
         "However, the potential effects on the climate of large volcanic eruptions and large solar variations are studied.",
-        "In this way, blocking can also be associated with extreme events such as heavy precipitation , drought and heatwaves .",
-        "Freezing rain is also a risk to urban populations and infrastructure.",
-        "People are exposed to intense drought and famine ."
+        "In this way, blocking can also be associated with extreme events such as heavy precipitation , drought and heatwaves ."
     ],
     "The polar bear population has been growing.": [
         "Reproductive failures and declining abundances attributed to warmer polar oceans and less sea ice cover are observed in populations of polar bears, Ursus maritimus, seals, whales and marine birds .",
-        "In the Chukchi Sea, in recent decades the average duration polar bears spent onshore increased by 30 d in line with global warming and the rapid decline of their sea ice habitat In Central Kazakh Steppe, in line with warming, in 2018 there were more \u2018southern\u2019 sub-arid species in the communities and fewer relatively \u2018northern\u2019 boreal and polyzonal species of ground beetles .",
-        "In several polar areas in northern Europe .",
-        "An increasing trend is found in the northern region, mainly due to climate warming.",
-        "Tourism demand for polar bear viewing in Churchill, Manitoba, Canada, may change due to climate-related declines in polar bear health , but may be offset by \u2018Last Chance Tourism\u2019 ."
+        "In the Chukchi Sea, in recent decades the average duration polar bears spent onshore increased by 30 d in line with global warming and the rapid decline of their sea ice habitat In Central Kazakh Steppe, in line with warming, in 2018 there were more ‘southern’ sub-arid species in the communities and fewer relatively ‘northern’ boreal and polyzonal species of ground beetles .",
+        "In several polar areas in northern Europe ."
     ],
     "Ironic' study finds more CO2 has slightly cooled the planet": [
         "Globally, increasing atmospheric CO2 enhances the terrestrial sink but temperature increases constrain it, reflecting the biological process understanding highlighted in previous IPCC reports .",
         "Exceeding a specific remaining carbon budget results in higher global warming.",
-        "Data from field campaigns suggest that a \u2018suppression of cooling\u2019 can explain the observed warming .",
-        "The latter still shows stronger cooling than simulated in chemistry-climate models .",
-        "While this causes global mean temperature to decline, changes in climate have not fully reversed by 2100 under this reversal of CO2 concentration of the same average CO2."
+        "Data from field campaigns suggest that a ‘suppression of cooling’ can explain the observed warming ."
     ],
     "Human additions of CO2 are in the margin of error of current measurements and the gradual increase in CO2 is mainly from oceans degassing as the planet slowly emerges from the last ice age.": [
         "Ocean acidification is strengthening as a result of the ocean continuing to take up CO2 from human-caused emissions models are primarily a consequence of higher atmospheric CO2 concentrations in the Shared Socio-economic Pathways .",
         "The 20 ppm gradual increase of atmospheric CO2 starting 7 ka has been attributed to a decrease in natural terrestrial biomass due to climate change, carbonate compensation and enhanced shallow water carbonate deposition , consistent with stable carbon isotope measurements on CO2 extracted from Antarctic ice .",
-        "The century-scale climate\u2013carbon cycle response to a CO2 removal from the atmosphere is not always equal and opposite to the response to a CO2 emission (medium confidence).",
-        "An increase of global CO burden of about 50% for the year 2000 relative to 1850 is found in CMIP6 The AR5 reported a global CO decline of about 1% yr\u20131based on satellite data from 2002\u20132010, but biases in instruments rendered low confidence in this trend.",
-        "Carbon uptake by land shows greater increases but with greater uncertainties than for ocean carbon uptake."
+        "The century-scale climate–carbon cycle response to a CO2 removal from the atmosphere is not always equal and opposite to the response to a CO2 emission (medium confidence)."
     ],
     "They tell us that we are the primary forces controlling earth temperatures by the burning of fossil fuels and releasing their carbon dioxide.": [
         "The processes that translate emissions of CO2 into a change in global temperature .",
         "Given that CO2 emissions constitute the dominant human influence on global climate, global net zero CO2 emissions are a prerequisite for stabilising warming at any level.",
-        "Given their carbon content, if used as fuels, their carbon will eventually be oxidised and emitted as CO2 to the atmosphere.",
-        "In summary, greenhouse gas forcing is the dominant driver leading to the warming of temperature extremes.",
-        "The dominant human influence on observed global warming and related water cycle changes was confirmed."
+        "Given their carbon content, if used as fuels, their carbon will eventually be oxidised and emitted as CO2 to the atmosphere."
     ],
     "The Great Barrier Reef is experiencing the most widespread bleaching ever recorded": [
-        "Australia\u2019s Great Barrier Reef .",
-        "Extreme climatic events in Australia from 2011 to 2017 led to abrupt and extensive mortality of key habitat-forming organisms \u2014 corals, kelps, seagrasses and mangroves \u2014 along over 45% of the continental coastline of Australia In 2016 and 2017, the GBR experienced consecutive occurrences of the most severe coral bleaching in recorded history .",
-        "Over 90% of east African coral reefs are projected to be destroyed by bleaching at 2\u00b0C of global warming .",
-        "While coral bleaching is a visible symptom of heat stress, warming has also induced restructuring of associated fish and invertebrate communities in the Great Barrier Reef Although the number of coral species that are both exposed and vulnerable to climate hazards is greatest in the central Indo-Pacific, the proportion of corals at risk is greater in the lower diversity Caribbean hotspots .",
-        "Mass coral bleaching in the western Indian Ocean occurred in 1998, 2005, 2010 and 2015/2016 with coral cover just 30\u201340% of 1998 levels by 2016 ."
+        "Australia’s Great Barrier Reef .",
+        "Extreme climatic events in Australia from 2011 to 2017 led to abrupt and extensive mortality of key habitat-forming organisms — corals, kelps, seagrasses and mangroves — along over 45% of the continental coastline of Australia In 2016 and 2017, the GBR experienced consecutive occurrences of the most severe coral bleaching in recorded history .",
+        "Over 90% of east African coral reefs are projected to be destroyed by bleaching at 2°C of global warming ."
     ],
-    "its not a pollutant that threatens human civilization.": [
+    "it’s not a pollutant that threatens human civilization.": [
         "However, it does not mean that disruption of trade would reduce global emissions.",
         "Notably, these costs need not exceed those of more polluting alternatives .",
-        "They are not contradictory since they are attributable to different mechanisms (primarily aerosols and greenhouse gases, respectively).",
-        "Climate change is not expected to substantially impact global solar insolation and will not compromise the ability of solar energy to support low-carbon transitions .",
-        "The need to distribute climate change solutions must not delegitimise appropriate economic growth strategies, nor indeed create the additional risks of policy imposition."
+        "They are not contradictory since they are attributable to different mechanisms (primarily aerosols and greenhouse gases, respectively)."
     ],
     "If CO2 was so terrible for the planet, then installing a CO2 generator in a greenhouse would kill the plants.": [
         "Higher atmospheric concentrations of carbon dioxide reduce the nutritional quality of wheat, rice and other major crops, potentially affecting millions of people at a doubling of carbon dioxide relative to pre-industrial .",
         "Higher CO2 reduces the nutritional density of crops and forage lands and can increase the production of toxins and allergenic pollen .",
-        "There are important differences in the processes affected by greenhouse gases .",
-        "Renewable energy can mitigate climate effects .",
-        "Movement of invasive species into low-fertility areas, however, could provide resource opportunities, especially if agriculture in those areas is limited Rising CO2 concentrations and climate change could reduce herbicide efficacy as well as direct effects of CO2 on plant biochemistry and herbicide resistance ."
+        "There are important differences in the processes affected by greenhouse gases ."
     ],
     "Sea level rise has been slow and a constant, pre-dating industrialization": [
         "Adaptations such as improved water management are emerging slowly .",
         "Coastal settlements, World Heritage sites and ecosystems are at longer-term risk from sustained sea level rise over at least the coming three centuries .",
-        "Atmospheric GHG concentrations were much less variable during the pre-industrial Holocene .",
-        "Critical infrastructure on coasts is at risk from sea level rise .",
-        "The potential for flooding and inundation depends on the relative sea level rise ."
+        "Atmospheric GHG concentrations were much less variable during the pre-industrial Holocene ."
+    ],
+    "Earth about to enter 30-YEAR ‘Mini Ice Age’": [
+        "More relevant to future warming is the mid-Pliocene period .",
+        "However, paleoclimatology of multi-million to billion-year periods reveals that CH4, CO2, continental drift, silicate rock weathering and other factors played a greater role than orbital cycles in climate changes during ice-free ‘hothouse’ periods of Earth’s distant past The AR5 WGI used paleoclimatic evidence to put recent warming and sea level rise in a multi-century perspective and assessed that 1983–2012 was likely to have been the warmest 30-year period of the last 1400 years in the Northern Hemisphere (medium confidence).",
+        "The rate of ice-sheet for 2006–2018 ."
+    ],
+    "Volcanoes Melting West Antarctic Glaciers, Not Global Warming": [
+        "These mass losses from the West Antarctic outlet glaciers were mainly induced by ice-shelf basal melt .",
+        "Ice discharge around the West Antarctic Ice Sheet is strongly influenced by variability in basal melt , in particular at decadal and longer time scales .",
+        "In addition, melting of glaciers and ice caps due to anthropogenic influences has been speculated to increase volcanic activity ."
+    ],
+    "the bushfires [in Australia] were caused by arsonists and a series of lightning strikes, not 'climate change'": [
+        "Recent wildfires in Australia and California both occurred under hot and dry weather conditions exacerbated by climate change, and resulted in substantial property damage along the WUI, ecosystem destruction and lives lost .",
+        "Climate change is not the sole cause of the increase in forest fire severity .",
+        "With climate change, wildfires will probably become more frequent and more difficult to address, given that they frequently coincide with dry air and can be exacerbated by high winds Lightning can cause wildfires or common-mode faults on electricity systems associated with vegetation falling on power substations or overhead lines but is more generally associated with flashovers and overloads ."
+    ],
+    "Discovery Of Massive Volcanic CO2 Emissions Discredits Global Warming Theory": [
+        "Based on ESM simulations, radiative feedbacks governing the global surface temperature response to volcanic eruptions can be substantially different than those governing long-term global warming .",
+        "New estimates of SO2 emissions from explosive eruptions have been derived from satellite and in situ measurements .",
+        "However, the potential effects on the climate of large volcanic eruptions and large solar variations are studied."
+    ],
+    "Harvard study finds that wind turbines create MORE global warming than the fossil fuels they eliminate": [
+        "There is limited evidence that extreme wind speeds, which can damage wind turbines, will increase due to climate change .",
+        "Renewable energy can mitigate climate effects .",
+        "Wind turbines alter the transport and dissipation of momentum near the surface but do not directly impact the Earth’s energy balanceBox 6.7."
+    ],
+    "Ice berg melts, ocean level remains the same.": [
+        "The results of Gregory et al show that, if the ice sheet loses mass equivalent to about 3–3.5 m of sea level rise, it would not regrow to its present state, and 2 m of the sea level rise would be irreversible.",
+        "However, the net effect of meltwater feedbacks on ice shelves is uncertain.",
+        "Melting of ice and warming of the atmosphere account for about 3% and 1% of the total change respectively."
+    ],
+    "When the exact same group of 'experts' who claimed it was global cooling in 1977 now claim it's global warming you can easily see why I am skeptical": [
+        "This is partly due to the overestimation in the temperature evolution before 1990 , although the driving global models also have a cold bias .",
+        "Combining SAI and CCT has suggested that GHG-induced changes in global mean temperature and precipitation can be simultaneously offset , but there is low confidence in the applicability of this result to the real world owing to the large uncertainty in simulating aerosol forcing and the complex cirrus microphysical processes.",
+        "It is therefore more likely than not that no multi-centennial interval during the post-glacial period was warmer globally than the most recent decade ; the LIG indicate that MH warmth was most pronounced north of 30°N latitude, and that GMST subsequently decreased in general, albeit with multi-century variability, with greater cooling in the NH than in the SH The temperature history of the last millennium and the methods used to reconstruct it have been studied extensively, both prior to and following AR5, as summarized recently by Smerdon and Pollack and Christiansen and Ljungqvist ."
+    ],
+    "Scientists studying Antarctica sea ice warn a rise in accumulation could spark the next ice age.": [
+        "Sea ice loss due to climate change is expected to accelerate over the next century .",
+        "The Greenland and Antarctic ice sheets are projected to lose mass at an increasing rate throughout the 21st century and beyond .",
+        "Peatland ecosystems may increase on the west Antarctic Peninsula with future warming ."
+    ],
+    "More than 500 scientists and professionals in climate and related fields have sent a 'European Climate Declaration' to the Secretary-General of the United Nations": [
+        "A collective global response has become a significant concern in international climate policy .",
+        "Six months later in September 2019, young people and adults responded to a call to participate in climate strikes as part of the ‘Global Week for Future’ surrounding the UN Climate Action Summit , and the number of participants globally jumped to an estimated six million people .",
+        "In late 2019, protests calling for strengthened climate action reached an unprecedented level of over 6000 events in 185 countries, with a reported estimate of 7.6 million participants, largely led by the ‘Fridays for Future’ youth movement Since AR5, governments, businesses and civil society have increasingly responded with planning and actions aimed at reducing current and future risks from climate change ."
+    ],
+    "Unprecedented climate change has caused sea level at Sydney Harbour to rise approximately 0.0 cm over the past 140 years.": [
+        "Climate change is having major impacts on the region’s oceans .",
+        "In the Great Barrier Reef, Australia sea level rise and sea level global temperature warming affects fisheries’ productivity and tourism .",
+        "Wind-generated waves also contribute to coastal sea level."
+    ],
+    "Human-produced carbon might be one of the factors [of climate change], but there’s simply no evidence that it is a significant one.": [
+        "However, this does not consider attribution of the climate drivers to anthropogenic forcing.",
+        "These isotopic measurements do not support an early anthropogenic influence on atmospheric CO2 due to land-use change and forest clearing .",
+        "These uncertainties do not change the basic conclusion that global CO2 emissions would need to decline to at least net zero to halt global warming."
+    ],
+    "CO2 does not cause climate change, it RESPONDS to it [...]": [
+        "The century-scale climate–carbon cycle response to a CO2 removal from the atmosphere is not always equal and opposite to the response to a CO2 emission (medium confidence).",
+        "The specific relative effect of this advance compared to AR5 is not calculable because CMIP5 data does not isolate non-CO2 from CO2 -induced warming.",
+        "Climate change is not expected to substantially impact global solar insolation and will not compromise the ability of solar energy to support low-carbon transitions ."
+    ],
+    "[T]he raw data, the actual thermometer data[...] shows that the US has been cooling for 80 to 90 years.": [
+        "Longer reanalyses can be used to describe the change in the climate over the last 100 to 1000 years.",
+        "Mean air temperature: New literature confirms a continuous warming since the beginning of the 20th century in the majority of the eight sub-regions .",
+        "A similar analysis of long-term data in the United States ."
+    ],
+    "Earth’s mean temperature over the last 2,000 years shows two previous periods when temperatures were warmer than they are now; from 1–200 A.D., an epoch called the Roman Warm Period, and more recently the Medieval Warm Period from 900–1100 A.D.": [
+        "However, paleoclimatology of multi-million to billion-year periods reveals that CH4, CO2, continental drift, silicate rock weathering and other factors played a greater role than orbital cycles in climate changes during ice-free ‘hothouse’ periods of Earth’s distant past The AR5 WGI used paleoclimatic evidence to put recent warming and sea level rise in a multi-century perspective and assessed that 1983–2012 was likely to have been the warmest 30-year period of the last 1400 years in the Northern Hemisphere (medium confidence).",
+        "Temperatures averaged over land areas globally have warmed by 1.59 °C from 1850–1900 to 2011–2020, substantially higher than the SST warming of 0.88 °C.",
+        "Six extreme ancient hyperthermal events are known from the last 300 Ma, when tropical SSTs reached 1.5°C–10°C warmer than pre-industrial conditions, and with substantial impacts on ancient life , whereas ocean acidification has not been demonstrated consistently Greenhouse gases also contributed substantially to shaping the longer-term climate trends over the past 50 million years, although changes in continental configuration and ocean circulation as well as planetary orbital cycles were equally important ."
+    ],
+    "So that means that probably about half, maybe half of that nine-tenths of the degree [of total warming] might be caused by greenhouse gases": [
+        "Anthropogenic climate change caused up to half of the burned area , leading to emissions of 1.7 ± 0.8 GtC yr -1 in winter in the period 2003–2017 .",
+        "Deforestation has contributed about one third of the total warming of hot extremes in some mid-latitude regions since pre-industrial times .",
+        "Recent studies show that very ambitious but plausible gradual phasing out of fossil fuels in 1.5°C-compatible pathways with little or no overshoot, lead to a near-term future warming of less than 0.1°C, when considering associated emissions reduction of both warming and cooling species."
+    ],
+    "[NASA] has been adjusting temperatures from the past[...]": [
+        "Day-to-day variations in temperature also appear important.",
+        "These multiple changes in response to warming .",
+        "In summary, based on the latest updates to satellite observations of stratospheric temperature, we assess that simulated and observed trends in global mean temperature through the depth of the stratosphere are more consistent than based on previous datasets, but some differences remain (medium confidence)."
+    ],
+    "A windmill could spin until it falls apart and never generate as much energy as was invested in building it.": [
+        "Numerous dams for irrigation, some of which are also used for hydropower, have been and are planned to be built despite wind power generation potential .",
+        "There is limited evidence that extreme wind speeds, which can damage wind turbines, will increase due to climate change .",
+        "But even smaller-scale low-carbon energy and infrastructure projects can fail to get off the ground if uncertainty and investment risk discourage project planning and bank-lending programmes ."
+    ],
+    "Fifty-five thousand years ago the whole world was 2°C warmer than it is today[...]": [
+        "Six extreme ancient hyperthermal events are known from the last 300 Ma, when tropical SSTs reached 1.5°C–10°C warmer than pre-industrial conditions, and with substantial impacts on ancient life , whereas ocean acidification has not been demonstrated consistently Greenhouse gases also contributed substantially to shaping the longer-term climate trends over the past 50 million years, although changes in continental configuration and ocean circulation as well as planetary orbital cycles were equally important .",
+        "The AR5 did not include an assessment of large-scale temperature estimates for the MH, although it assigned high confidence to the long-term cooling trend over mid- to high-latitudes of the Northern Hemisphere and likely the warmest 30-year period of the past 1.4 kyr based on a quality-controlled, multi-proxy synthesis of paleo-temperature records from 470 terrestrial and 209 marine sites globally indicates that the median GMST of the warmest two-century-long interval was 0.7 °C warmer than 1800–1900 , and was centred around 6.5 ka.",
+        "In a +1.5°C world, historical 50-year droughts ."
+    ],
+    "Sea level rise is not going to happen.": [
+        "For moderate levels of sea level rise, it is unlikely that these changes alone will exceed the technical limits of coastal adaptation over the 21st century .",
+        "Sea level rise will increase these risks .",
+        "These hypotheses are not borne out in GHG-forced future projections ."
+    ],
+    "Cold weather to grip world as solar minimum to deepen, NASA says": [
+        "Finally, there are uncertainties in future solar and volcanic forcing .",
+        "Ongoing advances in remote sensing of evapotranspiration from space , as well as terrestrial water storage may contribute to future constraints on changes in latent heat flux.",
+        "In summary, consistent projections from all generations of global climate models, elementary process understanding and strong covariance between snow cover and temperature on several time scales make it virtually certain that future Northern Hemisphere snow cover extent and duration will continue to decrease as global climate continues to warm, and process understanding strongly suggests that this also applies to Southern Hemisphere seasonal snow cover ."
+    ],
+    "[O]ne of the previously fastest shrinking glaciers in the world is growing again, calling into question the narrative that rapid climate change [...]": [
+        "Glacier shrinkage and snow cover changes have led to changes .",
+        "Despite the increase in the number of glacial lake studies , changes in the frequency of occurrence of glacier-related floods associated with climate change remain unclear (medium confidence).",
+        "There is apparent glacial intensification following the MPWP, 2.75–2.72 Myr ."
+    ],
+    "The models predicted about three times the amount of warming in the world we’ve seen since [1988].": [
+        "Climate models project that warming of the Arctic is likely to continue at more than double the global rate.",
+        "As global average temperature increase exceeds about 3.5°C, model projections suggest significant extinctions .",
+        "The predictions for future climatic trends suggest an increase in warming along the higher latitudes of North Asia."
+    ],
+    "The science is clear, climate change is making extreme weather events, including tornadoes, worse.": [
+        "Climate change-related extreme weather events, such as typhoons, floods, and droughts, can have detrimental impacts on crop production .",
+        "There is increasing awareness that climate change causes weather patterns and extreme events that directly harm military installations and readiness through infrastructure damage, loss of utilities, and loss of operational capability .",
+        "New evidence confirms that climate change, including extreme weather events , superimposed on anthropogenic disturbances ."
+    ],
+    "Burping cows are more damaging to the climate than all the cars on this planet.": [
+        "Because of the greater warming over land than over oceans .",
+        "Exceeding a specific remaining carbon budget results in higher global warming.",
+        "Climate change is a major driver of species extinction and terrestrial and freshwater ecosystems destruction ."
+    ],
+    "[S]unspot activity on the surface of our star has dropped to a new low.": [
+        "The frequency of very hot days , and cold nights have become less frequent .",
+        "Fewer aircraft flights and ship transits mean that onboard observations from those networks have reduced in number and frequency .",
+        "Cloud cover is projected to decrease in the subtropics ."
+    ],
+    "The rate of warming according to the data is much slower than the models used by the IPCC": [
+        "Greater lags in regions with faster warming.",
+        "The recent IPCC Report on Global Warming of 1.5°C .",
+        "SR1.5 assessed with low confidence differences in projected impacts under 1.5°C compared with 2°C of warming ."
+    ],
+    "The ­atmospheric residency time of carbon dioxide is five years": [
+        "Projected CO2 emissions reductions between 2019 and 2050 in 1.5°C .",
+        "A quantification based on atmospheric CO2 data.",
+        "Atmospheric CO2 concentration measurements in remote locations began in 1957 at the South Pole Observatory , Hawaii, USA ."
+    ],
+    "Sea-level rise does not seem to depend on ocean temperature, and certainly not on CO2": [
+        "The specific relative effect of this advance compared to AR5 is not calculable because CMIP5 data does not isolate non-CO2 from CO2 -induced warming.",
+        "Due to strong internal variability, systematic changes in carbon uptake in response to climate warming have not been observed in most other ocean basins at present.",
+        "Over the 21st century, ocean heat and CO2 uptake will continue and sea ice loss from warming will allow some additional CO2 uptake , but the ocean will take up a smaller fraction of CO2 emissions as atmospheric CO2 concentrations rise There is very limited evidence on climate-driven air-quality changes in the coastal zone."
+    ],
+    "There isn’t yet any empirical evidence for their claim that greenhouse gases even cause temperatures to increase.": [
+        "The degree to which N2O production impacted PETM warming, however, has not yet been established.",
+        "These hypotheses are not borne out in GHG-forced future projections .",
+        "However, ESMs still have considerable biases in the climatological temperature and cloud fraction over land, and the magnitude of this feedback has not yet been supported by observational evidence."
+    ],
+    "NOAA has adjusted past temperatures to look colder than they were and recent temperatures to look warmer than they were.": [
+        "Such reconstructions provide a new context for recent warming trends .",
+        "These multiple changes in response to warming .",
+        "The increase in the frequency of warm nights is larger than that projected for warm days, consistent with observed past changes that have been related to changes in cloud cover that affect daytime temperatures differently than nighttime temperatures Increases in mean precipitation ."
+    ],
+    "They were going to be gone by now, but now they're setting records": [
+        "This trend is expected to continue.",
+        "Studies of monthly, seasonal, and annual records in various regions and globally show an increase in the breaking of hot records and a decrease in the breaking of cold records .",
+        "But by then, it may be too late."
+    ],
+    "unadjusted data suggests that temperatures in Australia have only increased by 0.3 degrees over the past century, not the 1 degree usually claimed": [
+        "Mean air temperature: Across Australia mean temperatures have increased by 1.44°C ± 0.24°C during the period 1910–2019, with most of the warming occurring since 1950 .",
+        "In New Zealand, an increase of 1.1°C has been measured from 1909–2016 .",
+        "Global surface temperatures increased by about 0.1°C ."
+    ],
+    "[climate scientists] say that aspects of the case of Hurricane Harvey suggest global warming is making a bad situation worse.": [
+        "Migrations and displacement caused by climate change may worsen the well-being of those affected .",
+        "For example, in a case study of Hurricane Harvey, Trenberth et al suggested that the lack of realistic hurricane frequency and intensity within coupled climate models hampers the models’ ability to simulate SST and ocean heat content and their changes.",
+        "Large precipitation increases during Harvey due to global warming were also found using climate models ."
+    ],
+    "The IPCC, the Intergovernmental Panel on Climate Change, which is sort of the voice of the consensus, concedes that there has been no increase in extreme weather events.": [
+        "There is limited evidence and low agreement for climate-driven impacts on these movements .",
+        "In nearly all regions there is low confidence in changes in hail, ice storms, severe storms, dust storms, heavy snowfall and avalanches, although this does not indicate that these CIDs will not be affected by climate change.",
+        "In addition, there is a lack of consensus on globally accepted and operational definitions for both climate-related extremes and exposures/outcomes."
+    ],
+    "according, again, to the official figures—during this past 10 years, if anything, mean global temperature, average world temperature, has slightly declined": [
+        "While this causes global mean temperature to decline, changes in climate have not fully reversed by 2100 under this reversal of CO2 concentration of the same average CO2.",
+        "At 41°N and 26°N, a decline of –3.1 ± 3.2 Sv per decade and –2.5 ± 2.1 Sv per decade respectively has been reported over 2004–2016 .",
+        "For the period 2006–2015, observed global mean surface temperature ."
+    ],
+    "Trump's action could push the Earth over the brink, to become like Venus, with a temperature of two hundred and fifty degrees, and raining sulphuric acid.": [
+        "Seeding leading to higher particle concentrations could lead to a warming .",
+        "Heatwaves are projected to become more frequent and intense even at 1.5°C of global warming .",
+        "A global temperature increase <2°C could increase global population exposure to wildfire by ~30% ."
+    ],
+    "Most likely the primary control knob [on climate change] is the ocean waters and this environment that we live in.": [
+        "Climate regulation by the ocean depends on physical and biogeochemical processes .",
+        "Ocean systems are already facing significant impacts of climate change.",
+        "Climate change is having major impacts on the region’s oceans ."
+    ],
+    "'Global warming' is a myth — so say 80 graphs from 58 peer-reviewed scientific papers published in 2017.": [
+        "It shows the number of media science stories in those sources grew steadily from 47,376 per annum to 86,587 per annum between 2017 and 2021 across print, broadcast, digital media and entertainment However, increasing media coverage does not always lead to more accurate coverage of climate change mitigation, as it can also spur diffusion of misinformation .",
+        "The sheer volume of published, peer-reviewed literature on climate change presents a challenge to comprehensive, robust and transparent assessment.",
+        "Notably, after mid-2018, global media showed a large increase number of mentions of ‘global warming’, ‘climate change’ and similar terms ."
+    ],
+    "Neither the rate nor the magnitude of the reported late twentieth century surface warming (1979–2000) lay outside normal natural variability.": [
+        "However, this does not consider attribution of the climate drivers to anthropogenic forcing.",
+        "In summary, based on CMIP5 and CMIP6 results, there is no robust evidence that the observed changes in either the Atlantic Niño or AMM modes and associated teleconnections over the second half of the 20th century are beyond the range of internal variability or have been influenced by natural or anthropogenic forcing.",
+        "These hypotheses are not borne out in GHG-forced future projections ."
+    ],
+    "Forward projections of solar cyclicity imply the next few decades may be marked by global cooling rather than warming, despite continuing CO2 emissions.": [
+        "It is very likely that global mean stratospheric cooling will be larger by the end of the 21st century in a pathway with higher atmospheric CO2 concentrations.",
+        "However, short-term emissions trends alone do not generally rule out an opposite trend in the future .",
+        "Higher emissions in earlier decades imply lower emissions later on to stay within the Earth’s carbon budget."
     ]
 }

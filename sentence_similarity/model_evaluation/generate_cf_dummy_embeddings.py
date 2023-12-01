@@ -1,5 +1,6 @@
 from sentence_transformers import SentenceTransformer
 import pickle
+import json
 
 MODEL_NAMES = ['all-mpnet-base-v2', 
           'climatebert/distilroberta-base-climate-f', 
@@ -46,8 +47,8 @@ DUMMY_CLAIMS = ['Nikolaj Coster-Waldau worked with the Fox Broadcasting Company.
                 'Reese Witherspoon received an Oscar nomination.'
                 ]
 
-with open('climate_fever/claims.pkl', 'rb') as f:
-    CLIMATE_FEVER_CLAIMS = pickle.load(f)
+with open('climate_fever/claims.json', 'r', encoding='utf-8') as f:
+    CLIMATE_FEVER_CLAIMS = json.load(f)
 
 # generates climate_fever claims embeddings for a model
 def generate_claim_dummy_embeddings(model_name):

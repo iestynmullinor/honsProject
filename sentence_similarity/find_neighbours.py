@@ -7,6 +7,7 @@ from sklearn.neighbors import KDTree
 import compare_query
 from model import MODEL as model
 import pickle
+import json
 
 reports = {'synthesis' : 'Synthesis Report', 
            'wg1' : 'Working Group 1 - Climate Change 2021: The Physical Science Basis',
@@ -14,8 +15,8 @@ reports = {'synthesis' : 'Synthesis Report',
            'wg3' : 'Working Group 3 - Climate Change 2022: Mitigation of Climate Change'}
 
 # Load sentence_section_pairs.pkl
-with open('sentence_similarity/data/sentence_section_pairs.pkl', 'rb') as f:
-    sentence_section_pairs = pickle.load(f)
+with open('sentence_similarity/data/sentence_section_pairs.json', 'r', encoding='utf-8') as f:
+    sentence_section_pairs = json.load(f)
 
 # Access the loaded data
 sentences = [pair[0] for pair in sentence_section_pairs]
