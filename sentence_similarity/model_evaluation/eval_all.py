@@ -70,8 +70,8 @@ with open('climate_fever/claims.json', 'r', encoding='utf-8') as f:
     CLIMATE_FEVER_CLAIMS = json.load(f)
 
     
-with open('sentence_similarity/data/sentence_section_pairs.pkl', 'rb') as f:
-    SENTENCE_SECTION_PAIRS = pickle.load(f)
+with open('sentence_similarity/data/sentence_section_pairs.json', 'r', encoding='utf-8') as f:
+    SENTENCE_SECTION_PAIRS = json.load(f)
 SENTENCES = [pair[0] for pair in SENTENCE_SECTION_PAIRS]
 
 # we find the "dummy" metrics for a model and add them to radius metrics, which evaluate how often it finds evidence for sentences unrelated to climate change
