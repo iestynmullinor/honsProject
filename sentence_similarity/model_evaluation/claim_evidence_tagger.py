@@ -47,7 +47,7 @@ if __name__=="__main__":
         invalid_evidence = json.load(f)
 
     score_matrix = []
-
+    count = 1
     for claim in claim_with_evidence.keys():
         claim_score = []
         for evidence in claim_with_evidence[claim]:
@@ -58,7 +58,7 @@ if __name__=="__main__":
             else:
                 firm = False
                 while not firm:
-                    val = input(f"\n\nclaim: {claim}\nevidence: {evidence}\nIs this evidence valid? (y/n): ")
+                    val = input(f"\n\n{count}/{NO_CLAIMS*3}\nclaim: {claim}\nevidence: {evidence}\nIs this evidence valid? (y/n): ")
                     double_check = input(f"Are you sure? (y/n): ")
                     if double_check == 'y':
                         firm = True
@@ -68,6 +68,8 @@ if __name__=="__main__":
                         else:
                             claim_score.append(0)
                             invalid_evidence[claim].append(evidence)
+
+            count += 1
         score_matrix.append(claim_score)
 
     #write the valid evidence json
