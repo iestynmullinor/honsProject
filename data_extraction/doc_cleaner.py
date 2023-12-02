@@ -58,6 +58,12 @@ def clean_section(section):
 
      # remove any sentences containing "section" or "Section"
     section = re.sub(r'.*[Ss]ection.*', '', section)
+
+    # remove any sentences containing "Chapter" or "chapter"
+    section = re.sub(r'.*[Cc]hapter.*', '', section)
+
+    #Remoce any sentences containing "Cross-Chapter"
+    section = re.sub(r'.*[Cc]ross-[Cc]hapter.*', '', section)
     
     # reduce multiple consecutive spaces to a single space
     section = re.sub(r' +', ' ', section)
