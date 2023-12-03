@@ -30,7 +30,13 @@ resulting_labels = [result['label'] for result in results_climatebert]
 # Calculate precision, recall, and F1-score
 report = classification_report(gold_labels, resulting_labels)
 
-print(report)
+# Write the report to a text file
+with open('climate_claim_detection/classification_report.txt', 'w') as file:
+    file.write(report)
+
+print("Classification report written to classification_report.txt")
+
+
 
 # print all claims that are labeled as not related by mini
 """
