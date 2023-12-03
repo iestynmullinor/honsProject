@@ -3,6 +3,8 @@ from transformers import pipeline
 import time
 import json
 
+# this model could be better mwong/albert-base-climate-claim-related (more in the notion)
+
 pipe = pipeline("text-classification", model="mwong/climatebert-base-f-climate-evidence-related")
 
 claim = "The science is clear, climate change is making extreme weather events, including tornadoes, worse."
