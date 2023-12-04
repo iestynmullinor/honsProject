@@ -10,7 +10,7 @@ NO_CLAIMS = 50
 K = 3
 
 MODEL_NAMES = ['all-mpnet-base-v2', 
-          'climatebert/distilroberta-base-climate-f', 
+          #'climatebert/distilroberta-base-climate-f', 
           'all-MiniLM-L12-v2',
           'sentence-transformers/all-roberta-large-v1',
           'BAAI/bge-base-en-v1.5',
@@ -21,7 +21,7 @@ MODEL_NAMES = ['all-mpnet-base-v2',
           'thenlper/gte-large']
 
 MODEL_NAMES_WITHOUT_DIR = ['all-mpnet-base-v2', 
-          'distilroberta-base-climate-f', 
+          #'distilroberta-base-climate-f', 
           'all-MiniLM-L12-v2',
           'all-roberta-large-v1',
           'bge-base-en-v1.5',
@@ -32,7 +32,7 @@ MODEL_NAMES_WITHOUT_DIR = ['all-mpnet-base-v2',
           'gte-large']
 
 EMBEDDINGS_NAMES = ['MODEL_all-mpnet-base-v2_EMBEDDINGS.pkl', 
-          'MODEL_distilroberta-base-climate-f_EMBEDDINGS.pkl', 
+          #'MODEL_distilroberta-base-climate-f_EMBEDDINGS.pkl', 
           'MODEL_all-MiniLM-L12-v2_EMBEDDINGS.pkl',
           'MODEL_all-roberta-large-v1_EMBEDDINGS.pkl',
           'MODEL_bge-base-en-v1.5_EMBEDDINGS.pkl',

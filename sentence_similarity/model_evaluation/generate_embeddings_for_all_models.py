@@ -5,7 +5,7 @@ import json
 #USE THE GOOGLE COLLAB VERSION OF THIS AS IS MUCH FASTER
 
 MODEL_NAMES = ['all-mpnet-base-v2', 
-          'climatebert/distilroberta-base-climate-f', # THIS IS NOT A SENTEMNCE TRANSFORMERS MODEL LEAVE IT OUT
+          #'climatebert/distilroberta-base-climate-f', # THIS IS NOT A SENTEMNCE TRANSFORMERS MODEL LEAVE IT OUT
           'all-MiniLM-L12-v2',
           'sentence-transformers/all-roberta-large-v1',
           'BAAI/bge-base-en-v1.5',
@@ -16,7 +16,7 @@ MODEL_NAMES = ['all-mpnet-base-v2',
           'thenlper/gte-large']
 
 MODEL_NAMES_WITHOUT_DIR = ['all-mpnet-base-v2', 
-          'distilroberta-base-climate-f', 
+          #'distilroberta-base-climate-f', 
           'all-MiniLM-L12-v2',
           'all-roberta-large-v1',
           'bge-base-en-v1.5',

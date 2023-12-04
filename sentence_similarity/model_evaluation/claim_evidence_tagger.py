@@ -4,7 +4,7 @@ NO_CLAIMS = 50
 
 MODEL_NAMES_WITHOUT_DIR = ['all-mpnet-base-v2', 
           'distilroberta-base-climate-f', 
-          'all-MiniLM-L12-v2',
+          #'all-MiniLM-L12-v2',
           'all-roberta-large-v1',
           'bge-base-en-v1.5',
           'all-MiniLM-L6-v2',

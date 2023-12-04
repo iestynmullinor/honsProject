@@ -1,0 +1,11 @@
+Model Name                                             Backed Up Claims    Relevant Evidence
+---------------------------------------------------  ------------------  -------------------
+all-mpnet-base-v2                                                  0.78             0.473333
+all-MiniLM-L12-v2                                                  0.64             0.373333
+all-roberta-large-v1                                               0.68             0.4
+bge-base-en-v1.5                                                   0.58             0.333333
+all-MiniLM-L6-v2                                                   0.62             0.346667
+climate-fever-msmarco-distilbert-gpl                               0.48             0.3
+bpr-gpl-climate-fever-base-msmarco-distilbert-tas-b                0.58             0.313333
+e5-large-v2                                                        0.44             0.2
+gte-large                                                          0.6              0.346667
