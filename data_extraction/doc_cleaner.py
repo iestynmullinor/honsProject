@@ -68,6 +68,9 @@ def clean_section(section):
     # reduce multiple consecutive spaces to a single space
     section = re.sub(r' +', ' ', section)
 
+    # replace GHG with greenhouse gas
+    section = re.sub(r'GHG', 'greenhouse gas', section)
+
     return section
 
 
