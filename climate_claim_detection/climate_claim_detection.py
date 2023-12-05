@@ -4,6 +4,8 @@ from sklearn.metrics import classification_report
 import time
 import json
 
+MODEL = "climatebert/distilroberta-base-climate-detector"
+SAVE_RESULTS = False
 
 with open ('climate_fever/claims.json', 'r', encoding='utf-8') as f:
     CLIMATE_CLAIMS = json.load(f)
@@ -15,7 +17,7 @@ ALL_CLAIMS = CLIMATE_CLAIMS + NON_CLIMATE_CLAIMS
 
 gold_labels = ['yes'] * len(CLIMATE_CLAIMS) + ['no'] * len(NON_CLIMATE_CLAIMS)
 
-pipe_climatebert = pipeline("text-classification", model="climatebert/distilroberta-base-climate-detector")
+pipe_climatebert = pipeline("text-classification", model=MODEL)
 
 start = time.time()
 results_climatebert = pipe_climatebert(ALL_CLAIMS)
@@ -30,11 +32,14 @@ resulting_labels = [result['label'] for result in results_climatebert]
 # Calculate precision, recall, and F1-score
 report = classification_report(gold_labels, resulting_labels)
 
-# Write the report to a text file
-with open('climate_claim_detection/classification_report.txt', 'w') as file:
-    file.write(report)
+print(report)
 
-print("Classification report written to classification_report.txt")
+if SAVE_RESULTS:
+    # Write the report to a text file
+    with open('climate_claim_detection/classification_report.txt', 'w') as file:
+        file.write(report)
+
+    print("Classification report written to classification_report.txt")
 
 
 
