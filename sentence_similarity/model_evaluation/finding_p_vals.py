@@ -39,8 +39,8 @@ def mc_nemer_test(model1_matrix, model2_matrix):
 
 def perform_test(file_path_of_matrix_1, file_path_of_matrix_2):
 
-    name_of_model_1 = (file_path_of_matrix_1.split('/')[-1].split('_')[0]).split('.')[0]
-    name_of_model_2 = (file_path_of_matrix_2.split('/')[-1].split('_')[0]).split('.')[0]
+    name_of_model_1 = file_path_of_matrix_1.split('/')[-1].split('.txt')[0].split('_')[0]
+    name_of_model_2 = file_path_of_matrix_2.split('/')[-1].split('.txt')[0].split('_')[0]
 
     print(f"Comparing {name_of_model_1} and {name_of_model_2}:")
 
@@ -74,7 +74,7 @@ if __name__=="__main__":
     results_dict = {'models': [], 'P-Value comaparing Claims With Evidence': [], 'P-Value comparing amount of Valid Evidence': []}
     for model in OTHER_MODELS:
         claims_with_evidence_result, valid_evidence_result = perform_test(BEST_MODEL, f"sentence_similarity/model_evaluation/model_relevance_scores/{model}")
-        results_dict['models'].append(model.split(".")[0])
+        results_dict['models'].append(model.split('.txt')[0].split('_')[0])
         results_dict['P-Value comaparing Claims With Evidence'].append(claims_with_evidence_result.pvalue)
         results_dict['P-Value comparing amount of Valid Evidence'].append(valid_evidence_result.pvalue)
 
