@@ -17,7 +17,7 @@ K = 30
 RADIUS = 1
 
 # this has not been confirmed to be any good
-RERANKER_MODEL ="mwong/climatebert-base-f-climate-evidence-related"
+RERANKER_MODEL ="mwong/ernie-v2-climate-evidence-related"
 
 with open('sentence_similarity/data/sentence_section_pairs.json', 'r', encoding='utf-8') as f:
     SENTENCE_SECTION_PAIRS = json.load(f)
