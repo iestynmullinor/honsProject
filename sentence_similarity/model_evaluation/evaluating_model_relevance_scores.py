@@ -11,7 +11,11 @@ MODEL_NAMES = ['all-mpnet-base-v2',
           'climate-fever-msmarco-distilbert-gpl', #sentence transformers version of climate-bert
           'bpr-gpl-climate-fever-base-msmarco-distilbert-tas-b',
           'e5-large-v2',
-          'gte-large']
+          'gte-large',
+          'bm25',
+          'contriever',
+          'contriever-msmarco'
+          ]
 
 
 def read_file(file_path):
@@ -58,7 +62,7 @@ if __name__ == "__main__":
         table_data.append([model_name, backed_up_claims[model_name], relevant_evidence[model_name]])
 
     headers = ["Model Name", "Backed Up Claims", "Relevant Evidence"]
-    print(tabulate(table_data, headers=headers))
+    print(tabulate(table_data, headers=headers, tablefmt='fancy_grid'))
 
     # Write table to a txt file
     with open("sentence_similarity/model_evaluation/model_evaluation_table.txt", "w") as file:

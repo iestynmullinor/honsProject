@@ -11,7 +11,10 @@ OTHER_MODELS = ["all-roberta-large-v1_score_matrix.txt",
                 "bpr-gpl-climate-fever-base-msmarco-distilbert-tas-b_score_matrix.txt",
                 "climate-fever-msmarco-distilbert-gpl_score_matrix.txt",
                 "e5-large-v2_score_matrix.txt",
-                "gte-large_score_matrix.txt"
+                "gte-large_score_matrix.txt",
+                "bm25_score_matrix.txt",
+                'contriever_score_matrix.txt',
+                'contriever-msmarco_score_matrix.txt'
 
 
 

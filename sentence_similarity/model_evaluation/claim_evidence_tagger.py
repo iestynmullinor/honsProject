@@ -11,7 +11,10 @@ MODEL_NAMES_WITHOUT_DIR = ['all-mpnet-base-v2',
           'climate-fever-msmarco-distilbert-gpl', #sentence transformers version of climate-bert
           'bpr-gpl-climate-fever-base-msmarco-distilbert-tas-b',
           'e5-large-v2',
-          'gte-large']
+          'gte-large',
+          'bm25',
+          'contriever',
+          'contriever-msmarco']
 
 
 

@@ -9,3 +9,6 @@ climate-fever-msmarco-distilbert-gpl                               0.48         
 bpr-gpl-climate-fever-base-msmarco-distilbert-tas-b                0.58             0.313333
 e5-large-v2                                                        0.44             0.2
 gte-large                                                          0.6              0.346667
+bm25                                                               0.38             0.18
+contriever                                                         0.58             0.28
+contriever-msmarco                                                 0.68             0.406667
