@@ -6,7 +6,7 @@ import json
 from transformers import pipeline
 
 DETECT_CLIMATE_CLAIM = True
-RERANK = True
+RERANK = False
 
 # this mode is actually very good
 CLIMATE_CLAIM_DETECTOR_MODEL = "climatebert/distilroberta-base-climate-detector"

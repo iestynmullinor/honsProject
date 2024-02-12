@@ -13,7 +13,10 @@ with open('sentence_similarity/data/sentence_section_pairs.json', 'r', encoding=
     SENTENCE_SECTION_PAIRS = json.load(f)
 SENTENCES = [pair[0] for pair in SENTENCE_SECTION_PAIRS if len(pair[0]) < 500][:10]
 
-input_array = [f"{claim}</s></s>{sentence}" for sentence in SENTENCES]
+#input_array = [f"[CLS] {claim} [SEP] {sentence} [SEP]" for sentence in SENTENCES]
+
+input_array = [f"{claim} </s><s> {sentence}" for sentence in SENTENCES]
+
 
 #input_array = ["The science is clear, climate change is making extreme weather events, including tornadoes, worse.</s></s>Climate change is making extreme weather events, including tornadoes, worse."]
 
