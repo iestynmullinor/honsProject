@@ -1,6 +1,8 @@
 import pandas as pd
 from datasets import load_dataset
 
+FIX_IMBALANCE = False
+
  # Load the dataset
 dataset = load_dataset("pietrolesci/nli_fever")
 # # Convert the DatasetDict to a DataFrame
@@ -8,7 +10,6 @@ df = pd.DataFrame(dataset['test'])
 
 # # Save the DataFrame as a CSV file
 df.to_csv('fever/nli_fever_test.csv', index=False)
-
 
 
 # load fever/nlie_fever.csv as dataframe
@@ -30,6 +31,17 @@ fever_reranker_training = pd.DataFrame({
     "evidence": evidence,
     "label": formatted_labels
 })
+
+# shuffle the order of rows
+fever_reranker_training = fever_reranker_training.sample(frac=1).reset_index(drop=True)
+   
+
+# Shuffle the order of rows
+fever_reranker_training_balanced = fever_reranker_training_balanced.sample(frac=1).reset_index(drop=True)
+
+# Save the formatted data
+fever_reranker_training_balanced.to_csv("evidence_reranker/training_data/fever_reranker_test.csv", index=False)
+    
 
 # save the formatted data
 fever_reranker_training.to_csv("evidence_reranker/training_data/fever_reranker_test.csv", index=False)
