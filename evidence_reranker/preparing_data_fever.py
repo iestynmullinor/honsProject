@@ -36,13 +36,6 @@ fever_reranker_training = pd.DataFrame({
 fever_reranker_training = fever_reranker_training.sample(frac=1).reset_index(drop=True)
    
 
-# Shuffle the order of rows
-fever_reranker_training_balanced = fever_reranker_training_balanced.sample(frac=1).reset_index(drop=True)
-
-# Save the formatted data
-fever_reranker_training_balanced.to_csv("evidence_reranker/training_data/fever_reranker_test.csv", index=False)
-    
-
 # save the formatted data
 fever_reranker_training.to_csv("evidence_reranker/training_data/fever_reranker_test.csv", index=False)
 
