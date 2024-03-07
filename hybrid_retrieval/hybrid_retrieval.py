@@ -9,7 +9,7 @@ from tqdm import tqdm
 
 model = SentenceTransformer("all-mpnet-base-v2")
 
-LLAMBDA = 0.2
+LLAMBDA = 0.7
 NUMBER_AFTER_DECIMAL = str(LLAMBDA).split(".")[1]
 
 
@@ -41,13 +41,20 @@ def get_bm25_scores(query):
     # Calculate BM25 scores for the query
     scores = bm25.get_scores(tokenized_query)
 
-    # Apply min-max normalization to scale scores to [-1, 1] ( to be used in hybrid retrieval, as cosine similarity scores are in [-1, 1])
-    min_score, max_score = min(scores), max(scores)
-    # Avoid division by zero if all scores are the same
-    if min_score == max_score:
-        normalized_scores = [-1 if score < 0 else 1 for score in scores]  # Or use [0] * len(scores) if you prefer all scores to be 0 when they are all equal
+     # Apply L1 normalization (make sure the sum of absolute values of scores adds up to 1)
+    total_score = sum(abs(score) for score in scores)
+    # Avoid division by zero if all scores are zero
+    if total_score == 0:
+        normalized_scores = [0] * len(scores)  # All scores are 0 if the total score is 0
     else:
-        normalized_scores = [-1 + 2 * ((score - min_score) / (max_score - min_score)) for score in scores]
+        normalized_scores = [score / total_score for score in scores]
+
+    # print the mean normalized score
+    # print(f"Mean normalized BM25 score: {np.mean(normalized_scores)}")
+
+    # # print the min and max normalized score
+    # print(f"Min normalized BM25 score: {min(normalized_scores)}")
+    # print(f"Max normalized BM25 score: {max(normalized_scores)}")
 
     return normalized_scores
 
@@ -78,7 +85,22 @@ def get_dense_retrieval_results(query):
         # Calculate the cosine similarity between the query and every evidence sentences
         similarities = [cosine_similarity(query_embedding, evidence_embedding) for evidence_embedding in embeddings]
 
-    return similarities
+        # Apply L1 normalization
+        total_similarity = sum(abs(sim) for sim in similarities)
+        # Avoid division by zero if all similarities are zero
+        if total_similarity == 0:
+            normalized_similarities = [0] * len(similarities)
+        else:
+            normalized_similarities = [sim / total_similarity for sim in similarities]
+
+        # # print the mean score
+        # print(f"Mean dense retrieval score: {np.mean(normalized_similarities)}")
+
+        # # print the min and max score
+        # print(f"Min dense retrieval score: {min(normalized_similarities)}")
+        # print(f"Max dense retrieval score: {max(normalized_similarities)}")
+
+    return normalized_similarities
 
 # find the hybrid retrieval results for query
 def hybrid_retrieval(query):
@@ -92,9 +114,9 @@ def hybrid_retrieval(query):
 
 def get_k_nearest_for_claim(claim):
     scores = hybrid_retrieval(claim)
-    # find the index of the top 5 scores
+    # find the index of the top 3 scores
     top_3_indices = np.argsort(scores)[-3:]
-    # find the top 5 evidence sentences
+    # find the top 3 evidence sentences
     top_3_sentences = [evidence_sentences[i] for i in top_3_indices]
     return top_3_sentences
 
