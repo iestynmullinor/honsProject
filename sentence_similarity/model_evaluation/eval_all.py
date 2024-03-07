@@ -105,7 +105,7 @@ def get_radius_metrics(nn, cf_embeddings):
     radius_metrics['average no of neighbours'] = radius_metrics['total no of neighbours'] / len(cf_embeddings)
     return radius_metrics
 
-# gets the k (5) nearest neighbours for a claim
+# gets the k (3) nearest neighbours for a claim
 def get_k_nearest_for_claim(nn, claim_embedding):
     distances, indices = nn.kneighbors([claim_embedding])
     k_nearest = []
@@ -113,7 +113,7 @@ def get_k_nearest_for_claim(nn, claim_embedding):
         k_nearest.append(SENTENCES[index])
     return k_nearest
 
-# returns a dictionary of claims and their k (5) nearest neighbours
+# returns a dictionary of claims and their k (3) nearest neighbours
 def get_k_nearest_for_all_claims(nn, claims, cf_embeddings):
     k_nearest_for_all_claims = {}
     for claim, claim_embedding in zip(claims, cf_embeddings):

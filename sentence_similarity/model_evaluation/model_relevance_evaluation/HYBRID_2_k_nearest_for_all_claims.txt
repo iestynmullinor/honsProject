@@ -1,0 +1,252 @@
+{
+    "Global warming is driving polar bears toward extinction": [
+        "In the Chukchi Sea, in recent decades the average duration polar bears spent onshore increased by 30 d in line with global warming and the rapid decline of their sea ice habitat In Central Kazakh Steppe, in line with warming, in 2018 there were more ‘southern’ sub-arid species in the communities and fewer relatively ‘northern’ boreal and polyzonal species of ground beetles .",
+        "Important identified drivers during winter are tropical and polar amplification of global warming and the polar stratospheric vortex , with implications for precipitation.",
+        "Reproductive failures and declining abundances attributed to warmer polar oceans and less sea ice cover are observed in populations of polar bears, Ursus maritimus, seals, whales and marine birds ."
+    ],
+    "The sun has gone into ‘lockdown’ which could cause freezing weather, earthquakes and famine, say scientists": [
+        "Elevation-dependent warming could speed up the observed, rapid upward shifts of the freezing level height .",
+        "Since 2000, the world has been experiencing significant increase in economic losses and damages from natural disasters and weather perils such as tropical cyclones, earthquakes, flooding and drought.",
+        "Political economy approaches can be crudely divided into ‘economic approaches to politics’, and those used by other social scientists ."
+    ],
+    "The polar bear population has been growing.": [
+        "An important aspect is the need to meet the ‘dual challenge of creating wealth for a growing population while staying within planetary boundaries’ .",
+        "The city, situated in a global biodiversity hotspot , has a rapidly growing population .",
+        "Tourism demand for polar bear viewing in Churchill, Manitoba, Canada, may change due to climate-related declines in polar bear health , but may be offset by ‘Last Chance Tourism’ ."
+    ],
+    "Ironic' study finds more CO2 has slightly cooled the planet": [
+        "Some forests in the USA could benefit slightly from CO2 fertilisation resulting in increased productivity especially for hardwoods .",
+        "A modelling study of USA mitigation policy finds the costs of using heterogeneous sub-national policies to achieve decarbonisation targets is 10% higher than national uniform policies .",
+        "Battery storage both on the household and community level was perceived as slightly positive in one study in the UK ."
+    ],
+    "Human additions of CO2 are in the margin of error of current measurements and the gradual increase in CO2 is mainly from oceans degassing as the planet slowly emerges from the last ice age.": [
+        "Records of CO2 from the AIS formed during the last glacial period and the LDT show century-scale fluctuations of up to 9.6 ppm .",
+        "Artificial intelligence is expected to reduce human error when they operate a decision-making system .",
+        "At the end of the last very cold phase of the most recent Ice Age, about 11,500 years ago, temperatures rose extremely rapidly—as much as 10°C leading to migration."
+    ],
+    "They tell us that we are the primary forces controlling earth temperatures by the burning of fossil fuels and releasing their carbon dioxide.": [
+        "Global terrestrial ecosystems comprised a net sink of -1.9 ± 1.1 Gt yr -1 from 2010 to 2019 , mainly due to growth in forests , mitigating ~31% of global emissions from the burning of fossil fuels and LUC In summary, terrestrial ecosystems contain 3000–4000 GtC in vegetation, permafrost and soils, three to five times the amount of carbon in unextracted fossil fuels and 4.4 times the carbon currently in the atmosphere .",
+        "EBEs can be calculated by multiplying primary energy extraction of fossil fuels with their respective carbon content .",
+        "Net zero emissions imply that fossil fuel use is minimised and replaced by renewables and other low-carbon primary forms of energy, or that the residual emissions from fossil fuels are offset by carbon dioxide removal , or limit warming to 1.5°C ."
+    ],
+    "The Great Barrier Reef is experiencing the most widespread bleaching ever recorded": [
+        "Recently, small-scale MCB and OAC experiments started to take place on the Great Barrier Reef SAI – the most researched SRM method – poses significant international governance challenges since it could potentially be deployed uni- or minilaterally and alter the global mean temperature much faster than any other climate policy measure, at comparatively low direct costs .",
+        "Since the mid-20th century, a distinct feature of coral δ11B records relates to ocean acidification trends, albeit having a wide range of values: 0.12–0.40 pH unit in the Great Barrier Reef , 0.05–0.08 pH unit in the north-west Pacific and 0.04–0.09 pH unit in the Atlantic Ocean .",
+        "In the Great Barrier Reef, Australia sea level rise and sea level global temperature warming affects fisheries’ productivity and tourism ."
+    ],
+    "it’s not a pollutant that threatens human civilization.": [
+        "Diesel air pollutant emissions are dominated by BC and NOx whereas gasoline air pollutant emissions are dominated by CO and NMVOCs, especially when distribution and upstream losses are considered.",
+        "This situation threatens human water security in the long term and poses an increasing risk to adaptation success in CSA Important progress has been made on climate change and water management policies in combination with more inclusive stakeholder processes.",
+        "Detailed studies on the innovation effects of national pollutant ."
+    ],
+    "If CO2 was so terrible for the planet, then installing a CO2 generator in a greenhouse would kill the plants.": [
+        "Compared to a high-CO2 world without SRM, SRM would enhance the net uptake of CO2 by the terrestrial biosphere and ocean, thus acting to reduce atmospheric CO2 (high confidence).",
+        "However, the amount of increase is uncertain as it depends on the extent to which CO2 fertilization of land plants is limited by nutrient availability.",
+        "However, CO2 is not the only greenhouse gas that contributes to global warming and reducing emissions of other greenhouse gases (GHGs) alongside CO2 towards net zero emissions of all GHGs would lower the level at which global temperature would peak."
+    ],
+    "Sea level rise has been slow and a constant, pre-dating industrialization": [
+        "Sea level rise hazards for coastal ecosystems, infrastructure, farmland, cities and settlements in a particular region are often driven by regional changes in relative sea level .",
+        "The results of Gregory et al show that, if the ice sheet loses mass equivalent to about 3–3.5 m of sea level rise, it would not regrow to its present state, and 2 m of the sea level rise would be irreversible.",
+        "Interactions between sea level rise and storm surges , and sea level and fluvial flooding are projected to lead to more frequent and intense compound coastal flooding events as sea levels continue to rise."
+    ],
+    "Earth about to enter 30-YEAR ‘Mini Ice Age’": [
+        "Since AR5, new global models are emerging that more rigorously treat ice and Earth structure uncertainty .",
+        "Various definitions of ‘ice free’ Arctic Ocean conditions can be tailored to represent transportation needs, including thresholds of ice coverage .",
+        "When stocks for some materials saturate – per capita stock peaks – the ‘scrap age’ is coming ."
+    ],
+    "Volcanoes Melting West Antarctic Glaciers, Not Global Warming": [
+        "Peatland ecosystems may increase on the west Antarctic Peninsula with future warming .",
+        "These mass losses from the West Antarctic outlet glaciers were mainly induced by ice-shelf basal melt .",
+        "It further assessed that Antarctic ice loss is dominated by acceleration, retreat and rapid thinning of the major West Antarctic Ice Sheet outlet glaciers ."
+    ],
+    "the bushfires [in Australia] were caused by arsonists and a series of lightning strikes, not 'climate change'": [
+        "In Australia, during 1987–2016, natural disasters caused an estimated 971 deaths and 4370 injuries, 24,120 people were made homeless and about 9 million people were affected .",
+        "Over 75% of people in Australia and New Zealand agree that climate change is occurring and over 60% believe climate change is caused by humans, giving climate adaptation and mitigation action further social legitimacy.",
+        "During the last millenium, the combined effect of a positive IOD and El Niño conditions have caused severe droughts over Australia ."
+    ],
+    "Discovery Of Massive Volcanic CO2 Emissions Discredits Global Warming Theory": [
+        "However, CO2 is not the only greenhouse gas that contributes to global warming and reducing emissions of other greenhouse gases (GHGs) alongside CO2 towards net zero emissions of all GHGs would lower the level at which global temperature would peak.",
+        "These uncertainties do not change the basic conclusion that global CO2 emissions would need to decline to at least net zero to halt global warming.",
+        "Given that CO2 emissions constitute the dominant human influence on global climate, global net zero CO2 emissions are a prerequisite for stabilising warming at any level."
+    ],
+    "Harvard study finds that wind turbines create MORE global warming than the fossil fuels they eliminate": [
+        "Climate change is improving access to natural resources in the Arctic with consequences for human safety , a situation that could support continued global dependence on relatively cheap and abundant fossil fuels resources and contribute to further warming.",
+        "Effective climate change mitigation can cause economic and social disruption where there is transformative change, such as changes in energy systems away from fossil fuels in order to create broad coalitions of supporters or to limit opposition .",
+        "There is limited evidence that extreme wind speeds, which can damage wind turbines, will increase due to climate change ."
+    ],
+    "Ice berg melts, ocean level remains the same.": [
+        "In subarctic Alaska, increased contribution of glacier melts to streamflow and aquifer recharge under a warming climate is projected .",
+        "In spring, when solar radiation returns and sea ice melts, intense phytoplankton blooms fuel food webs that include rich communities of both resident and summer-migrant species, with typically high dependency on a few key species for trophic transfer .",
+        "In the central Arctic Ocean, primary productivity remains low ."
+    ],
+    "When the exact same group of 'experts' who claimed it was global cooling in 1977 now claim it's global warming you can easily see why I am skeptical": [
+        "And, despite temperatures being on average warmer in the Global South, electricity use for cooling is a more prominent factor in the Global North .",
+        "Energy efficiency of air conditioning systems is of a paramount importance to ensuring that the increased demand for cooling will be satisfied without contributing to global warming through halocarbon emissions .",
+        "In a multi-country assessment of acceptance of global warming influenced by ideology Political affiliation and partisan group identity contribute to polarisation on the causes and state of climate change, most notably in the USA ."
+    ],
+    "Scientists studying Antarctica sea ice warn a rise in accumulation could spark the next ice age.": [
+        "The magnitude of cascading changes over the next two centuries includes regional warming and temperature extremes, permafrost declines and sea ice loss beyond that experienced in human existence.",
+        "Freezing rain and ice storms can be treacherous for road and air travel , and can knock down power and telecommunication lines if ice accumulation is high .",
+        "Sea ice loss due to climate change is expected to accelerate over the next century ."
+    ],
+    "More than 500 scientists and professionals in climate and related fields have sent a 'European Climate Declaration' to the Secretary-General of the United Nations": [
+        "These include: the Paris Agreement under the 1992 United Nations Framework Convention on Climate Change , alongside goals for adaptation .",
+        "Two international agreements—the United Nations Framework Convention on Climate Change emissions in the second half of this century’ .",
+        "It was endorsed at the United Nations Climate Summit in September 2014."
+    ],
+    "Unprecedented climate change has caused sea level at Sydney Harbour to rise approximately 0.0 cm over the past 140 years.": [
+        "Climate change should increase the risk and exposure to damage from flood , sea level rise and more frequent wildfires .",
+        "Knott et al highlighted risks to coastal infrastructure where ~30 cm sea level rise sea level rise would also push up groundwater and reduce design life by 5–17% in New Hampshire Many airports, and by their nature ports, are in the low elevation coastal zone, making them especially vulnerable to flooding and sea level rise.",
+        "For example, sea level rise 50 years after a 1°C warming will be lower than sea level rise 150 years after that same 1°C warming , depending on whether near-term transient climate, end of the century, equilibrium climate or climate states after an initial overshoot are considered."
+    ],
+    "Human-produced carbon might be one of the factors [of climate change], but there’s simply no evidence that it is a significant one.": [
+        "Therefore, climate change and sustainable development cannot be assessed or planned in isolation of one another.",
+        "Climate change is conceptualised as one of many factors that interact to raise tensions through diverse causal mechanisms and as part of the peace-vulnerability-development nexus .",
+        "On the one hand, mitigation and adaptation processes can create significant development opportunities."
+    ],
+    "CO2 does not cause climate change, it RESPONDS to it [...]": [
+        "Climate change may additionally cause the breaching of physical and social adaptation limits, resulting in climate-related residual risks .",
+        "However, a national scale analysis projected climate change to cause freshwater species range shifts, but no losses of species in this hotspot .",
+        "In addition, all these processes are investigated over short time scales but the long-term response of BVOC emissions depends on how the vegetation itself responds to the altered climate state ."
+    ],
+    "[T]he raw data, the actual thermometer data[...] shows that the US has been cooling for 80 to 90 years.": [
+        "Because only one realization of the actual climate exists, it is non-trivial to extract estimates of internal and forced variability from the available data .",
+        "Given the high cooling demand of data centres, some additional cooling strategies, such as free cooling, liquid cooling, low-grade waste heat recovery, absorption cooling and so on, have been adopted.",
+        "Only six of the 17 taxes, where data are available, have reduced actual emissions subject to the tax."
+    ],
+    "Earth’s mean temperature over the last 2,000 years shows two previous periods when temperatures were warmer than they are now; from 1–200 A.D., an epoch called the Roman Warm Period, and more recently the Medieval Warm Period from 900–1100 A.D.": [
+        "So far, these emergent constraints have been limited to the Last Glacial Maximum and warming in the mid-Pliocene Warm Period due to the availability of sufficiently large multi-model ensembles for these two cases.",
+        "Major paleoreconstruction efforts completed since AR5 include a variety of large-scale, multi-proxy temperature datasets and associated reconstructions spanning the last 2000 years , the Holocene , the Last Glacial Maximum , the mid-Pliocene Warm Period , and the Early Eocene Climatic Optimum .",
+        "Last millennium GCM simulations are able to reproduce stronger SAmerM during the 1400–1600 period in comparison with warmer epochs such as the 900–1100 period or the current warming period ."
+    ],
+    "So that means that probably about half, maybe half of that nine-tenths of the degree [of total warming] might be caused by greenhouse gases": [
+        "For example, the apparent contradiction between the observed decrease in Indian monsoon rainfall over the second half of the 20th century and the projected long-term increase is explained by attribution of the trends to different forcings, with aerosols dominating recently and greenhouse gases in the future and drought in the Cape Town region.",
+        "Most of this total ERF, 3.32 W m–2, comes from the well-mixed greenhouse gases, with changes in ozone and stratospheric water vapour .",
+        "Further evidence that anthropogenic global warming has caused an increase in the frequency, intensity and/or amount of heavy precipitation events at the global scale highlights that each half degree of additional global warming influences the climate response."
+    ],
+    "[NASA] has been adjusting temperatures from the past[...]": [
+        "Last, the first observed climatology of snowfall over Antarctica was obtained using the cloud/precipitation radar onboard NASA’s CloudSat .",
+        "Other missions include NASA’s Operation IceBridge, collecting airborne remote-sensing measurements to bridge the gap between ICESat .",
+        "Water temperatures in rivers and lakes have increased over the past century by ~1–3°C in major European rivers ."
+    ],
+    "A windmill could spin until it falls apart and never generate as much energy as was invested in building it.": [
+        "Mandatory energy performance disclosure and benchmarking of building energy consumption is a powerful policy instrument in particular for non-residential buildings and could be more accurate than energy audits.",
+        "Apart from land subsidence from urbanisation .",
+        "In contrast, cooking has a much higher share of building energy use in regions of the Global South, including China ."
+    ],
+    "Fifty-five thousand years ago the whole world was 2°C warmer than it is today[...]": [
+        "Wildfire does not show a clear long-term trend for the world as a whole because of increases and decreases in different regions .",
+        "GSAT projected for the end of the 23rd century under SSP2-4.5 has not been experienced since the mid-Pliocene, about 3 million years ago.",
+        "People came into North America more than 15,000 years ago and have experienced both massive and minor shifts in climate ever since."
+    ],
+    "Sea level rise is not going to happen.": [
+        "Freshwater resources are also vulnerable to sea level rise and associated salinisation .",
+        "The potential for flooding and inundation depends on the relative sea level rise .",
+        "Interactions between sea level rise and storm surges , and sea level and fluvial flooding are projected to lead to more frequent and intense compound coastal flooding events as sea levels continue to rise."
+    ],
+    "Cold weather to grip world as solar minimum to deepen, NASA says": [
+        "Other missions include NASA’s Operation IceBridge, collecting airborne remote-sensing measurements to bridge the gap between ICESat .",
+        "Records also indicate a higher rate of warming in minimum temperatures than maximum temperatures in Asia, leading to more frequent warm nights and warm days, and less frequent cold days and cold nights Projections show continued warming over Asia in the future with contrasted regional patterns across the continent , but EAS, SAS and SEA have a lower projected warming of less than 5°C .",
+        "As such, they can promote holistic, egalitarian approaches to enable, accelerate and deepen climate action and environmental care ."
+    ],
+    "[O]ne of the previously fastest shrinking glaciers in the world is growing again, calling into question the narrative that rapid climate change [...]": [
+        "Indigenous and social movements have joined with climate justice activists, calling for action to address climate change .",
+        "The release of water from shrinking glaciers in Asia to some extent protects downstream freshwaters against drought, but half of these glaciers are projected to disappear by 2100 In Australia, the Murray-Darling river basin occupies much of the Eastern Rivers hotspot .",
+        "The peripheral glaciers in NE Greenland experienced a 23% increase in mass loss in 1980–2014 compared to the period 1910 to 1978–1987 ."
+    ],
+    "The models predicted about three times the amount of warming in the world we’ve seen since [1988].": [
+        "AMV influences on the nearby regions can be predicted over lead times of 5–8 years (medium confidence).",
+        "The highest increase of temperature of coldest days is projected in Arctic regions, at about three times the rate of global warming (high confidence).",
+        "Variable phytoplankton stoichiometry is predicted to increase the amount of carbon stored via the BCP relative to the amount of PP, so that fixed stoichiometry models ."
+    ],
+    "The science is clear, climate change is making extreme weather events, including tornadoes, worse.": [
+        "Healthcare facilities, including hospitals, clinics and community care centres, are vulnerable to extreme weather and climate events, such as flooding and TCs, and to climate-related outbreaks of infectious diseases that overwhelm their capacity to provide critical services .",
+        "In CSA, the awareness of climate change as a threat is increasing, a situation related to growth in climate justice activism and to the occurrence of extreme weather events of all kinds .",
+        "Extreme weather events, particularly droughts, can result in poverty traps keeping people poor or making them poorer, resulting in widening inequalities within and across countries."
+    ],
+    "Burping cows are more damaging to the climate than all the cars on this planet.": [
+        "Freshwater is the most essential natural resource on the planet and underpins almost all Sustainable Development Goals .",
+        "It may also be ‘non-viable’ or damaging to livelihoods in the long run .",
+        "Climate hazards undermine adaptation by damaging livelihoods ."
+    ],
+    "[S]unspot activity on the surface of our star has dropped to a new low.": [
+        "The net effect of this asymmetry on the global surface temperature is poorly constrained due to low agreement between models (low confidence).",
+        "There is also scope for new insights into terrestrial water contributions from land surface .",
+        "Many large-scale farmers using irrigation switched to corn and forage and dropped crops with high labour costs."
+    ],
+    "The rate of warming according to the data is much slower than the models used by the IPCC": [
+        "Climate models project that warming of the Arctic is likely to continue at more than double the global rate.",
+        "NGHGI, based on IPCC guidelines, consider a much larger area of forest to be under human management than global models.",
+        "If warming is held to 1.5°C, GMSL will still continue to rise well beyond 2100, but at a slower rate and a lower magnitude."
+    ],
+    "The ­atmospheric residency time of carbon dioxide is five years": [
+        "Under this mechanism, NDCs will be communicated or updated every five years.",
+        "Five years later, the Third Assessment Report .",
+        "The pulp and paper industry can also be a source of biogenic carbon dioxide and carbon for organic chemicals feedstock and carbon dioxide removal (CDR) using CCS."
+    ],
+    "Sea-level rise does not seem to depend on ocean temperature, and certainly not on CO2": [
+        "The genesis, development, and tracks of TCs depend on conditions of the larger-scale circulations of the atmosphere and ocean .",
+        "As, at present, models do not resolve fine-scale variability of these processes, current projections do not fully capture the changes that the marine environment will experience in the future Overall, with the rise of atmospheric CO2, the physics of CO2 transfer across the air–sea interface, the carbonate chemistry in seawater, the trends of ocean acidification being observed in the past decades , leading to low confidence in their significant and long-lasting impacts on ocean acidification.",
+        "Over the 21st century, ocean heat and CO2 uptake will continue and sea ice loss from warming will allow some additional CO2 uptake , but the ocean will take up a smaller fraction of CO2 emissions as atmospheric CO2 concentrations rise There is very limited evidence on climate-driven air-quality changes in the coastal zone."
+    ],
+    "There isn’t yet any empirical evidence for their claim that greenhouse gases even cause temperatures to increase.": [
+        "Article 4 of the Paris Agreement sets an objective to ‘achieve a balance between anthropogenic emissions by sources and removals by sinks of greenhouse gases’ .",
+        "This increase includes +0.34 W m–2 from increases in atmospheric concentrations of well-mixed greenhouse gases .",
+        "Some studies find an increase in the frequency of SSWs under increasing greenhouse gases ."
+    ],
+    "NOAA has adjusted past temperatures to look colder than they were and recent temperatures to look warmer than they were.": [
+        "In Yokohama, Japan, observations since 1986 have revealed that the arrival of six winter bird species came later and the departure earlier than in the past, due to warmer temperatures .",
+        "An independent assessment is underway to look at the compliance of the Paris Agreement with regard to technology and capacity building as means of implementation.",
+        "The boundary conditions thus represent the sequence of observed weather, but with adjusted temperatures, humidity and atmospheric stability."
+    ],
+    "They were going to be gone by now, but now they're setting records": [
+        "More recent sea ice reconstructions are based on diverse sources including whaling records , old ship logbooks , and ice core records , amongst other methods .",
+        "After setting record-high extents each September from 2012 through 2014, Antarctic SIE .",
+        "They showed in Shyamnagar Upazilla in Satkhira district the proportion of salinity-free farmland has gone down over the past 20 years, from more than 60% to nil ."
+    ],
+    "unadjusted data suggests that temperatures in Australia have only increased by 0.3 degrees over the past century, not the 1 degree usually claimed": [
+        "Land-use and land-cover change have increased dust emissions in Australia in the past 200 years .",
+        "Since the mid-20th century, extreme warm temperatures have increased and extreme cold temperatures have decreased in the region .",
+        "Water temperatures in rivers and lakes have increased over the past century by ~1–3°C in major European rivers ."
+    ],
+    "[climate scientists] say that aspects of the case of Hurricane Harvey suggest global warming is making a bad situation worse.": [
+        "The role of ethical values with regard to inequality and the situation of the worse off , risk , and population size has been explored.",
+        "For example, in a case study of Hurricane Harvey, Trenberth et al suggested that the lack of realistic hurricane frequency and intensity within coupled climate models hampers the models’ ability to simulate SST and ocean heat content and their changes.",
+        "A substantial fraction of the damage from hurricane Harvey’s extreme rainfall has been attributed to anthropogenic climate change ."
+    ],
+    "The IPCC, the Intergovernmental Panel on Climate Change, which is sort of the voice of the consensus, concedes that there has been no increase in extreme weather events.": [
+        "There was high confidence that global warming was already causing an increase in the frequency and intensity of extreme weather and climate events, impacting ecosystems, food security, disturbances and production processes, with existing .",
+        "At the same time, with the increase in the proportion of renewable energy in the power system, the power system will be more vulnerable to climate change and extreme weather and climate events, and the vulnerability and risk of the power system will greatly increase (medium confidence).",
+        "Markets for green bonds, ESG (environmental, social, and governance), and sustainable finance products have grown significantly since the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC AR5) and the landscape continues to evolve."
+    ],
+    "according, again, to the official figures—during this past 10 years, if anything, mean global temperature, average world temperature, has slightly declined": [
+        "Compared to the LGM, uncertainties in the derived ECS from these periods are in general greater, due to greater uncertainty in global surface temperature , due to seasonal and latitudinal components of the forcing that, despite a close-to-zero orbital forcing in the global annual mean, can directly result in responses in annual mean global surface temperature , ice volume , and feedback processes such as those associated with methane .",
+        "Over the past decades, until the COVID-19 pandemic, global poverty rates have declined rapidly.",
+        "Over the past two decades, Arctic Ocean surface temperature has increased in line with the global average, while there has been no uniform warming across the Antarctic ."
+    ],
+    "Trump's action could push the Earth over the brink, to become like Venus, with a temperature of two hundred and fifty degrees, and raining sulphuric acid.": [
+        "Moreover, higher degrees of adaptive capacity do not mean that adaptation action will follow automatically, nor that it will succeed in terms of equity and effectiveness in reducing vulnerability to climate change and enhancing well-being.",
+        "In the 21st century, heatwaves have become hotter, longer and more extended compared to the last two decades of the 20th century .",
+        "Individuals and organisations, like institutional entrepreneurs, can function to build transformative capacity through collective action ."
+    ],
+    "Most likely the primary control knob [on climate change] is the ocean waters and this environment that we live in.": [
+        "It is well established that climate change compounds the impacts of pressures that humans place on the environment .",
+        "Duration of freshwater lake ice across the northern USA and southern Canada is projected to diminish Ocean surface temperature is very likely to increase in future decades in waters around North America , but at a slower rate than air temperature over the continent.",
+        "In the central Arctic Ocean, primary productivity remains low ."
+    ],
+    "'Global warming' is a myth — so say 80 graphs from 58 peer-reviewed scientific papers published in 2017.": [
+        "The CCA efforts can be characterised as fragmented, incoherent and lacking perspective , and the picture on adaptation financing can be stated as similarly fragmented with very limited literature published in peer-reviewed journals.",
+        "Some papers corroborate that earlier start and later end of phenological events in Asia are associated with global warming; however, other papers do not confirm such a connection.",
+        "Extreme climatic events in Australia from 2011 to 2017 led to abrupt and extensive mortality of key habitat-forming organisms — corals, kelps, seagrasses and mangroves — along over 45% of the continental coastline of Australia In 2016 and 2017, the GBR experienced consecutive occurrences of the most severe coral bleaching in recorded history ."
+    ],
+    "Neither the rate nor the magnitude of the reported late twentieth century surface warming (1979–2000) lay outside normal natural variability.": [
+        "It is likely that tropical upper tropospheric warming will be larger than at the tropical surface, but with an uncertain magnitude owing to the effects of natural internal variability and uncertainty in the response of the climate system to anthropogenic forcing.",
+        "Ocean acidification extremes have already emerged from background natural internal variability during the 20th century in most of the surface ocean .",
+        "The rate of Arctic surface warming will continue to exceed the global average over this century (high confidence)."
+    ],
+    "Forward projections of solar cyclicity imply the next few decades may be marked by global cooling rather than warming, despite continuing CO2 emissions.": [
+        "Land clathrates are formed at depths greater than 200 m , which precludes a substantial response to global warming over the next few centuries and associated emissions.",
+        "In such situations, the need for active cooling technologies may arise, along with higher energy consumption and GHG emissions Changes in cloud formation can affect global solar irradiation and, therefore, the output of solar photovoltaic panels, possibly affecting on-site renewable energy production .",
+        "In the next two decades, it is very likely that the SLCF emissions changes in the WGI core set of SSPs will cause a warming relative to 2019, whatever the SSPs, in addition to the warming from long-lived greenhouse gases."
+    ]
+}
