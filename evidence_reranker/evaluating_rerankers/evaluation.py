@@ -117,10 +117,9 @@ if __name__ =="__main__":
                                 claim_score.append(0)
                                 invalid_evidence[claim].append(evidence)
                 count += 1
-
             if len(claim_score) < 3:
-                claim_score.extend([0] * (3 - len(claim_score)))
                 count += (3 - len(claim_score))
+                claim_score.extend([0] * (3 - len(claim_score)))
         score_matrix.append(claim_score)
 
     #write the valid evidence json

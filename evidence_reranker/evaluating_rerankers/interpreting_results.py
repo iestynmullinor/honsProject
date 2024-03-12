@@ -23,7 +23,7 @@ def get_percentage_of_relevant_evidence(matrix):
     return no_relevant_evidence / len(flatted_matrix)
 
 # open evidence_reranker/evaluating_rerankers/results/no-reranker_score_matrix.txt
-score_matrix = read_file('evidence_reranker/evaluating_rerankers/results/no-reranker_score_matrix.txt')
+score_matrix = read_file('evidence_reranker/evaluating_rerankers/results/roberta-reranker-fever-better_score_matrix.txt')
 
 print("backed up claims:", get_percentage_of_claims_with_evidence(score_matrix))
 
