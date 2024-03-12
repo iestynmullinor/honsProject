@@ -14,7 +14,14 @@ MODEL_NAMES_WITHOUT_DIR = ['all-mpnet-base-v2',
           'gte-large',
           'bm25',
           'contriever',
-          'contriever-msmarco']
+          'contriever-msmarco',
+          'HYBRID_7',
+          'HYBRID_8',
+          'HYBRID_9',
+          'HYBRID_95',
+          'HYBRID_98',
+          'HYBRID_99',
+          'HYBRID_999',]
 
 
 

@@ -12,3 +12,10 @@ gte-large                                                          0.6          
 bm25                                                               0.38             0.18
 contriever                                                         0.58             0.28
 contriever-msmarco                                                 0.68             0.406667
+HYBRID_7                                                           0.54             0.3
+HYBRID_8                                                           0.6              0.333333
+HYBRID_9                                                           0.68             0.393333
+HYBRID_95                                                          0.68             0.4
+HYBRID_98                                                          0.74             0.44
+HYBRID_99                                                          0.76             0.446667
+HYBRID_999                                                         0.78             0.473333

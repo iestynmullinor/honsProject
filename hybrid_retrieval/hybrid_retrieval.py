@@ -9,7 +9,7 @@ from tqdm import tqdm
 
 model = SentenceTransformer("all-mpnet-base-v2")
 
-LLAMBDA = 0.7
+LLAMBDA = 0.999
 NUMBER_AFTER_DECIMAL = str(LLAMBDA).split(".")[1]
 
 
