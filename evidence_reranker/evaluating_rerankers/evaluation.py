@@ -11,7 +11,9 @@ rerankers = ["no-reranker",
               "roberta-reranker-climate-fever", 
               "roberta-reranker-f-cf",
               "roberta-reranker-f-cf-ipcc",
-              "climatebert-rereranker-fever"]
+              "climatebert-rereranker-fever",
+              "climatebert-rereranker-f-cf",
+              "climatebert-rereranker-f-cf-ipcc"]
 
 # read in dictoinary evidence_reranker/evaluating_rerankers/nearest_for_each_claim.json
 with open('evidence_reranker/evaluating_rerankers/nearest_for_each_claim.json', 'r', encoding='utf-8') as f:

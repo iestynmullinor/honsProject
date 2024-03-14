@@ -5,7 +5,10 @@ model_names = ["no-reranker",
                "roberta-reranker-climate-fever",
                "roberta-reranker-f-cf",
                "roberta-reranker-fever-better",
-               "roberta-reranker-f-cf-ipcc"]
+               "roberta-reranker-f-cf-ipcc",
+               "climatebert-rereranker-fever",
+               "climatebert-rereranker-f-cf",
+               "climatebert-rereranker-f-cf-ipcc"]
 
 def read_file(file_path):
     with open(file_path, 'r') as file:
