@@ -1,5 +1,11 @@
 import ast
+from tabulate import tabulate
 
+model_names = ["no-reranker",
+               "roberta-reranker-climate-fever",
+               "roberta-reranker-f-cf",
+               "roberta-reranker-fever-better",
+               "roberta-reranker-f-cf-ipcc"]
 
 def read_file(file_path):
     with open(file_path, 'r') as file:
@@ -23,8 +29,28 @@ def get_percentage_of_relevant_evidence(matrix):
     return no_relevant_evidence / len(flatted_matrix)
 
 # open evidence_reranker/evaluating_rerankers/results/no-reranker_score_matrix.txt
-score_matrix = read_file('evidence_reranker/evaluating_rerankers/results/roberta-reranker-fever-better_score_matrix.txt')
 
-print("backed up claims:", get_percentage_of_claims_with_evidence(score_matrix))
+model_results = {}
+for model_name in model_names:
+    file_name = f'evidence_reranker/evaluating_rerankers/results/{model_name}_score_matrix.txt'
+    score_matrix = read_file(file_name)
+    model_results[model_name] = score_matrix
 
-print("relevant evidence:", get_percentage_of_relevant_evidence(score_matrix))
+backed_up_claims = {}
+relevant_evidence = {}
+
+for model_name in model_results.keys():
+    backed_up_claims[model_name] = get_percentage_of_claims_with_evidence(model_results[model_name])
+    relevant_evidence[model_name] = get_percentage_of_relevant_evidence(model_results[model_name])
+
+# Print as a readable table
+table_data = []
+for model_name in model_names:
+    table_data.append([model_name, backed_up_claims[model_name], relevant_evidence[model_name]])
+
+print(tabulate(table_data, headers=["Model Name", "Backed Up Claims", "Relevant Evidence"], tablefmt="fancy_grid"))
+
+# save the table to evidence_reranker/evaluating_rerankers/results_table.txt
+
+with open("evidence_reranker/evaluating_rerankers/results_table.txt", "w") as file:
+    file.write(tabulate(table_data, headers=["Model Name", "Backed Up Claims", "Relevant Evidence"], tablefmt="fancy_grid"))

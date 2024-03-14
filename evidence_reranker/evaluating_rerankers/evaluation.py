@@ -10,7 +10,8 @@ rerankers = ["no-reranker",
               "roberta-reranker-fever-better",
               "roberta-reranker-climate-fever", 
               "roberta-reranker-f-cf",
-              "roberta-reranker-f-cf-ipcc"]
+              "roberta-reranker-f-cf-ipcc",
+              "climatebert-rereranker-fever"]
 
 # read in dictoinary evidence_reranker/evaluating_rerankers/nearest_for_each_claim.json
 with open('evidence_reranker/evaluating_rerankers/nearest_for_each_claim.json', 'r', encoding='utf-8') as f:
