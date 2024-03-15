@@ -2,7 +2,6 @@ import ast
 from tabulate import tabulate
 
 model_names = ["no-reranker",
-               "roberta-reranker-climate-fever",
                "roberta-reranker-f-cf",
                "roberta-reranker-fever-better",
                "roberta-reranker-f-cf-ipcc",
