@@ -50,3 +50,12 @@ for i in range(len(results_mini)):
     if results_mini[i]['label'] == 'NOT_CLIMATE':
         print(CLAIMS[i])
         print()"""
+
+# print all incorrectly classified claims
+
+for i in range(len(results_climatebert)):
+    if results_climatebert[i]['label'] != gold_labels[i]:
+        print(f"Claim: {ALL_CLAIMS[i]}")
+        print(f"Predicted label: {results_climatebert[i]['label']}")
+        print(f"True label: {gold_labels[i]}")
+        print()
