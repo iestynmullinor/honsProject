@@ -8,12 +8,19 @@
             "The Greenland and Antarctic ice sheets are projected to lose mass at an increasing rate throughout the 21st century and beyond .",
             "The Greenland Ice Sheet has lost 4890 Gt mass over the period 1992–2020, equivalent to 13.5 mm global mean sea level rise."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "The Greenland and Antarctic ice sheets are projected to lose mass at an increasing rate throughout the 21st century and beyond .",
             "Projections indicate relative sea level rises in polar regions (high confidence) , with the exception of regions with substantial land uplift including North-Eastern North America (high confidence), western Greenland, the northern Baltic Sea, and portions of West Antarctica.",
             "Increased precipitation and glacier-melt can also contribute to rising lake levels and flood hazards in regions such as the inner Tibetan Plateau, Patagonia, Peru, Alaska and Greenland .",
             "Sea ice loss due to climate change is expected to accelerate over the next century .",
             "However, instability and/or irreversible loss of the Greenland and Antarctic ice sheets, resulting in a multi-metre rise in sea level over hundreds to thousands of years, could be triggered at 1.5°C–2°C of global warming while under RCP8.5 multi-metre sea level rise is projected by then chance of limiting global warming to 1.5°C is about 580 GtCO2, and about 420 GtCO2 for a two-in-three ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "However, instability and/or irreversible loss of the Greenland and Antarctic ice sheets, resulting in a multi-metre rise in sea level over hundreds to thousands of years, could be triggered at 1.5°C–2°C of global warming while under RCP8.5 multi-metre sea level rise is projected by then chance of limiting global warming to 1.5°C is about 580 GtCO2, and about 420 GtCO2 for a two-in-three .",
+            "The Greenland and Antarctic ice sheets are projected to lose mass at an increasing rate throughout the 21st century and beyond .",
+            "The Greenland Ice Sheet has lost 4890 Gt mass over the period 1992–2020, equivalent to 13.5 mm global mean sea level rise.",
+            "SROCC projections indicate high confidence in future rises in relative sea level for all Arctic regions other than areas of substantial land uplift in north-eastern Canada, the west coast of Greenland, and narrow portions of West Antarctica Coastal flooding and erosion: Higher sea levels and reduced coastal sea ice protection will increase future extreme sea levels in the Arctic project that the current 1-in-100-year extreme total water level would have median return periods of 1-in-20-years to 1-in-50-years by 2050, increasing to 1-in-5-years to 1-in-20-years by 2100 under RCP4.5 along nearly the entire Arctic coastline by 2100 by 2100.",
+            "The current generation of climate models do not fully resolve many of the components required to close the observed sea level budget, such as glaciers, ice sheets and land water storage and Meyssignac et al suggested including corrections to several contributions to sea level changes including to the Greenland surface mass balance and glacier contributions, based on differences between CMIP5-driven model results and reanalysis-driven results."
         ]
     },
     "Carbon doesn't cause \"global warming\"": {
@@ -25,12 +32,19 @@
             "Given that CO2 emissions constitute the dominant human influence on global climate, global net zero CO2 emissions are a prerequisite for stabilising warming at any level.",
             "Increasing concentrations of CO2 are expected to increase carbon stocks globally, with the strongest effects in the tropics ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Halting global warming in the long term requires, at a minimum, that no additional CO2 emissions from human activities are added to the atmosphere (ie, CO2 emissions must reach ‘net’ zero).",
             "Many pathways in the literature show how tolimit global warming compared to pre-industrial times to 2°C and higher cumulative CO2 emissions until the time of net zero .",
             "The future of the global land carbon sink Enhanced carbon losses from terrestrial systems further limit the available carbon budget for global warming staying below 1.5°C .",
             "Businesses and corporate organisations play a key role in the mitigation of global warming, through their own commitments to zero-carbon footprints , decisions to invest in researching and implementing new energy technologies and energy-efficient measures, and the supply-side interaction with changing consumer preferences and behaviours, such as via marketing.",
             "The principal contribution to increasing global ocean carbon is the air–sea flux of CO2, which changes the dissolved inorganic carbon ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "However, CO2 is not the only greenhouse gas that contributes to global warming and reducing emissions of other greenhouse gases (GHGs) alongside CO2 towards net zero emissions of all GHGs would lower the level at which global temperature would peak.",
+            "Halting global warming in the long term requires, at a minimum, that no additional CO2 emissions from human activities are added to the atmosphere (ie, CO2 emissions must reach ‘net’ zero).",
+            "The century-scale climate–carbon cycle response to a CO2 removal from the atmosphere is not always equal and opposite to the response to a CO2 emission (medium confidence).",
+            "Over time scales of 10 to 20 years, the global temperature response to a year’s worth of current emissions of SLCFs is at least as large as that due to a year’s worth of CO2 emissions would not only alleviate this warming but would turn this into a cooling of 0.07°C with a likely range of °C .",
+            "Given that CO2 emissions constitute the dominant human influence on global climate, global net zero CO2 emissions are a prerequisite for stabilising warming at any level."
         ]
     },
     "Climate change is already having devastating effects across the globe, including Canada with costly wild fires, floods, etc": {
@@ -42,12 +56,19 @@
             "Climate change can cause significant impacts and as a result can impose considerable adaptation costs on countries and people.",
             "With its significant negative impact on natural systems, food security and infrastructure, loss of lives and territories, species extinction, conflict health, among several other risks, climate change poses a serious threat to development and wellbeing in both rich and poor countries ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change should increase the risk and exposure to damage from flood , sea level rise and more frequent wildfires .",
             "Climate change can cause significant impacts and as a result can impose considerable adaptation costs on countries and people.",
             "Climate change is negatively affecting working conditions and labour productivity in North America , and for every degree Celsius increase in temperature, labour productivity is estimated to be reduced by 0.11% for low-risk workers and 0.53% for high-risk workers .",
             "Climate change could worsen risks from extreme heat in North American cities, especially where there is limited adaptation .",
             "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts.",
+            "Climate change should increase the risk and exposure to damage from flood , sea level rise and more frequent wildfires .",
+            "Multiple lines of evidence indicate that climate change is already contributing to more intense and more frequent extreme events across North America.",
+            "Climate change can cause significant impacts and as a result can impose considerable adaptation costs on countries and people.",
+            "Climate change could worsen risks from extreme heat in North American cities, especially where there is limited adaptation ."
         ]
     },
     "Not many people are willing to say that climate change is a hoax. ": {
@@ -59,12 +80,19 @@
             "Public perception of consensus regarding anthropogenic climate change can be an important gateway belief, which establishes a crucial precondition for public policy action by influencing the assessment of climate-change risks and opportunities, and formulation of appropriate mitigation and adaptation responses .",
             "However, some communities do not associate their problems with the scientific concept of climate change, so discussions on whether it is human induced and its causes or relationship with other problems can become irrelevant ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "In the USA, analyses of television network news show that climate change receives minimal attention, is most often framed in a political context, and largely fails to link extreme weather events to climate change using appropriate probability framing .",
             "People can engage with climate change across three dimensions: cognitive .",
             "Projected climate-change risk, urgency and necessary adaptations are perceived and understood differently by the public, communities, professional groups, climate scientists and public policy makers .",
             "Over 75% of people in Australia and New Zealand agree that climate change is occurring and over 60% believe climate change is caused by humans, giving climate adaptation and mitigation action further social legitimacy.",
             "Understanding the human cause of climate change is a strong predictor of climate change risk perception and a critical knowledge foundation that can affect the difference between coping responses and more informed and transformative adaptation ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Together with the proliferation of suspicions of ‘fake news’ and ‘post-truth’, some traditional and social media contents have fuelled polarisation and partisan divides on climate change in many countries , which can further deter development of new and ambitious climate policy .",
+            "Over 75% of people in Australia and New Zealand agree that climate change is occurring and over 60% believe climate change is caused by humans, giving climate adaptation and mitigation action further social legitimacy.",
+            "This occurs despite increasing consensus among journalists regarding the basic scientific understanding of climate change Accurate transference of the climate science has been undermined significantly by climate change counter-movements, particularly in the USA in both legacy and new/social media environments through misinformation , including about the causes and consequences of climate change .",
+            "Vested economic and political interests have organised and financed misinformation and ‘contrarian’ climate-change communication .",
+            "However, some communities do not associate their problems with the scientific concept of climate change, so discussions on whether it is human induced and its causes or relationship with other problems can become irrelevant ."
         ]
     },
     "The facts are climate change is not man made or driven.": {
@@ -76,12 +104,19 @@
             "The science on climate change, its impacts and the opportunities to mitigate is continuously being updated.",
             "The majority of the climate science community has reached consensus that mean global temperature has increased and human activity is a major cause , setting the context for public policy action."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "It is well established that climate change compounds the impacts of pressures that humans place on the environment .",
             "Understanding the human cause of climate change is a strong predictor of climate change risk perception and a critical knowledge foundation that can affect the difference between coping responses and more informed and transformative adaptation .",
             "The science on climate change, its impacts and the opportunities to mitigate is continuously being updated.",
             "These conditions constitute multiple lines of evidence, which, when they converge, can provide very high confidence that climate change is the causal driver of an observed change in a particular biological species or system Important factors that may confound or obscure effects of climate change are the presence of invasive species, changes in land use .",
             "Therefore, climate change and sustainable development cannot be assessed or planned in isolation of one another."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "However, some communities do not associate their problems with the scientific concept of climate change, so discussions on whether it is human induced and its causes or relationship with other problems can become irrelevant .",
+            "Human-induced greenhouse gas forcing is the main driver of the observed changes in hot and cold extremes on the global scale (virtually certain ) and on most continents (very likely ).",
+            "The AR5 concluded that ‘it is extremely likely that human influence has been the dominant cause of the observed warming since the mid-20th century’ .",
+            "Widespread and rapid changes in the atmosphere, ocean, cryosphere and biosphere have occurred has warmed since the 1970s and extremely likely that human influence is the main driver.",
+            "These conditions constitute multiple lines of evidence, which, when they converge, can provide very high confidence that climate change is the causal driver of an observed change in a particular biological species or system Important factors that may confound or obscure effects of climate change are the presence of invasive species, changes in land use ."
         ]
     },
     "Climate Change is a natural cycle. ": {
@@ -93,12 +128,19 @@
             "Observations of past compound events may not provide reliable guides as to how future events may evolve, because human activity and recent climate change continue to interact to influence both system functioning and a climate state not previously experienced",
             "Climate change not only poses a profound challenge to sustainable development, it is inexorably linked to it."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change alters the production of energy through changes in temperature .",
             "Climate change not only poses a profound challenge to sustainable development, it is inexorably linked to it.",
             "It is well established that climate change compounds the impacts of pressures that humans place on the environment .",
             "While climate change will affect energy systems .",
             "Hence anthropogenic climate change is typically seen as a global commons problem ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "The century-scale climate–carbon cycle response to a CO2 removal from the atmosphere is not always equal and opposite to the response to a CO2 emission (medium confidence).",
+            "Feedback processes between climatic change, human interventions involving mitigation and adaptation actions, and processes in natural systems can be classified as emergent risks if they pose a threat to human security.",
+            "The response of biogeochemical cycles to the anthropogenic perturbation can be abrupt at regional scales, and irreversible on decadal to century time scales (high confidence).",
+            "Climate impacts are cascading, compounding and aggregating across sectors and systems due to complex interactions .",
+            "The dominant human influence on observed global warming and related water cycle changes was confirmed."
         ]
     },
     "Climate change has been happening since God created climate...": {
@@ -110,12 +152,19 @@
             "Yet anthropogenic global climate change was of little or no consequence in the 1930s.",
             "People came into North America more than 15,000 years ago and have experienced both massive and minor shifts in climate ever since."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change not only poses a profound challenge to sustainable development, it is inexorably linked to it.",
             "It is well established that climate change compounds the impacts of pressures that humans place on the environment .",
             "The science on climate change, its impacts and the opportunities to mitigate is continuously being updated.",
             "The knowledge and awareness of climate change as a threat have been increasing since AR5 due to the increasing frequency and magnitude of extreme weather events in the region, information available and climate justice activism (high confidence).",
             "Perception and understanding of climate change can be seen as an adaptive feature."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Widespread and rapid changes in the atmosphere, ocean, cryosphere and biosphere have occurred has warmed since the 1970s and extremely likely that human influence is the main driver.",
+            "Multiple lines of evidence indicate the unprecedented nature of recent large-scale climatic changes in the context of all human history, and that these changes represent a millennial-scale commitment for the slow-responding elements of the climate system, resulting in continued worldwide loss of ice, increase in ocean heat content, sea level rise and deep ocean acidification.",
+            "Anthropogenic changes in climate-induced drivers assessed here exhibit vastly distinct times of emergence, which is the time scale over which an anthropogenic signal related to climate change is statistically detected to emerge from the background noise of natural climate for a specific region .",
+            "Observations of past compound events may not provide reliable guides as to how future events may evolve, because human activity and recent climate change continue to interact to influence both system functioning and a climate state not previously experienced",
+            "The majority of the climate science community has reached consensus that mean global temperature has increased and human activity is a major cause , setting the context for public policy action."
         ]
     },
     "There’s no climate crisis. Only a very corrupt government": {
@@ -127,12 +176,19 @@
             "Corruption also disrupts public support of climate policies by affecting the levels of trust , which then impact on the compliance of climate policies.",
             "One of the main institutional challenges is the lack of policy with climate–health linkages."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change is conceptualised as one of many factors that interact to raise tensions through diverse causal mechanisms and as part of the peace-vulnerability-development nexus .",
             "Though not the only cause , climate change undermines human livelihoods and security, because it increases the populations vulnerabilities, grievances and political tensions through an array of indirect—at times nonlinear—pathways, thereby increasing human insecurity and the risk of violent conflict .",
             "Climate change poses risks to peace .",
             "Also, some media outlets have recently adopted and promoted terms and phrases stronger than the more neutral ‘climate change’ and ‘global warming’, including ‘climate crisis’, ‘global heating’, and ‘climate emergency’ .",
             "Climate change is being addressed in a growing number of international agreements operating at sectoral levels, as well as within the practices of many multilateral organisations and institutions ( high confidence)."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Though not the only cause , climate change undermines human livelihoods and security, because it increases the populations vulnerabilities, grievances and political tensions through an array of indirect—at times nonlinear—pathways, thereby increasing human insecurity and the risk of violent conflict .",
+            "Different political systems create differing conditions for climate governance to emerge and evolve, but because political systems are so politically and historically entrenched they are not likely to change quickly even though this could facilitate domestic climate mitigation efforts .",
+            "Adverse impacts of climate change threaten to increase poverty and inequality, undermine progress in meetings Sustainable Development Goals (SDGs) and place strain on civil institutions—all of which are factors that contribute to the emergence or worsening of civil unrest and conflict.",
+            "Corruption also disrupts public support of climate policies by affecting the levels of trust , which then impact on the compliance of climate policies.",
+            "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts."
         ]
     },
     "the largest climate bill is definitely some piece of the Communist Party of China five year plans.": {
@@ -144,12 +200,17 @@
             "It seeks to enhance China’s climate pledge to peak CO2 emissions by 2030 and achieve carbon neutrality by 2060 through more vigorous policies and measures.",
             "For example, while China has received praise in terms of delivering urban policies that put climate change at its core, thus suggesting its role providing leadership in climate change debates , other analyses suggest that processes of planning should take greater account of certain groups and interests ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "For example, while China has received praise in terms of delivering urban policies that put climate change at its core, thus suggesting its role providing leadership in climate change debates , other analyses suggest that processes of planning should take greater account of certain groups and interests .",
             "Climate governance in China features a combination of top-down planning and vertical accountability .",
             "Evidence from China suggests that the effectiveness of policies addressing local point sources differed from those of non-point sources and the co-benefits for climate are mixed, though policies addressing large industrial point sources have been easier to implement and have had significant impact .",
             "There is no agreed definition of climate finance.",
             "It seeks to enhance China’s climate pledge to peak CO2 emissions by 2030 and achieve carbon neutrality by 2060 through more vigorous policies and measures."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "For example, while China has received praise in terms of delivering urban policies that put climate change at its core, thus suggesting its role providing leadership in climate change debates , other analyses suggest that processes of planning should take greater account of certain groups and interests .",
+            "China will surpass the USA in about 10 years to become the world’s largest oil consumer.",
+            "The UK’s approach rests on five-yearly targets ; and China uses an apex decision-body to set targets ; identify and manage synergies and trade-offs across climate and development objectives ; identify and choose amongst possible policy options ; identify areas for transformation and the means to induce innovation ; and developing the ability to monitor and evaluate outcomes highlight different aspects of the capacity challenge particularly necessary for integrated policy making including: the capacity for horizontal and vertical coordination; implementation capacity including the independence of the state from interests; and administrative capacity required to address compound problems."
         ]
     },
     "The facts are right in front of you - melting glaciers, sea level rise, more intense weather, etc.": {
@@ -161,10 +222,16 @@
             "Sea ice loss due to climate change is expected to accelerate over the next century .",
             "Anthropogenic climate change is unequivocal and ongoing."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Sea ice loss due to climate change is expected to accelerate over the next century .",
             "Snow, glaciers, permafrost and ice sheets will decrease with high confidence .",
             "Multiple lines of evidence indicate the unprecedented nature of recent large-scale climatic changes in the context of all human history, and that these changes represent a millennial-scale commitment for the slow-responding elements of the climate system, resulting in continued worldwide loss of ice, increase in ocean heat content, sea level rise and deep ocean acidification."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Multiple lines of evidence indicate the unprecedented nature of recent large-scale climatic changes in the context of all human history, and that these changes represent a millennial-scale commitment for the slow-responding elements of the climate system, resulting in continued worldwide loss of ice, increase in ocean heat content, sea level rise and deep ocean acidification.",
+            "The magnitude of cascading changes over the next two centuries includes regional warming and temperature extremes, permafrost declines and sea ice loss beyond that experienced in human existence.",
+            "SROCC projections indicate high confidence in future rises in relative sea level for all Arctic regions other than areas of substantial land uplift in north-eastern Canada, the west coast of Greenland, and narrow portions of West Antarctica Coastal flooding and erosion: Higher sea levels and reduced coastal sea ice protection will increase future extreme sea levels in the Arctic project that the current 1-in-100-year extreme total water level would have median return periods of 1-in-20-years to 1-in-50-years by 2050, increasing to 1-in-5-years to 1-in-20-years by 2100 under RCP4.5 along nearly the entire Arctic coastline by 2100 by 2100.",
+            "Climate change should increase the risk and exposure to damage from flood , sea level rise and more frequent wildfires ."
         ]
     },
     "Sea level rise could be much faster than expected and could eventually reach 3 meters.": {
@@ -176,12 +243,19 @@
             "Impacts are projected to increase nonlinearly during the 21st century with higher sea level rise, because coastal flooding will progressively change from overtopping to overflow, high-tide flooding and ultimately permanent flooding and shoreline retreat .",
             "Extreme sea level events that occurred once per hundred years in the recent past are projected to occur at least once per year at many locations by 2050, especially in tropical regions, under all RCP scenarios ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Sea level rise is the origin of multiple risks for low-lying areas in the Mediterranean Basin; for example, the further increase in flooding at high tide in some locations, such as Venice .",
             "Sea level rise is creating conditions where considerable financial investments are needed and, in many cases, are being raised to address adaptation needs .",
             "Sea level rise interacts with shoreline erosion, storm surge and wave action, saline intrusion and coastal flooding to directly threaten coastal cities and small communities in North America with impacts to public and private buildings and infrastructure, port and transportation facilities, water resources and cultural heritage sites .",
             "Sea level rise hazards for coastal ecosystems, infrastructure, farmland, cities and settlements in a particular region are often driven by regional changes in relative sea level .",
             "Overall, sea level rise is projected to increase the risk of coastal flooding despite the potential slight reductions of marine storms ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Models also indicate that global sea level rise, as well as warming, ocean acidification and deoxygenation at depth, are irreversible for centuries or longer .",
+            "Overall, sea level rise is projected to increase the risk of coastal flooding despite the potential slight reductions of marine storms .",
+            "Under high-emission scenarios, ice-sheet processes in which there is low confidence and deep uncertainty might contribute more than one additional metre to GMSL rise by 2100 Rising mean RSL will continue to drive an increase in the frequency of extreme sea levels .",
+            "Sea level extremes and their physical impacts in the coastal zone arise from a complex set of atmospheric, oceanic, and terrestrial processes that interact on a range of spatial and temporal scales and will be modified by a changing climate, including sea level rise .",
+            "Interactions between sea level rise and storm surges , and sea level and fluvial flooding are projected to lead to more frequent and intense compound coastal flooding events as sea levels continue to rise."
         ]
     },
     "Yet the very people who warn of sea level rise keep buying ocean front property.": {
@@ -193,12 +267,19 @@
             "The potential for flooding and inundation depends on the relative sea level rise .",
             "Sea level rise hazards for coastal ecosystems, infrastructure, farmland, cities and settlements in a particular region are often driven by regional changes in relative sea level ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Sea level rise interacts with shoreline erosion, storm surge and wave action, saline intrusion and coastal flooding to directly threaten coastal cities and small communities in North America with impacts to public and private buildings and infrastructure, port and transportation facilities, water resources and cultural heritage sites .",
             "Sea level rise is creating conditions where considerable financial investments are needed and, in many cases, are being raised to address adaptation needs .",
             "Sea level rise may enhance sandy beach erosion and thereby impact recreation and tourism , magnifying coastal degradation and pollution .",
             "Overall, sea level rise is projected to increase the risk of coastal flooding despite the potential slight reductions of marine storms .",
             "Sea level rise hazards for coastal ecosystems, infrastructure, farmland, cities and settlements in a particular region are often driven by regional changes in relative sea level ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Sea level rise interacts with shoreline erosion, storm surge and wave action, saline intrusion and coastal flooding to directly threaten coastal cities and small communities in North America with impacts to public and private buildings and infrastructure, port and transportation facilities, water resources and cultural heritage sites .",
+            "Raising land can be cost beneficial for small areas or where lower safety levels are satisfactory, but protection is usually more economical for larger areas, although both strategies are often combined Accommodation measures can be very effective for current conditions and small changes in SLR , and buy time to prepare for more significant changes in sea level and other climate-compounded coastal hazards.",
+            "Sea level rise hazards for coastal ecosystems, infrastructure, farmland, cities and settlements in a particular region are often driven by regional changes in relative sea level .",
+            "Knott et al highlighted risks to coastal infrastructure where ~30 cm sea level rise sea level rise would also push up groundwater and reduce design life by 5–17% in New Hampshire Many airports, and by their nature ports, are in the low elevation coastal zone, making them especially vulnerable to flooding and sea level rise.",
+            "Responses to ongoing sea level rise and land subsidence in low-lying coastal cities and settlements and small islands include protection, accommodation, advance and planned relocation."
         ]
     },
     "Climate change is not only driving global heatwaves, droughts and glacier melting, it has also altered the flow of rivers across the world.": {
@@ -210,12 +291,19 @@
             "Likewise, Khanal et al suggest contrasting responses to climate change for HMA rivers in which, on the seasonal scale, the earlier onset of melting causes a shift in magnitude and peak of water availability, whereas on the annual scale, total water availability increases for the headwaters.",
             "Already, one-third of wetlands have been lost and 9000 freshwater species are threatened with extinction without considering the effects of climate change , and only 13% of world rivers were recently classified as least impacted Globally, observed climate-driven changes in biodiversity are typically of species distributions shifting to higher latitudes ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change will increase water temperatures and decrease dissolved oxygen levels .",
             "Climate change is increasing the frequency and intensity of these sudden and slow-onset disasters, among them, hydrological changes in major river basins where 1.5 billion people live .",
             "Climate change poses a threat to both regional water availability and global water security.",
             "In summary, climate change is projected to increase water pollution incidences, salinisation and eutrophication due to increasing drought and flood events, sea level rise and water temperature rise, respectively, in some local rivers and lakes, but there is a dearth of exact quantification at a global scale (medium confidence).",
             "In summary, climate change is one of the key drivers of the loss and degradation of freshwater ecosystems and the unprecedented decline and extinction of many freshwater-dependent populations."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "In high-altitude/latitude streams, reduced glacier and snowpack extent, earlier snowmelt and altered precipitation patterns, attributed to climate change, have increased flow intermittency .",
+            "The effects of volcanic eruptions in driving reduced streamflow have also been detected in the wet tropics In summary, there is medium confidence that anthropogenic climate change has altered local and regional streamflow in various parts of the world and that the associated global-scale trend pattern is inconsistent with internal variability.",
+            "Warming is accelerating for all European river basins increasing by 0.8°C in response to 1.5°C GWL and 1.2°C for 3°C GWL relative to 1971–2000 aggravated by declines in summer river flow.. During summer, seawater will also penetrate estuaries further upstream in response to reduced river flow and SLR, resulting in more frequent closure of water inlets in the downstream part of the rivers in a period when water is most needed .",
+            "River runoff in snow- or glacier-fed basins is projected to increase in winter and to decrease in summer will very likely weaken over the 21st century under all emissions scenarios , with an increase in dry climates (high confidence).",
+            "In summary, climate change is projected to increase water pollution incidences, salinisation and eutrophication due to increasing drought and flood events, sea level rise and water temperature rise, respectively, in some local rivers and lakes, but there is a dearth of exact quantification at a global scale (medium confidence)."
         ]
     },
     "And does it take into account extreme weather, drought, food scarcity, etc brought on by climate change": {
@@ -227,12 +315,19 @@
             "Increasing evidence from sub-regions and individual countries suggests that climate-related hazards, such as increasing temperature, changing rainfall, SLR, drought, flooding and the more frequent and intense occurrences of El Niño–Southern Oscillation events, all impact agricultural production with significant effects on food security.",
             "At 4°C of global warming, about 50% of all inhabited AR6 regions would be affected by increases in agricultural and ecological droughts (WCE, MED, CAU, EAU, SAU, WCA, EAS, SCA, CAR, NSA, NES, SAM, SWS, SSA, NCA, CNA, ENA, WNA, WSAF, ESAF, MDG: medium confidence or higher), and only two regions (NEAF, SAS) would experience decreases in agricultural and ecological drought (medium confidence)."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change has already changed the start and duration of the growing season and increased variability of rainfall in some places, with impacts on food intake and nutritional status and income for low-income and small-scale producers .",
             "Climate change already affects all dimensions of food security, namely availability, access, utilisation and stability, by disrupting food production, quality, storage, transport and retail.",
             "Climate change impacts are stressing agriculture, forestry, fisheries and aquaculture, increasingly hindering efforts to meet human needs , caused acute food insecurity in various regions, including eastern and southern Africa and the dry corridor of Central America (high confidence).",
             "Stresses and shocks associated with climate change are drivers of food insecurity, particularly in sub-Saharan Africa, Asia and Latin America .",
             "Increasing number and intensity of adverse weather events, driven by climate change , are important factors decreasing food stability, through reduced availability, increased local price volatility, reduced livelihoods for food producers and disruption to food transport ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Increasing evidence from sub-regions and individual countries suggests that climate-related hazards, such as increasing temperature, changing rainfall, SLR, drought, flooding and the more frequent and intense occurrences of El Niño–Southern Oscillation events, all impact agricultural production with significant effects on food security.",
+            "Increasing number and intensity of adverse weather events, driven by climate change , are important factors decreasing food stability, through reduced availability, increased local price volatility, reduced livelihoods for food producers and disruption to food transport .",
+            "The combined effects of changes in seasonality, temperature, precipitation, water availability and extremes, such as drought, have the potential to escalate impacts, but understanding of these effects is limited.",
+            "Drought and precipitation variability are the most prevalent hazards in the adaptation literature, particularly in the context of food and livelihood security.",
+            "Climate change has already changed the start and duration of the growing season and increased variability of rainfall in some places, with impacts on food intake and nutritional status and income for low-income and small-scale producers ."
         ]
     },
     "Drought, wildfire, extinction, glacier retreat - what else has to happen for people to believe in climate change!": {
@@ -244,12 +339,15 @@
             "Projected climate-change risk, urgency and necessary adaptations are perceived and understood differently by the public, communities, professional groups, climate scientists and public policy makers .",
             "Conflicts in which the direct biophysical impacts of climate change play a major role can unleash protests and strengthen social movements (medium confidence)."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Effective climate change mitigation can cause economic and social disruption where there is transformative change, such as changes in energy systems away from fossil fuels in order to create broad coalitions of supporters or to limit opposition .",
             "Understanding the human cause of climate change is a strong predictor of climate change risk perception and a critical knowledge foundation that can affect the difference between coping responses and more informed and transformative adaptation .",
             "Climate change not only poses a profound challenge to sustainable development, it is inexorably linked to it.",
             "Climate change has become a major factor of increasing uncertainty.",
             "Multiple lines of evidence indicate that climate change is already contributing to more intense and more frequent extreme events across North America."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Multiple lines of evidence indicate the unprecedented nature of recent large-scale climatic changes in the context of all human history, and that these changes represent a millennial-scale commitment for the slow-responding elements of the climate system, resulting in continued worldwide loss of ice, increase in ocean heat content, sea level rise and deep ocean acidification."
         ]
     },
     "The flooding, the drought, the forest fires, & hot summers do not exist.": {
@@ -261,12 +359,19 @@
             "Prolonged droughts associated with El Niño .",
             "The global increases in temperature from anthropogenic climate change have increased aridity and drought, lengthening the fire weather season ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "The floods triggered by strong ENSOs caused significant changes in crop production The development of various human activities and water infrastructure is depleting water sources, changing river basins from exoreic to endoreic and the disappearance of a lake in 2016 .",
             "Extreme heat, drought and forest fire were the most often reported hazards.",
             "Increased wildfire, combined with erosion due to deforestation, could degrade water supplies (high confidence).",
             "The combination of high temperatures, drought and extreme winds, potentially coupled with insufficient preparedness and adaptation, may amplify the damage of wildfires in peri-urban environments Extreme heat and drought causes shrinking and swelling of clays, threatening the stability of small houses in peri-urban environments , with damage costs of 0.9–1 billion EUR during the 2003 heatwave .",
             "Combined heat and drought stress can reduce forest and grassland primary productivity and even cause tree mortality at higher extremes Extreme heat events raise temperatures in buildings and cities already warmed by the urban heat island effect and can induce disruptions in critical infrastructure networks ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "The combination of high temperatures, drought and extreme winds, potentially coupled with insufficient preparedness and adaptation, may amplify the damage of wildfires in peri-urban environments Extreme heat and drought causes shrinking and swelling of clays, threatening the stability of small houses in peri-urban environments , with damage costs of 0.9–1 billion EUR during the 2003 heatwave .",
+            "Extreme droughts that occur during warm phases of the ENSO and the Atlantic Multi-Decadal Oscillation combine with the degradation of vegetation to cause extreme fire events .",
+            "Extreme heat, drought and forest fire were the most often reported hazards.",
+            "Extreme weather can lead to other impactful events such as droughts, floods or wildfires.",
+            "Examples include regional warming trends and sea level rise (SLR), terrestrial and marine heatwaves, declining rainfall and increasing fire weather in southern Australia and extreme rainfall and severe droughts in New Zealand."
         ]
     },
     "The stormier waters are caused by climate change, primarily driven by greenhouse-gas emissions from burnt fossil fuels like coal, oil, and gas, which continue to warm the planet and create conditions like rising sea levels and increased drought contribute to more severe storms.": {
@@ -278,12 +383,19 @@
             "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts.",
             "Heavy precipitation will generally become more frequent and more intense with additional global warming."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change causes intensified droughts and greater wind erosion resulting in increased intensity and frequency of sand and dust storms .",
             "It is likely that human-induced climate change has contributed to the observed intensification of heavy precipitation at the continental scale in North America, Europe and Asia.",
             "Climate change should increase the risk and exposure to damage from flood , sea level rise and more frequent wildfires .",
             "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts.",
             "Anthropogenic climate change has caused some of these emissions through increases in wildfire ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Climate change causes intensified droughts and greater wind erosion resulting in increased intensity and frequency of sand and dust storms .",
+            "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts.",
+            "The most common climatic drivers include tropical storms and hurricanes, heavy rains, floods and droughts .",
+            "This increase is mostly driven by an intensification of precipitation extremes and aggravated flooding probability due to sea level rise .",
+            "Diffenbaugh et al showed robust increases in the occurrence of the favourable environments for severe convective storms with increased CAPE and stronger low-level wind shear in response to future global warming."
         ]
     },
     "Climate has been changing for years.": {
@@ -295,12 +407,19 @@
             "Climate has always varied and changed in the past, and this change often caused substantial ecological, evolutionary and socioeconomic impacts.",
             "Anthropogenic climate change is unequivocal and ongoing."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate has always varied and changed in the past, and this change often caused substantial ecological, evolutionary and socioeconomic impacts.",
             "Climate change has become a major factor of increasing uncertainty.",
             "Climate change not only poses a profound challenge to sustainable development, it is inexorably linked to it.",
             "It is well established that climate change compounds the impacts of pressures that humans place on the environment .",
             "They perceive the climate to be changing, most often reporting changes in rainfall variability, increased dry spells, decreases in rainfall and increased temperatures or temperature extremes."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Climate has always varied and changed in the past, and this change often caused substantial ecological, evolutionary and socioeconomic impacts.",
+            "Regional climate change has continued since AR5 was released in 2014, with trends exacerbating many extreme events , southwest Australia using contours for Australia and individual sites for New Zealand.",
+            "Widespread and rapid changes in the atmosphere, ocean, cryosphere and biosphere have occurred has warmed since the 1970s and extremely likely that human influence is the main driver.",
+            "Climate change has become a major factor of increasing uncertainty.",
+            "This report shows that past and future climate changes and extreme weather events can be substantial on local and regional scales Although the evolution of global climate trends emerges as the net result of regional phenomena, average or aggregate estimates often do not reflect the intensity, variability and complexity of regional climate changes ."
         ]
     },
     "Climate change and drought are getting to be way too much way too fast which very good people awake to the facts can speak up about.": {
@@ -312,12 +431,19 @@
             "The knowledge and awareness of climate change as a threat have been increasing since AR5 due to the increasing frequency and magnitude of extreme weather events in the region, information available and climate justice activism (high confidence).",
             "Anthropogenic global warming was estimated to be increasing at 0.2 ± 0.1°C per decade , increased droughts in some regions ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change is becoming a major obstacle to poverty reduction and overcoming poverty traps.",
             "Climate change poses a threat to both regional water availability and global water security.",
             "Climate change and CO2 are expected to become increasingly important as drivers of change over the coming decades .",
             "Without serious efforts at mitigation and adaptation, climate change could push millions further into poverty and limit the opportunities for economic development .",
             "Climate change not only poses a profound challenge to sustainable development, it is inexorably linked to it."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Concurrent heatwaves and droughts have become more frequent, and this trend will continue with higher global warming (high confidence).",
+            "In addition to high temperatures, the main risk factor identified is drought, generally expected to increase in the region, significant already at global warming of only 1.5°C, reaching, for higher warming levels, intensities unprecedented during the past 10 ka .",
+            "Under continued climate change, increased temperature, aridity, drought, wildfire .",
+            "Multi-year drought events of magnitudes exceeding historical baselines will increase by 2050 in countries with drylands including Australia, Brazil, Spain, Portugal and the USA .",
+            "Anthropogenic global warming was estimated to be increasing at 0.2 ± 0.1°C per decade , increased droughts in some regions ."
         ]
     },
     "War is the biggest cause of CO2 emissions.": {
@@ -329,12 +455,19 @@
             "Climate change poses risks to peace .",
             "Anthropogenic climate change has caused some of these emissions through increases in wildfire ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "CO2 emissions from transport increase for most models in reference scenarios The relative contribution of demand-side reduction, energy- efficiency improvements, fuel switching, and decarbonisation of fuels, varyies by model, level of mitigation, mitigation options available, and underlying socio-economic pathway .",
             "In terms of annual CO2 emissions per capita, in 2019 Canada had 15 metric tons of CO2 per person .",
             "Higher CO2 reduces the nutritional density of crops and forage lands and can increase the production of toxins and allergenic pollen .",
             "Increasing concentrations of CO2 are expected to increase carbon stocks globally, with the strongest effects in the tropics .",
             "Elevated CO2 will worsen some pest and disease pressures, for example, barley yellow dwarf virus impacts on wheat ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "It is the largest source of global GHG and CO2 emissions, which include direct and indirect fuel-combustion-related emissions, emissions from industrial processes and products use, as well as from waste.",
+            "The other big sources of direct global industrial combustion and process CO2 emissions are light manufacturing and industry , non-ferrous metals like aluminium Light manufacturing and industry represent a very diverse sector in terms of energy service needs .",
+            "CO2 emissions from transport increase for most models in reference scenarios The relative contribution of demand-side reduction, energy- efficiency improvements, fuel switching, and decarbonisation of fuels, varyies by model, level of mitigation, mitigation options available, and underlying socio-economic pathway .",
+            "Elevated CO2 will worsen some pest and disease pressures, for example, barley yellow dwarf virus impacts on wheat .",
+            "However, they also contribute disproportionately to total annual anthropogenic GHG emissions globally and influence climate through land use change, processing and transport through emitting CO2, animal production by increasing methane emissions, and feed and manure production by emitting CO2, nitrous oxide, and methane, ."
         ]
     },
     "There is no climate emergency. Global warming by the hand of man is a flat out lie designed to centralise power and turn you into a serf.": {
@@ -346,12 +479,19 @@
             "This relationship between levels of warming, climate risk and reasons for concern .",
             "With its significant negative impact on natural systems, food security and infrastructure, loss of lives and territories, species extinction, conflict health, among several other risks, climate change poses a serious threat to development and wellbeing in both rich and poor countries ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Also, some media outlets have recently adopted and promoted terms and phrases stronger than the more neutral ‘climate change’ and ‘global warming’, including ‘climate crisis’, ‘global heating’, and ‘climate emergency’ .",
             "Climate change poses risks to peace .",
             "Climate change exacerbates pre-existing vulnerability conditions and can drive societies further away from achieving resilience, equity and sustainable development .",
             "Increased extreme events due to climate change are key drivers of recent rises in food insecurity rates and severe food crises in some regions .",
             "Climate change hazards pose risks to economic and social well-being (KR3), marine social–ecological systems (KR4), unique terrestrial ecosystems and their services (KR5), freshwater services (KR6), physical and mental health (KR7), food and nutritional security (KR8), and commerce and trade (KR9)."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Increased extreme events due to climate change are key drivers of recent rises in food insecurity rates and severe food crises in some regions .",
+            "Climate change exacerbates pre-existing vulnerability conditions and can drive societies further away from achieving resilience, equity and sustainable development .",
+            "Also, some media outlets have recently adopted and promoted terms and phrases stronger than the more neutral ‘climate change’ and ‘global warming’, including ‘climate crisis’, ‘global heating’, and ‘climate emergency’ .",
+            "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts.",
+            "Projected climate-change risk, urgency and necessary adaptations are perceived and understood differently by the public, communities, professional groups, climate scientists and public policy makers ."
         ]
     },
     "There is no global warming, there is only regional warming": {
@@ -363,12 +503,18 @@
             "Many pathways in the literature show how tolimit global warming compared to pre-industrial times to 2°C and higher cumulative CO2 emissions until the time of net zero .",
             "The RFC framework was further expanded in SR1.5 , SROCC and SRCCL by explicitly describing the differential impacts of half-degree warming steps In this Report, the term ‘global warming level’ refers to the categorization of global and regional climate change, associated impacts, emissions and concentrations scenarios by GMST relative to 1850–1900, which is the period used as a proxy for pre-industrial levels ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Without large-scale reduction in greenhouse gas emissions, global warming is projected to cause substantial changes in the water cycle at both global and regional scales .",
             "Anthropogenic global warming was estimated to be increasing at 0.2 ± 0.1°C per decade , increased droughts in some regions .",
             "Halting global warming in the long term requires, at a minimum, that no additional CO2 emissions from human activities are added to the atmosphere (ie, CO2 emissions must reach ‘net’ zero).",
             "The RFC framework was further expanded in SR1.5 , SROCC and SRCCL by explicitly describing the differential impacts of half-degree warming steps In this Report, the term ‘global warming level’ refers to the categorization of global and regional climate change, associated impacts, emissions and concentrations scenarios by GMST relative to 1850–1900, which is the period used as a proxy for pre-industrial levels .",
             "The global mean surface temperature change, or ‘global warming level’ ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "In most regions, future changes in the intensity of temperature extremes will very likely be proportional to changes in global warming, and up to two to three times larger (high confidence).",
+            "The RFC framework was further expanded in SR1.5 , SROCC and SRCCL by explicitly describing the differential impacts of half-degree warming steps In this Report, the term ‘global warming level’ refers to the categorization of global and regional climate change, associated impacts, emissions and concentrations scenarios by GMST relative to 1850–1900, which is the period used as a proxy for pre-industrial levels .",
+            "The North American Arctic is warming at nearly three times the global average, creating a cascading web of local, regional and global impacts within and beyond polar regions.",
+            "Anthropogenic global warming was estimated to be increasing at 0.2 ± 0.1°C per decade , increased droughts in some regions ."
         ]
     },
     "No such thing as global warming": {
@@ -380,12 +526,19 @@
             "Since then, increased warming and progressively more conclusive attribution studies have identified human activities as the ‘dominant cause of the observed warming since the mid-20th century’ .",
             "Diffenbaugh and Burke find that global warming already has increased global economic inequality, even if between-country inequalities have decreased over recent decades."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Halting global warming in the long term requires, at a minimum, that no additional CO2 emissions from human activities are added to the atmosphere (ie, CO2 emissions must reach ‘net’ zero).",
             "Without large-scale reduction in greenhouse gas emissions, global warming is projected to cause substantial changes in the water cycle at both global and regional scales .",
             "Stronger warming in the Arctic than the global average has already been observed .",
             "The global mean surface temperature change, or ‘global warming level’ .",
             "Diffenbaugh and Burke find that global warming already has increased global economic inequality, even if between-country inequalities have decreased over recent decades."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "The majority of the climate science community has reached consensus that mean global temperature has increased and human activity is a major cause , setting the context for public policy action.",
+            "Human-induced greenhouse gas forcing is the main driver of the observed changes in hot and cold extremes on the global scale (virtually certain ) and on most continents (very likely ).",
+            "Also, some media outlets have recently adopted and promoted terms and phrases stronger than the more neutral ‘climate change’ and ‘global warming’, including ‘climate crisis’, ‘global heating’, and ‘climate emergency’ .",
+            "Multiple lines of evidence indicate the unprecedented nature of recent large-scale climatic changes in the context of all human history, and that these changes represent a millennial-scale commitment for the slow-responding elements of the climate system, resulting in continued worldwide loss of ice, increase in ocean heat content, sea level rise and deep ocean acidification.",
+            "Halting global warming in the long term requires, at a minimum, that no additional CO2 emissions from human activities are added to the atmosphere (ie, CO2 emissions must reach ‘net’ zero)."
         ]
     },
     "Mars pulling Earth closer to the Sun, causing global warming, new study claims.": {
@@ -397,13 +550,14 @@
             "The global mean surface temperature change, or ‘global warming level’ .",
             "Projected thermal increases of 1.5°C will reduce ecosystem services, further reduced under 2°C warming, with associated increases in acidification, hypoxia, dead zones, flooding and water restrictions ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "The global mean surface temperature change, or ‘global warming level’ .",
             "Diffenbaugh and Burke find that global warming already has increased global economic inequality, even if between-country inequalities have decreased over recent decades.",
             "Anthropogenic global warming was estimated to be increasing at 0.2 ± 0.1°C per decade , increased droughts in some regions .",
             "Stronger warming in the Arctic than the global average has already been observed .",
             "One global study using an empirical model estimated the negative effect of anthropogenic warming trends from 1961 to 2017 to be on average 5.3% for three staple crops ."
-        ]
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": []
     },
     "China emits more carbon emissions than any other nation.": {
         "climate_claim_detected": true,
@@ -414,12 +568,19 @@
             "South-East Asian developed countries and Australia, Japan and New Zealand stand out in contrast to other developed regions, with an increase of regional carbon intensity of 1.8 and 1.9% yr –1, respectively .",
             "It is the largest source of global GHG and CO2 emissions, which include direct and indirect fuel-combustion-related emissions, emissions from industrial processes and products use, as well as from waste."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "As a result, China’s exported emissions declined by 20% from 2008 to 2015 Developing countries are increasingly playing an important role in global trade.",
             "China will surpass the USA in about 10 years to become the world’s largest oil consumer.",
             "China, India and the ASEAN countries have largely contributed to the ever-growing global energy consumption.",
             "Recent country statistics and detailed inventory-based estimates show that CH4 emissions from coal mining in China declined between 2012 and 2016 , while atmospheric-based estimates suggest a continuation of CH4 emissions growth but at a slower rate to the year 2015 and 2016 .",
             "It should be noted that the other side of the coin is that exports from countries with lower production carbon intensities can lead to overall less emissions than if production took place in countries with high carbon intensities, which may become critical in the global evolution toward lower emissions."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "As a result, China’s exported emissions declined by 20% from 2008 to 2015 Developing countries are increasingly playing an important role in global trade.",
+            "The EU ETS avoided emitting about 1.2 GtCO2 between 2008 and 2016 China’s emission trading pilots have resulted in a decline in carbon intensity in the pilot provinces by adjusting the industrial structure .",
+            "Recent country statistics and detailed inventory-based estimates show that CH4 emissions from coal mining in China declined between 2012 and 2016 , while atmospheric-based estimates suggest a continuation of CH4 emissions growth but at a slower rate to the year 2015 and 2016 .",
+            "It should be noted that the other side of the coin is that exports from countries with lower production carbon intensities can lead to overall less emissions than if production took place in countries with high carbon intensities, which may become critical in the global evolution toward lower emissions.",
+            "Inventory-based estimates suggest that CH4 emissions from coal mining increased by 17 Tg yr–1 between the periods 2002–2006 and 2008–2012, with a dominant contribution from China ."
         ]
     },
     "Walk, bike, carpool, take public transportation or use electric vehicles to reduce air pollution and carbon emissions for a cleaner, greener future.": {
@@ -431,12 +592,19 @@
             "Compact cities with shortened distances between housing and jobs, and interventions that support a modal shift away from private motor vehicles towards walking, cycling, and low-emissions shared and public transportation, passive energy comfort in buildings, and urban green infrastructure can deliver significant public health benefits and have lower GHG emissions.",
             "Not all emissions can be avoided."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "For every 1% increase in investment in transit services and transit-oriented design, there is an estimated 0.16% reduction in private vehicle kilometres travelled per capita Bike- and car-sharing programmes can reduce GHG emissions .",
             "Compact cities with shortened distances between housing and jobs, and interventions that support a modal shift away from private motor vehicles towards walking, cycling, and low-emissions shared and public transportation, passive energy comfort in buildings, and urban green infrastructure can deliver significant public health benefits and have lower GHG emissions.",
             "Strong air pollution control as well as strong climate change mitigation, implemented separately, lead to large reductions in exposure to air pollution by the end of the century (high confidence).",
             "For example, use of electric vehicles, hydrogen vehicles and greater uptake of public transport and other vehicles that reduce exhaust head emissions reduces the urban heat island .",
             "It holds promise for targeting and obtaining greater reductions in GHG emissions in household travel by providing access through walking, biking, and public transit."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "For example, use of electric vehicles, hydrogen vehicles and greater uptake of public transport and other vehicles that reduce exhaust head emissions reduces the urban heat island .",
+            "Compact cities with shortened distances between housing and jobs, and interventions that support a modal shift away from private motor vehicles towards walking, cycling, and low-emissions shared and public transportation, passive energy comfort in buildings, and urban green infrastructure can deliver significant public health benefits and have lower GHG emissions.",
+            "It holds promise for targeting and obtaining greater reductions in GHG emissions in household travel by providing access through walking, biking, and public transit.",
+            "The emissions reductions effects of car-sharing programmes depends on the specifics of programmes: the mode shift from public transit to car-sharing services can outweigh the decreases in GHG emissions associated with a reduced number of cars on the road , whereas car-sharing programmes with EV fleets may reduce GHG emissions .",
+            "For every 1% increase in investment in transit services and transit-oriented design, there is an estimated 0.16% reduction in private vehicle kilometres travelled per capita Bike- and car-sharing programmes can reduce GHG emissions ."
         ]
     },
     "Nuclear has zero carbon emissions and has great capacity to supply large amounts of electricity ": {
@@ -448,12 +616,19 @@
             "Nuclear generation grew 9% between 2015 and 2019 and accounted for 10% of total generation in 2019 ; hydroelectric power grew by 10% and accounted for 16% of total generation.",
             "System flexibility sources can absorb or export surplus electricity, thus reducing or avoiding energy curtailment and reducing the need for firm low-carbon capacity such as nuclear and fossil-fuel plants with CCS ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Since 2007, Europe’s carbon intensity improvements have been driven by the steady expansion of renewables in the share of electricity generation .",
             "Nuclear generation grew 9% between 2015 and 2019 and accounted for 10% of total generation in 2019 ; hydroelectric power grew by 10% and accounted for 16% of total generation.",
             "Nuclear and bio-based thermal electric generation can provide multiple synergies including base load to augment solar and wind, district heating, and seawater desalination.",
             "Low-carbon sources produce 93–97% of global electricity by 2050 in scenarios that limit warming to 2°C with no or limited overshoot , electricity supplies 48–58% Net-zero energy systems will share common characteristics, but the approach in every country will depend on national circumstances.",
             "An increase in climate-related nuclear power disruptions has been reported in the past decades globally Carbon capture may increase cooling water usage significantly, especially in retrofits, with up to 50% increase in water usage for coal-fired power plants globally, depending on the CCS technology ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Low-carbon sources produce 93–97% of global electricity by 2050 in scenarios that limit warming to 2°C with no or limited overshoot , electricity supplies 48–58% Net-zero energy systems will share common characteristics, but the approach in every country will depend on national circumstances.",
+            "System flexibility sources can absorb or export surplus electricity, thus reducing or avoiding energy curtailment and reducing the need for firm low-carbon capacity such as nuclear and fossil-fuel plants with CCS .",
+            "In total,low- and zero-carbon electricity generation technologies produced 37% of global electricity in 2019.",
+            "This relationship has played out strongly in developing regions, particularly in Asia, where a massive scale up of energy supply has accompanied economic growth – with average annual increases of energy demand between 3.8–4.3% in 2010–2019 regions as well as an overall decline in the share of fossil fuels in electricity production has decreased carbon intensity and CO2 emissions.",
+            "The marginal cost of deploying electricity sector mitigation options increases as electricity emissions approach zero; in addition, the most cost-effective mix of system resources changes as emissions approach zero and, therefore, so do the implications of electricity sector mitigation for sustainability and other societal goals ."
         ]
     },
     "Degraded soil contributes to increased carbon emissions, intensifying climate change.": {
@@ -465,12 +640,19 @@
             "Globally, climate change is estimated to be responsible for 30–66% increase of soil erosion by 2070, while socioeconomic developments impacting land use may lead to ± 10% change of soil erosion .",
             "SRCCL concluded that future climate change will increase, with medium confidence, the potential for water-driven soil erosion in many dryland areas, causing soil organic carbon decline ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change causes intensified droughts and greater wind erosion resulting in increased intensity and frequency of sand and dust storms .",
             "Climate change will reduce crop yields, increase food insecurity, and negatively influence nutrition and mortality .",
             "Along with unsustainable land use practices, climate change is projected to increase soil erosion in semiarid areas The increasing water scarcity was found to be a significant threat to agriculture .",
             "Over the past two centuries, soil organic carbon, an indicator of soil health, has seen an estimated 8% loss globally .",
             "Climate is expected to reduce crop yields, increase crop and livestock prices, and increase pressure on undisturbed forest land for food production creating new barriers and increasing costs for implementation of many nature-based mitigation techniques , though not always proven from ground-based information ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Changes in vegetation, when combined with warming and increased precipitation effects on soil thawing and carbon cycling, are projected to modify GHG emissions and have biophysical feedbacks to regional and global climate.",
+            "Climate change causes intensified droughts and greater wind erosion resulting in increased intensity and frequency of sand and dust storms .",
+            "In addition, accelerated soil erosion and sedimentation have severe societal impacts through land degradation, reduced soil productivity and water quality .",
+            "Heavy rainfall and storms are projected to lead to increased erosion, particularly in extensively grazed systems on steeper land, reducing productivity for decades, reducing soil carbon and increasing sedimentation.",
+            "Globally, climate change is estimated to be responsible for 30–66% increase of soil erosion by 2070, while socioeconomic developments impacting land use may lead to ± 10% change of soil erosion ."
         ]
     },
     "Forest fires have been going on since the earth was formed. Some year are always worse than others. They are not due to climate change.": {
@@ -482,12 +664,19 @@
             "Climate change has contributed to increases in the fire weather season or the probability of fire weather conditions in the Amazon , Australia , Canada , central Asia , East Africa and North America .",
             "Under regional projections for North Asia, warmer climate will increase forest fire severity by the late 21st century estimate."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change is not the sole cause of the increase in forest fire severity .",
             "Climate change is identified as a major driver of increases in burned areas in the Western USA .",
             "With climate change, wildfires will probably become more frequent and more difficult to address, given that they frequently coincide with dry air and can be exacerbated by high winds Lightning can cause wildfires or common-mode faults on electricity systems associated with vegetation falling on power substations or overhead lines but is more generally associated with flashovers and overloads .",
             "Increased wildfire under continued climate change increases the probability of human exposure to fire and risks to public health (medium evidence, high agreement ).",
             "Climate change has contributed to increases in the fire weather season or the probability of fire weather conditions in the Amazon , Australia , Canada , central Asia , East Africa and North America ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "With climate change, wildfires will probably become more frequent and more difficult to address, given that they frequently coincide with dry air and can be exacerbated by high winds Lightning can cause wildfires or common-mode faults on electricity systems associated with vegetation falling on power substations or overhead lines but is more generally associated with flashovers and overloads .",
+            "The area of projected increases in burned area and fire frequency due solely to continued climate change is higher for the world as a whole than the area of projected decreases Wildfire risks to people include death and destruction of their homes, respiratory illnesses from smoke , post-fire flooding from areas exposed by vegetation loss and degraded water quality due to increased sediment flow and the chemical precursors of carcinogenic trihalomethanes when water is later chlorinated for drinking .",
+            "Increased summer maximum temperature and decreased soil moisture explained most of the burned area observed, suggesting a contribution of climate change, but fire suppression, fire prevention, agricultural abandonment and reforestation as well as the reduction in forest area exerted even stronger influences on burned area than the climate across Mediterranean Europe In the Arctic tundra and boreal forest, where wildfire has naturally been infrequent, burned area showed statistically significant increases of ~50% yr -1 across Siberia, Russia, from 1996 to 2015 and 2% yr -1 across Canada from 1959 to 2015 .",
+            "A warmer and longer growing season will increase vulnerability to fires, although fires can be attributed both to climate warming and to other human and natural influences.",
+            "Both the frequency of and the area burned by wildfires during recent years are unprecedented compared with the last 10,000 years ."
         ]
     },
     "Climate change is exacerbating forest fires in the Amazon": {
@@ -499,12 +688,19 @@
             "In the Amazon, deforestation exerts an influence on wildfire that can be stronger than climate change .",
             "Even though relatively higher moisture in 2019 led to burning below the 2002–2019 average across most of South America, burning in areas of recent deforestation in the Amazon were above the 2002–2019 average, indicating that deforestation, not meteorological conditions, triggered the 2019 fires ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change is not the sole cause of the increase in forest fire severity .",
             "Climate change has contributed to increases in the fire weather season or the probability of fire weather conditions in the Amazon , Australia , Canada , central Asia , East Africa and North America .",
             "Climate change has contributed to tree mortality in the Amazon rainforest , and declines in tree biodiversity, with up to 80% local losses of tree species in the period 1970–2014 , consistent with, but not formally attributed to, climate change.",
             "Continued climate change, combined with deforestation, increases risks of wildfire and extensive forest dieback in the Amazon rainforest .",
             "In the Amazon, deforestation exerts an influence on wildfire that can be stronger than climate change ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Higher-resolution spatial projections indicate high risks of increased wildfire in the Amazon, Australia, boreal ecosystems, Mediterranean Europe and the USA with climate change , double the burned area by 2050 , increase the burned area by 400–2800% by 2100 and increase fire intensity by 90% .",
+            "Deforestation in the Amazon also raises the probability of catastrophic fires .",
+            "Climate change has contributed to increases in the fire weather season or the probability of fire weather conditions in the Amazon , Australia , Canada , central Asia , East Africa and North America .",
+            "Similarly, simulations of future fire risks in the Amazon show that extensive land use change under the RCP 8.5 scenario results in 4- to 28-fold enhanced area of forest burned by fire by 2080–2100, as compared with 1990–2010, whereas in an RCP 4.5 scenario, the area burned would be enhanced by 0.9- to 5.4-fold .",
+            "Also relevant is a trend of Amazonian forest fires spreading from the southern Brazilian Amazon to Bolivia and Peru, indicating that transboundary burning increases are systemic and will lead to extensive economic losses of wild crops, infrastructure and livelihoods, requiring a landscape level approach for deforestation and fire management and control Future vulnerabilities and risks for Indigenous Peoples and traditional communitiesIt is expected that by 2030 the incidence of extreme droughts in the Amazon will increase the costs of the health sector associated with treatment costs of respiratory diseases ."
         ]
     },
     "Just like Greta said, the world is ending, the icecaps are melting and the polar bear are drowning": {
@@ -516,7 +712,11 @@
             "With increasing global warming, some compound events with low likelihood in past and current climates will become more frequent, and there is a higher chance of occurrence of historically unprecedented events and surprises (high confidence).",
             "Climate change is improving access to natural resources in the Arctic with consequences for human safety , a situation that could support continued global dependence on relatively cheap and abundant fossil fuels resources and contribute to further warming."
         ],
-        "top_5_reranked": []
+        "reranked_RoBERTa-FEVER": [],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Projections indicate reductions in glaciers at both poles, with sea ice loss, enhanced permafrost warming, decreasing permafrost extent, and decreasing seasonal duration and extent of snow cover in the Arctic (high confidence) even as some of the coldest regions will see higher total snowfall given increased precipitation (medium confidence).",
+            "Rapid warming and extreme temperatures in the Arctic is leading to unprecedented seasonal sea ice loss, permafrost thaw and increasing ocean temperatures."
+        ]
     },
     "the polar bear is alive in greater numbers then it has been since the 1950's": {
         "climate_claim_detected": true,
@@ -527,12 +727,18 @@
             "Ice-associated marine mammals, such as polar bears, seals and walruses, have declined precipitously with decreasing sea ice in the Bering Sea, and widespread ecosystem changes from fish through birds and marine mammal species have altered the system with uncertain outcomes for these productive ice-driven ecosystems.",
             "Responses by marine mammals and birds to the ongoing changes in polar ecosystems are both positive and negative ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "In the Chukchi Sea, in recent decades the average duration polar bears spent onshore increased by 30 d in line with global warming and the rapid decline of their sea ice habitat In Central Kazakh Steppe, in line with warming, in 2018 there were more ‘southern’ sub-arid species in the communities and fewer relatively ‘northern’ boreal and polyzonal species of ground beetles .",
             "Tourism demand for polar bear viewing in Churchill, Manitoba, Canada, may change due to climate-related declines in polar bear health , but may be offset by ‘Last Chance Tourism’ .",
             "Ice-associated marine mammals, such as polar bears, seals and walruses, have declined precipitously with decreasing sea ice in the Bering Sea, and widespread ecosystem changes from fish through birds and marine mammal species have altered the system with uncertain outcomes for these productive ice-driven ecosystems.",
             "Reproductive failures and declining abundances attributed to warmer polar oceans and less sea ice cover are observed in populations of polar bears, Ursus maritimus, seals, whales and marine birds .",
             "However, only the Arctic hosts human populations, holding a rich Indigenous knowledge and local knowledge Previous assessments of polar seas Poleward species distributional shifts are due to climate warming ‘A fundamental transformation is occurring in polar organisms and ecosystems, driven by climate change Climate-induced changes in seasonal sea ice extent and thickness as well as ocean stratification are altering marine primary production ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Reproductive failures and declining abundances attributed to warmer polar oceans and less sea ice cover are observed in populations of polar bears, Ursus maritimus, seals, whales and marine birds .",
+            "In the Chukchi Sea, in recent decades the average duration polar bears spent onshore increased by 30 d in line with global warming and the rapid decline of their sea ice habitat In Central Kazakh Steppe, in line with warming, in 2018 there were more ‘southern’ sub-arid species in the communities and fewer relatively ‘northern’ boreal and polyzonal species of ground beetles .",
+            "Ice-associated marine mammals, such as polar bears, seals and walruses, have declined precipitously with decreasing sea ice in the Bering Sea, and widespread ecosystem changes from fish through birds and marine mammal species have altered the system with uncertain outcomes for these productive ice-driven ecosystems.",
+            "Tourism demand for polar bear viewing in Churchill, Manitoba, Canada, may change due to climate-related declines in polar bear health , but may be offset by ‘Last Chance Tourism’ ."
         ]
     },
     "Climate change is a public health emergency.": {
@@ -544,12 +750,19 @@
             "While the knowledge base regarding global health has increased, a comprehensive framework is not in place that fully integrates health, well-being and environmental impacts from climate change allowing for the cumulative assessment of their impact.",
             "The human health chapter of the WGII contribution to the AR6 concluded that climate change is increasingly affecting a growing number of health outcomes, with negative net impacts at the global scale and positive impacts only in a few limited situations."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "However, climate change is threatening to undermine the achievement of UHC through negative health outcomes and healthcare system disruptions .",
             "Climate change may also lead to new emerging food-borne disease risks.",
             "The impacts of climate change on the health of residents of ‘slum’ settlements will also compound the existing health burdens faced by these individuals, including infectious disease and other environmental public health concerns .",
             "infections in humans Climate change is projected to increase food safety risks .",
             "AR5 found that climate change is a multiplier of existing health vulnerabilities, including food insecurity and limited access to safe water, improved sanitation, healthcare and education, and that the most effective measures to reduce vulnerability in the near term are programmes that implement and improve basic public health (very high confidence)."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "AR5 found that climate change is a multiplier of existing health vulnerabilities, including food insecurity and limited access to safe water, improved sanitation, healthcare and education, and that the most effective measures to reduce vulnerability in the near term are programmes that implement and improve basic public health (very high confidence).",
+            "Several critical risks for human health increase due to climate change, including heat waves and vector-borne diseases .",
+            "Climate resilient health systems are a vital part of adaptation to protect the most vulnerable from climate change .",
+            "Impacts on health are also experienced, through food insecurity resulting from climate change, including malnutrition, as well as through loss of livelihoods, making it more difficult to afford and to access health services.",
+            "However, climate change is threatening to undermine the achievement of UHC through negative health outcomes and healthcare system disruptions ."
         ]
     },
     "Just say that there is no climate emergency.": {
@@ -561,12 +774,18 @@
             "The argument here is not for better metrics but for imagining and working towards systemic change in the wake of the climate crisis.",
             "Anthropogenic climate change is unequivocal and ongoing."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change poses risks to peace .",
             "Climate change is being addressed in a growing number of international agreements operating at sectoral levels, as well as within the practices of many multilateral organisations and institutions ( high confidence).",
             "Climate change does not present its problems and opportunities conveniently aligned with traditional sectors, so mechanisms are needed to facilitate interactions and collaborations between people working in widely different sectors .",
             "Also, some media outlets have recently adopted and promoted terms and phrases stronger than the more neutral ‘climate change’ and ‘global warming’, including ‘climate crisis’, ‘global heating’, and ‘climate emergency’ .",
             "Climate change not only poses a profound challenge to sustainable development, it is inexorably linked to it."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Projected climate-change risk, urgency and necessary adaptations are perceived and understood differently by the public, communities, professional groups, climate scientists and public policy makers .",
+            "Also, some media outlets have recently adopted and promoted terms and phrases stronger than the more neutral ‘climate change’ and ‘global warming’, including ‘climate crisis’, ‘global heating’, and ‘climate emergency’ .",
+            "The COVID-19 pandemic is expected to increase the adverse consequences of climate change since the financial consequences have led to a shift in priorities and constrain vulnerability reduction (medium confidence).",
+            "Addressing climate change alongside other environmental problems, while simultaneously supporting sustainable socio-economic development, requires a holistic approach."
         ]
     },
     "A 0.6 deg C global temperature change over the last 100 years.": {
@@ -578,12 +797,19 @@
             "In New Zealand, an increase of 1.1°C has been measured from 1909–2016 .",
             "In the period 1980–2014 a rate of increase of 0.1°C–0.3°C per decade has been observed , and by +1.9°C , relative to the baseline period of 1995–2014, under SSP2-4.5 ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Over a 100-year time horizon, this warming is +0.0017°C ± 0.00017°C and +0.0001°C ± 0.000079°C, respectively .",
             "The global mean surface temperature change, or ‘global warming level’ .",
             "Global surface temperatures increased by about 0.1°C .",
             "Mean temperatures over the region have increased by 0.7°C–1°C from 1973 to 2013, depending on the season .",
             "This assessed change in temperature before 1850–1900 is not included in the AR6 assessment of global warming to date, to ensure consistency with previous IPCC assessment reports, and because of the lower confidence in the estimate."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Over a 100-year time horizon, this warming is +0.0017°C ± 0.00017°C and +0.0001°C ± 0.000079°C, respectively .",
+            "Mean temperatures over the region have increased by 0.7°C–1°C from 1973 to 2013, depending on the season .",
+            "Global surface temperatures increased by about 0.1°C .",
+            "Mean air temperature: A long-term warming trend in annual mean surface temperature has been observed across Asia during 1960–2015, and the warming accelerated after the 1970s .",
+            "Anthropogenic global warming was estimated to be increasing at 0.2 ± 0.1°C per decade , increased droughts in some regions ."
         ]
     },
     "During the Jurassic Period on Earth the Planet was 8+degrees hotter than now and life flourished": {
@@ -595,9 +821,10 @@
             "However, advances in pre-ice-core CO2 reconstruction mean that the estimates of pre-Quaternary CO2 have less uncertainty than at the time of AR5, and these time periods can now contribute to an assessment of climate sensitivity , due to the fact that CO2 concentrations were relatively high at this time because Earth’s orbit during that time was very similar to that of the modern day.",
             "The Paleocene–Eocene Thermal Maximum that occurred 55.9–55.7 Ma."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "An additional line of evidence comes from the mid-Pliocene warm period ."
-        ]
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": []
     },
     "CO2 is not a pollutant. Its a naturally occurring gas in the atmosphere that brings life to the world and without it we all die": {
         "climate_claim_detected": true,
@@ -608,12 +835,19 @@
             "It is the largest source of global GHG and CO2 emissions, which include direct and indirect fuel-combustion-related emissions, emissions from industrial processes and products use, as well as from waste.",
             "High CO2 concentration affects total biomass and plant sugar content important to bioenergy production , but also helps some pests and weeds flourish , while potentially shifting the effectiveness of herbicides ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "However, CO2 is not the only greenhouse gas that contributes to global warming and reducing emissions of other greenhouse gases (GHGs) alongside CO2 towards net zero emissions of all GHGs would lower the level at which global temperature would peak.",
             "Atmospheric CO2 from anthropogenic sources has also increased net primary productivity , tree mortality in Europe .",
             "Higher CO2 reduces the nutritional density of crops and forage lands and can increase the production of toxins and allergenic pollen .",
             "Increasing levels of CO2 directly contribute to reduced food quality by reducing levels of protein, iron, zinc and some vitamins, varying by crop species and cultivars .",
             "Elevated CO2 will worsen some pest and disease pressures, for example, barley yellow dwarf virus impacts on wheat ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Elevated CO2 will worsen some pest and disease pressures, for example, barley yellow dwarf virus impacts on wheat .",
+            "However, CO2 is not the only greenhouse gas that contributes to global warming and reducing emissions of other greenhouse gases (GHGs) alongside CO2 towards net zero emissions of all GHGs would lower the level at which global temperature would peak.",
+            "It is unequivocal that the increase of CO2 , CH4 , and N2 O in the atmosphere over the industrial era is the result of human activities , 335–383 teragrams of methane per year , and 4.2–11.4 teragrams of nitrogen per year , respectively was distributed between three Earth system components: 46% accumulated in the atmosphere ocean sink , with a faster growth of 9.3 ± 2.4 ppb yr–1 over the last six years .",
+            "Uptake of atmospheric CO2 and subsequent increases in dissolved CO2 lowers ocean pH and can reduce carbonate ion concentrations below critical calcium carbonate saturation thresholds for marine and aquatic organisms growth, reproduction and/or survival, with extended implications for marine ecosystems including fisheries .",
+            "Atmospheric CO2 from anthropogenic sources has also increased net primary productivity , tree mortality in Europe ."
         ]
     },
     "Climate change is going to kill us in 10 years": {
@@ -625,12 +859,19 @@
             "The magnitude of cascading changes over the next two centuries includes regional warming and temperature extremes, permafrost declines and sea ice loss beyond that experienced in human existence.",
             "Multiple lines of evidence indicate the unprecedented nature of recent large-scale climatic changes in the context of all human history, and that these changes represent a millennial-scale commitment for the slow-responding elements of the climate system, resulting in continued worldwide loss of ice, increase in ocean heat content, sea level rise and deep ocean acidification."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change could worsen risks from extreme heat in North American cities, especially where there is limited adaptation .",
             "Climate change poses risks to peace .",
             "Climate change will reduce crop yields, increase food insecurity, and negatively influence nutrition and mortality .",
             "Climate change not only poses a profound challenge to sustainable development, it is inexorably linked to it.",
             "Climate change hazards pose risks to economic and social well-being (KR3), marine social–ecological systems (KR4), unique terrestrial ecosystems and their services (KR5), freshwater services (KR6), physical and mental health (KR7), food and nutritional security (KR8), and commerce and trade (KR9)."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Sea ice loss due to climate change is expected to accelerate over the next century .",
+            "Impacts on heat-related mortality would be cut from 10 to 7 deaths per 10,000 people yr –1 in 2100 by adaptation actions beyond those assumed to be driven by income growth .",
+            "The magnitude of cascading changes over the next two centuries includes regional warming and temperature extremes, permafrost declines and sea ice loss beyond that experienced in human existence.",
+            "Climate change and CO2 are expected to become increasingly important as drivers of change over the coming decades .",
+            "Climate-related changes in food availability and diet quality are estimated to result in a crude mortality rate of about 54 deaths per million people with about 2°C warming by 2050 ."
         ]
     },
     "Extreme weather events becoming more frequent in #Nigeria. Floods & droughts disrupting lives & livelihoods.": {
@@ -642,12 +883,19 @@
             "Many urban households and Africa’s growing assets could therefore be exposed to increased flooding .",
             "Extreme weather events, particularly droughts, can result in poverty traps keeping people poor or making them poorer, resulting in widening inequalities within and across countries."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Extreme weather events, particularly droughts, can result in poverty traps keeping people poor or making them poorer, resulting in widening inequalities within and across countries.",
             "Extreme weather events reduce physical and economic access to food, increase food prices, and compound underlying conditions of food insecurity and malnutrition such as low access to diverse healthy foods and safe water .",
             "Extreme weather can lead to other impactful events such as droughts, floods or wildfires.",
             "Increased extreme events due to climate change are key drivers of recent rises in food insecurity rates and severe food crises in some regions .",
             "In the wake of extreme weather events ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "In Guyana, the combined effect of increased rainfall intensity and SLR has caused flooding over the past two decades, increasing the vulnerability of the agricultural sector The unprecedented extreme events of floods and drought in the Amazon basin led to increased societal vulnerability .",
+            "Analysis of data on the occurrence of varied natural hazards from 1900 to 2019 has shown that tropical cyclones, riverine floods and droughts have increased significantly, and the impacts of these events on coastal communities are also severe and destructive.",
+            "Periods of monsoon-breaks and the persistence of low rainfall events are still prominent, particularly after the onset, thus exposing West Africa simultaneously to the potential impacts of dry spells and also extreme localized rains and floods .",
+            "Since 2000, the world has been experiencing significant increase in economic losses and damages from natural disasters and weather perils such as tropical cyclones, earthquakes, flooding and drought.",
+            "Extreme weather can lead to other impactful events such as droughts, floods or wildfires."
         ]
     },
     "Climate change is making extreme weather events even worse and more frequent": {
@@ -659,12 +907,19 @@
             "Extreme events such as heatwaves, droughts, floods, storms and fires have caused deaths and injuries and reduced adaptive capacity Slow-onset climate change impacts have also had cascading and compounding effects.",
             "Extreme events are a fundamental part of how we experience weather and climate."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change is increasing the frequency and intensity of these sudden and slow-onset disasters, among them, hydrological changes in major river basins where 1.5 billion people live .",
             "While extreme events are not new, the intensity and frequency of extreme events are stacking, leading to additional increase in poverty or vulnerability in some regions, exacerbated by COVID-19, and up against existing development pathways leading to significant impact on economic losses globally .",
             "Multiple lines of evidence indicate that climate change is already contributing to more intense and more frequent extreme events across North America.",
             "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts.",
             "In a changing climate, people frequently ask whether extreme events are generally becoming more severe or more frequent, and whether an actual extreme event was caused by climate change."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts.",
+            "With increasing global warming, compound, low likelihood, or unprecedented extremes such as the European dry and hot summer of 2018 or the extreme rainfall following storm Desmond in the UK in 2015, become more frequent (AR6 WGI Cross-Chapter Box 11.2).",
+            "Concurrent heatwaves and droughts have become more frequent, and this trend will continue with higher global warming (high confidence).",
+            "Concurrent extreme events at different locations, but possibly affecting similar sectors (eg, critical crop-producing areas for global food supply) in different regions, will become more frequent with increasing global warming, in particular above 2°C of global warming (high confidence).",
+            "This report shows that past and future climate changes and extreme weather events can be substantial on local and regional scales Although the evolution of global climate trends emerges as the net result of regional phenomena, average or aggregate estimates often do not reflect the intensity, variability and complexity of regional climate changes ."
         ]
     },
     "There has been a big decrease in extreme weather events.": {
@@ -676,12 +931,19 @@
             "In contrast, V. Espinoza et al suggest that the number of atmospheric river events is projected to slightly decrease globally.",
             "Northern Hemisphere spring snow cover extent has been decreasing since 1978 ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Extreme cold events are projected to decrease in severity Total precipitation is projected to increase across the northern half of North America .",
             "In the wake of extreme weather events .",
             "Decrease of rainfall occurrences resulted from decreases in large convective events in the core of the rainy season , that modulate interannual variability of the WAfriM Wetter conditions of the WAfriM prevailed later from the mid-to-late 1990s, although the positive trend in precipitation started since the late 1980s .",
             "Because really extreme events occur rarely was three to ten times more likely as the result of climate change.",
             "Cold days and cold extremes are projected to decrease under all emission scenarios with the strongest decreases associated with low mitigation ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Decrease of rainfall occurrences resulted from decreases in large convective events in the core of the rainy season , that modulate interannual variability of the WAfriM Wetter conditions of the WAfriM prevailed later from the mid-to-late 1990s, although the positive trend in precipitation started since the late 1980s .",
+            "Extreme cold events are projected to decrease in severity Total precipitation is projected to increase across the northern half of North America .",
+            "In China, the total number of days that have either a thunderstorm or hail have decreased by about 50% from 1961 to 2010, and the reduction in these severe weather occurrences correlates strongly with the weakening of the East Asian summer monsoon .",
+            "For example, in California decreases in precipitation frequency are projected as a result of fewer non-atmospheric river storms, while the projected increase in heavy and extreme precipitation events are almost entirely a result of increased atmospheric river activity .",
+            "Although some ingredients that are favourable for severe thunderstorms have increased over the years, others have not; thus, overall, changes in the frequency of environments favourable for severe thunderstorms have not been statistically significant."
         ]
     },
     "The debate on climate change intensifies as more extreme weather events are reported globally.": {
@@ -693,12 +955,19 @@
             "In recent years, the growing visibility of current climate impacts has resulted in a stronger focus on understanding and managing such risk across time scales, rather than just for the longer-term future.",
             "The majority of the climate science community has reached consensus that mean global temperature has increased and human activity is a major cause , setting the context for public policy action."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change not only poses a profound challenge to sustainable development, it is inexorably linked to it.",
             "Climate change can cause significant impacts and as a result can impose considerable adaptation costs on countries and people.",
             "Climate change has become a major factor of increasing uncertainty.",
             "The impacts of climate change are anticipated to increase unless appropriate mitigation and adaptation interventions are prioritised .",
             "The knowledge and awareness of climate change as a threat have been increasing since AR5 due to the increasing frequency and magnitude of extreme weather events in the region, information available and climate justice activism (high confidence)."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "This report shows that past and future climate changes and extreme weather events can be substantial on local and regional scales Although the evolution of global climate trends emerges as the net result of regional phenomena, average or aggregate estimates often do not reflect the intensity, variability and complexity of regional climate changes .",
+            "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts.",
+            "With increasing global warming, some compound events with low likelihood in past and current climates will become more frequent, and there is a higher chance of occurrence of historically unprecedented events and surprises (high confidence).",
+            "Concurrent extreme events at different locations, but possibly affecting similar sectors (eg, critical crop-producing areas for global food supply) in different regions, will become more frequent with increasing global warming, in particular above 2°C of global warming (high confidence).",
+            "Multiple lines of evidence indicate that climate change is already contributing to more intense and more frequent extreme events across North America."
         ]
     },
     "All the climate science is junk science, global climate, global temperature doesn't mean anything": {
@@ -710,12 +979,17 @@
             "Despite expert scientific consensus on anthropogenic climate change, there is polarisation and an ongoing debate over the reality of anthropogenic climate change in the public and policy domains, with attendant risks to society .",
             "The majority of the climate science community has reached consensus that mean global temperature has increased and human activity is a major cause , setting the context for public policy action."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "The majority of the climate science community has reached consensus that mean global temperature has increased and human activity is a major cause , setting the context for public policy action.",
             "The global mean surface temperature change, or ‘global warming level’ .",
             "However, all climate models exhibit biases of different degrees and types, and the practice of ‘tuning’ parameter values in models to make their outputs match variables such as historical warming trajectories has generated concern throughout their history .",
             "Yet, the added value of higher resolution global climate models is not systematic and needs careful assessment .",
             "This occurs despite increasing consensus among journalists regarding the basic scientific understanding of climate change Accurate transference of the climate science has been undermined significantly by climate change counter-movements, particularly in the USA in both legacy and new/social media environments through misinformation , including about the causes and consequences of climate change ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "The majority of the climate science community has reached consensus that mean global temperature has increased and human activity is a major cause , setting the context for public policy action.",
+            "This occurs despite increasing consensus among journalists regarding the basic scientific understanding of climate change Accurate transference of the climate science has been undermined significantly by climate change counter-movements, particularly in the USA in both legacy and new/social media environments through misinformation , including about the causes and consequences of climate change .",
+            "Trust in experts, institutions and environmental groups is also important Rhetoric and misinformation on climate change and the deliberate undermining of science have contributed to misperceptions of the scientific consensus, uncertainty, disregarded risk and urgency, and dissent ."
         ]
     },
     "Dairy is a prime cause of climate change": {
@@ -727,12 +1001,19 @@
             "Evidence to date suggests that climate change has negative impacts on the stability of food supply over the medium to long term, thereby affecting food stability .",
             "Furthermore, decreasing consumption of animal products could contribute to SDG 3.4 by reducing the risk of non-communicable diseases Taken together, climate changes will reduce crop yields, increase food insecurity and influence nutrition and mortality ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change may have an impact on conflict by affecting food security .",
             "Climate change will reduce crop yields, increase food insecurity, and negatively influence nutrition and mortality .",
             "Evidence to date suggests that climate change has negative impacts on the stability of food supply over the medium to long term, thereby affecting food stability .",
             "Climate change already affects all dimensions of food security, namely availability, access, utilisation and stability, by disrupting food production, quality, storage, transport and retail.",
             "Climate change will negatively affect the provisioning of social benefits in many of the world’s grasslands and Asia ; altering traditional food, resource and medicine sharing mechanisms in West Africa ; and the limited ability of current livestock systems to satisfy societies’ demand for CES in Northwest Europe ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Heat and humidity affect livestock, such as dairy cows and goats, directly exposed in open barns and outdoors , and cold-adapted husbandry , nutrition, behaviour and welfare , performance and product quality .",
+            "Recent stagnation in dairy production in West Africa and China may be associated with increased periods of high daily temperatures .",
+            "Although agriculture in parts of North America has become more sensitive to climate over the last 50 years, livestock have helped to moderate this effect, being less sensitive to increasing temperatures than some specialised crop systems .",
+            "Climate change will negatively affect the provisioning of social benefits in many of the world’s grasslands and Asia ; altering traditional food, resource and medicine sharing mechanisms in West Africa ; and the limited ability of current livestock systems to satisfy societies’ demand for CES in Northwest Europe .",
+            "Climate change may have an impact on conflict by affecting food security ."
         ]
     },
     "There is no climate crisis that kids need to be worryied about the climate will change like it always has because of the sun.": {
@@ -744,12 +1025,19 @@
             "Despite expert scientific consensus on anthropogenic climate change, there is polarisation and an ongoing debate over the reality of anthropogenic climate change in the public and policy domains, with attendant risks to society .",
             "Climate change poses risks to peace ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change poses risks to peace .",
             "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts.",
             "Climate change has become a major factor of increasing uncertainty.",
             "There is emerging evidence across Europe that young people may be experiencing anxiety about climate change, although it is unclear how widespread or severe this is .",
             "Children are particularly vulnerable to climate change impacts."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "There is emerging evidence across Europe that young people may be experiencing anxiety about climate change, although it is unclear how widespread or severe this is .",
+            "Children born in 2020, under a 1.5°C-compatible scenario will be exposed to 4–6 times more heatwaves in their lifetimes compared to people born in 1960; this exposure increases to 7–9 times more heatwaves at GWL 2.4°C The number of dangerous heat days .",
+            "Children born in 2020, under a 1.5°C-compatible scenario will be exposed to 3–5 times more heatwaves in their lifetimes compared to people born in 1960; this exposure increases to 4–9 times more heatwaves at GWL 2.4°C .",
+            "Children born in 2020, under a 1.5°C-compatible scenario will be exposed to 4–6 times more heatwaves in their lifetimes compared to people born in 1960; this exposure increases to 9–10 times more heatwaves for emission reduction pledges, limiting global warming to 2.4°C .",
+            "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts."
         ]
     },
     "Every prediction made by climate scientists was a bust. ": {
@@ -761,12 +1049,19 @@
             "Overall, there is high confidence that some regional future climate changes are not well-characterized by multi-model mean and spread.",
             "There is no model consensus for a systematic change in intensity of ENSO sea surface temperature variability over the 21st century in any of the SSP scenarios assessed (medium confidence)."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Typically, future climate projections do not consider plausible eruption scenarios and their mitigating effects on greenhouse warming demonstrates a future drier Indian monsoon relative to conditions in which volcanic eruptions are not considered, although the effects of GHG warming dominate beyond the mid-term.",
             "Yet anthropogenic global climate change was of little or no consequence in the 1930s.",
             "A key issue addressed in this Report is whether climate models are adequate or ‘fit’ for purposes of interest, that is, whether they can be used to successfully answer particular research questions, especially about the causes of recent climate change and the future evolution of climate .",
             "In summary, there is high confidence that climate change has had negative impacts on hydro and thermal power production globally due to droughts, changes in the seasonality of river flows, and increasing ambient water temperatures.",
             "Studies utilising the nexus approach to climate change in different places show considerably different results."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "There is a lack of studies projecting future impacts of climate change on the cryosphere, water resources, hazards, risks and disasters on natural and human systems.",
+            "The growing interest in longer-term climate forecasts .",
+            "Typically, future climate projections do not consider plausible eruption scenarios and their mitigating effects on greenhouse warming demonstrates a future drier Indian monsoon relative to conditions in which volcanic eruptions are not considered, although the effects of GHG warming dominate beyond the mid-term.",
+            "High-end scenarios (like RCP8.5) can be very useful to explore high-end risks of climate change but are not typical ‘business-as-usual’ projections and should therefore not be presented as such.",
+            "There is no model consensus for a systematic change in intensity of ENSO sea surface temperature variability over the 21st century in any of the SSP scenarios assessed (medium confidence)."
         ]
     },
     "Climate change is fake and stupid.": {
@@ -778,12 +1073,19 @@
             "However, perceptions show common misconceptions about the causes of climate change, which has implications for climate action , highlighting the importance of climate change literacy.",
             "Trust in experts, institutions and environmental groups is also important Rhetoric and misinformation on climate change and the deliberate undermining of science have contributed to misperceptions of the scientific consensus, uncertainty, disregarded risk and urgency, and dissent ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change poses risks to peace .",
             "Representations of climate change can also emerge as critiques and resistances that reveal that climate-change-labelled politics or interventions have posed even greater risks or do not address poverty issues .",
             "In the USA, analyses of television network news show that climate change receives minimal attention, is most often framed in a political context, and largely fails to link extreme weather events to climate change using appropriate probability framing .",
             "The science on climate change, its impacts and the opportunities to mitigate is continuously being updated.",
             "Lack of trust in scientific consensus on climate change may actually originate from opposition by US conservatives to the perceived advocacy for different climate-change policy approaches that challenge their world views ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "This occurs despite increasing consensus among journalists regarding the basic scientific understanding of climate change Accurate transference of the climate science has been undermined significantly by climate change counter-movements, particularly in the USA in both legacy and new/social media environments through misinformation , including about the causes and consequences of climate change .",
+            "Trust in experts, institutions and environmental groups is also important Rhetoric and misinformation on climate change and the deliberate undermining of science have contributed to misperceptions of the scientific consensus, uncertainty, disregarded risk and urgency, and dissent .",
+            "Together with the proliferation of suspicions of ‘fake news’ and ‘post-truth’, some traditional and social media contents have fuelled polarisation and partisan divides on climate change in many countries , which can further deter development of new and ambitious climate policy .",
+            "Fear-inducing representations of climate change may inhibit action when they make people feel helpless .",
+            "Vested economic and political interests have organised and financed misinformation and ‘contrarian’ climate-change communication ."
         ]
     },
     "Wake up buddy. Climate change is a hoax. Always had been always will be": {
@@ -795,12 +1097,19 @@
             "The science on climate change, its impacts and the opportunities to mitigate is continuously being updated.",
             "The majority of the climate science community has reached consensus that mean global temperature has increased and human activity is a major cause , setting the context for public policy action."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change poses risks to peace .",
             "Climate change not only poses a profound challenge to sustainable development, it is inexorably linked to it.",
             "Climate change has become a major factor of increasing uncertainty.",
             "The science on climate change, its impacts and the opportunities to mitigate is continuously being updated.",
             "Since AR5, climate change information produced in climate service contexts has increased significantly due to scientific, technological advancements and growing user demand (very high confidence)."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "This occurs despite increasing consensus among journalists regarding the basic scientific understanding of climate change Accurate transference of the climate science has been undermined significantly by climate change counter-movements, particularly in the USA in both legacy and new/social media environments through misinformation , including about the causes and consequences of climate change .",
+            "Widespread and rapid changes in the atmosphere, ocean, cryosphere and biosphere have occurred has warmed since the 1970s and extremely likely that human influence is the main driver.",
+            "Anthropogenic climate change is unequivocal and ongoing.",
+            "Climate change not only poses a profound challenge to sustainable development, it is inexorably linked to it.",
+            "Together with the proliferation of suspicions of ‘fake news’ and ‘post-truth’, some traditional and social media contents have fuelled polarisation and partisan divides on climate change in many countries , which can further deter development of new and ambitious climate policy ."
         ]
     },
     "Several climate-focused organizations say faster, more violent wildfires and other natural disasters are sparking investor interest in betting on how to adapt to inevitable climate change.": {
@@ -812,12 +1121,19 @@
             "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts.",
             "Increased wildfire under continued climate change increases the probability of human exposure to fire and risks to public health (medium evidence, high agreement )."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change should increase the risk and exposure to damage from flood , sea level rise and more frequent wildfires .",
             "Climate change is expected to increase wildfire risk in the region , although earlier estimates of burnt area have been reduced in the most recent assessments to approx.",
             "Climate change is not the sole cause of the increase in forest fire severity .",
             "Climate change is increasing the frequency and intensity of these sudden and slow-onset disasters, among them, hydrological changes in major river basins where 1.5 billion people live .",
             "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts.",
+            "A warmer and longer growing season will increase vulnerability to fires, although fires can be attributed both to climate warming and to other human and natural influences.",
+            "Climate change has added to these stressors: warming temperature leads to more extreme weather conditions that are conducive to increasingly severe wildfires.",
+            "Fire weather conditions (compound hot, dry and windy events) have become more probable in some regions (medium confidence) and there is high confidence that they will become more frequent in some regions at higher levels of global warming.",
+            "Climate change should increase the risk and exposure to damage from flood , sea level rise and more frequent wildfires ."
         ]
     },
     "wildfires and floods, a direct result of CLIMATE CHANGE": {
@@ -829,12 +1145,19 @@
             "Climate change is not the sole cause of the increase in forest fire severity .",
             "The global increases in temperature from anthropogenic climate change have increased aridity and drought, lengthening the fire weather season ."
         ],
-        "top_5_reranked": [
+        "reranked_RoBERTa-FEVER": [
             "Climate change is identified as a major driver of increases in burned areas in the Western USA .",
             "Climate change is not the sole cause of the increase in forest fire severity .",
             "Climate change has contributed to increases in the fire weather season or the probability of fire weather conditions in the Amazon , Australia , Canada , central Asia , East Africa and North America .",
             "Climate change should increase the risk and exposure to damage from flood , sea level rise and more frequent wildfires .",
             "Climate change is causing these droughts to become more frequent and severe MTEs show a range of direct responses to various forms of water deficit, but have also been affected by increasing fire activity linked to drought , and interactions between drought or extreme weather and fire affecting post-fire ecosystem recovery ."
+        ],
+        "reranked_ClimateBert-f-cf-ipcc": [
+            "Recent studies conclude that climate change can increase the severity and intensity of crises or even trigger disasters, particularly floods, storms, forest and wildfires, and droughts.",
+            "Extreme events such as heatwaves, droughts, floods, storms and fires have caused deaths and injuries and reduced adaptive capacity Slow-onset climate change impacts have also had cascading and compounding effects.",
+            "The area of projected increases in burned area and fire frequency due solely to continued climate change is higher for the world as a whole than the area of projected decreases Wildfire risks to people include death and destruction of their homes, respiratory illnesses from smoke , post-fire flooding from areas exposed by vegetation loss and degraded water quality due to increased sediment flow and the chemical precursors of carcinogenic trihalomethanes when water is later chlorinated for drinking .",
+            "Climate change should increase the risk and exposure to damage from flood , sea level rise and more frequent wildfires .",
+            "The combination of high temperatures, drought and extreme winds, potentially coupled with insufficient preparedness and adaptation, may amplify the damage of wildfires in peri-urban environments Extreme heat and drought causes shrinking and swelling of clays, threatening the stability of small houses in peri-urban environments , with damage costs of 0.9–1 billion EUR during the 2003 heatwave ."
         ]
     }
 }
